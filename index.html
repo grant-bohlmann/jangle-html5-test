@@ -41,9 +41,6 @@
                 margin: 0px;
                 padding: 0px;
                 border: 0px;
-                width: 100vw !important;
-                height: 100dvh !important;
-                object-fit: contain;
             }
             :-webkit-full-screen #canvas {
                 width: 100%;
@@ -108,7 +105,7 @@
             
 
             <!-- Create the canvas element the game draws to -->
-            <canvas id="canvas" width="720" height="1280">
+            <canvas id="canvas" width="720" height="1280" style="display: block; margin: 0 auto;">
                 
                 <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
