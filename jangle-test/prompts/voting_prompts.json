@@ -1,0 +1,2507 @@
+[
+    {
+        "id": 1,
+        "text": "Everyone vote: Who's most likely to drunk text their ex tonight? That player must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 2,
+        "text": "Point at the person most likely to start drama in the group chat. They [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 3,
+        "text": "Who would survive the longest in a zombie apocalypse? Everyone votes. The winner chooses someone to [Penalty, 5].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 4,
+        "text": "Vote: Who has the most embarrassing search history? Most votes must let [Player A] take a look or [Penalty, max].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 5,
+        "text": "Everyone point at who they think is the worst driver here. Most fingers pointed at you [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 6,
+        "text": "Most likely to fall asleep during sex? Vote now. Loser must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 7,
+        "text": "Point at someone who's definitely lied about their body count. If they admit it, everyone else must [Penalty, 4]. If they deny it, they [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 8,
+        "text": "Who's most likely to become a millionaire? Vote. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 9,
+        "text": "Most likely to have a secret OnlyFans? Everyone votes. Most votes must [Penalty, 5].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 10,
+        "text": "Point at the person who's most likely to cry at a commercial. They [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 11,
+        "text": "Vote: Who would be the first to die in a horror movie? That player must [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 12,
+        "text": "Most likely to have stalked someone on social media this week? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 13,
+        "text": "Who's the biggest lightweight here? Everyone votes. Winner (or loser?) must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 14,
+        "text": "Point at someone who's definitely faked an orgasm. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 15,
+        "text": "Most likely to get kicked out of a library? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 16,
+        "text": "Who would win in a dance-off, [Player A] or [Player B]? Everyone votes. Loser must [Penalty, 3], winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 17,
+        "text": "Vote: Who has the dirtiest mind at this table? They [Penalty, 3].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 18,
+        "text": "Point at the person most likely to eat food off the floor. They [Penalty, 2].",
+        "tags": ["Silly"]
+    },
+    {
+        "id": 19,
+        "text": "Most likely to have a threesome in the next year? Everyone votes. Most votes must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 20,
+        "text": "Who's most likely to become famous? Vote now. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 21,
+        "text": "Point at someone who's probably never had morning wood explained to them. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 22,
+        "text": "Vote: Who would be the best parent? Winner must [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 23,
+        "text": "Most likely to ghost someone after a hookup? Point at them. Most fingers [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 24,
+        "text": "Who has the worst taste in romantic partners? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 25,
+        "text": "Point at the person most likely to accidentally like an old Instagram post while stalking. They [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 26,
+        "text": "Most likely to get arrested at a protest? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 27,
+        "text": "Vote: Who would survive the longest on a deserted island? Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 28,
+        "text": "Point at someone who's definitely sent nudes to the wrong person. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 29,
+        "text": "Who's most likely to have a sex tape leak? Everyone votes. Most votes must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 30,
+        "text": "Most likely to cry during their wedding? Vote now. That player must [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 31,
+        "text": "Point at the biggest simp in the group. They [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 32,
+        "text": "Vote: Who has the most dating app matches? Lucky you... [Penalty, 4].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 33,
+        "text": "Point at the person most likely to join a cult? Most fingers [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 34,
+        "text": "Who would be the worst roommate? Everyone votes. Loser must [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 35,
+        "text": "Point at someone who's probably into some weird shit in bed. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 36,
+        "text": "Most likely to pee in the shower? Vote. Most votes [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 37,
+        "text": "Vote: Who gives the best advice? Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 38,
+        "text": "Point at the person most likely to have fake moaned. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 39,
+        "text": "Who's most likely to become a stripper? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 40,
+        "text": "Most likely to have a criminal record in 10 years? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 41,
+        "text": "Point at someone who's definitely screenshotted a conversation to send to someone else. They [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 42,
+        "text": "Vote: Who would win The Hunger Games? Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 43,
+        "text": "Most likely to have hooked up with someone in the group? Point at them. Most fingers [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 44,
+        "text": "Who has the messiest room right now? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 45,
+        "text": "Point at the person most likely to get catfished. They [Penalty, 2].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 46,
+        "text": "Most likely to cheat on their partner? Vote. Most votes must [Penalty, max].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 47,
+        "text": "Vote: Who's the most likely to become a Karen? Loser must [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 48,
+        "text": "Point at someone who's 100% looked at porn today. They must come clean or [Penalty, 5].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 49,
+        "text": "Who would be the best at lying to the police? Everyone votes. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 50,
+        "text": "Most likely to have a sugar daddy or sugar mama? Vote now. The sugar baby must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 51,
+        "text": "Point at the person who probably can't unhook a bra with one hand. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 52,
+        "text": "Vote: Who's the biggest gossip? That player must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 53,
+        "text": "Most likely to end up on Jerry Springer? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 54,
+        "text": "Who would survive the longest without their phone? Everyone votes. They choose someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 55,
+        "text": "Point at someone who's definitely had a sex dream about someone here. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 56,
+        "text": "Most likely to die from doing something stupid? Vote. Most votes [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 57,
+        "text": "Vote: Who's the most secretly freaky? They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 58,
+        "text": "Point at the person most likely to have watched their partner's ex on social media. They [Penalty, 2].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 59,
+        "text": "Who has the weirdest fetish? Everyone votes. That player must [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 60,
+        "text": "Most likely to get banned from a nightclub? Vote now. Most votes = [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 61,
+        "text": "Point at someone who's probably never made their partner finish. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 62,
+        "text": "Vote: Who would be the best stripper? Winner chooses someone to [Penalty, 5].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 63,
+        "text": "Most likely to have herpes? Point at them. Yikes... [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 64,
+        "text": "Who's most likely to get roofied at a bar? Everyone votes. That player must [Penalty, 3]. BE CAREFUL.",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 65,
+        "text": "Point at the person most likely to lie about their age on dating apps. They [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 66,
+        "text": "Most likely to be a secret furry? Vote. Most votes must expose their 'fursona' or [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 67,
+        "text": "Vote: Who's the most dramatic? Drama king/queen must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 68,
+        "text": "Point at someone who's definitely faked being sick to get out of plans. They [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 69,
+        "text": "Who would be the first to betray the group for money? Everyone votes. Most votes [Penalty, 4].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 70,
+        "text": "Most likely to have a public meltdown? Vote now. That player must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 71,
+        "text": "Point at the person who's probably the loudest in bed. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 72,
+        "text": "Vote: Who has the most embarrassing tattoo? They must [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 73,
+        "text": "Most likely to have shoplifted as a kid? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 74,
+        "text": "Who's the biggest mama's boy or daddy's girl? Everyone votes. Loser must [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 75,
+        "text": "Point at someone who's probably slept with someone for something other than attraction. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 76,
+        "text": "Most likely to become a politician? Vote. The elected official chooses someone to [Penalty, max].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 77,
+        "text": "Vote: Who would survive the longest in prison? Winner chooses someone to [Penalty, 5].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 78,
+        "text": "Point at the person most likely to have a secret Tinder while in a relationship. They [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 79,
+        "text": "Who has sent the most risky text tonight? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 80,
+        "text": "Most likely to marry for money? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 81,
+        "text": "Point at someone who's definitely pretended to know a song they didn't know. They [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 82,
+        "text": "Vote: Who's the most likely to slide into someone's DMs tonight? They [Penalty, 3].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 83,
+        "text": "Most likely to have a foot fetish? Point at them with your feet. Winner [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 84,
+        "text": "Who would be the worst at keeping a secret? Everyone votes. The snitch must [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 85,
+        "text": "Point at the person most likely to have masturbated to someone in this room. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 86,
+        "text": "Most likely to get scammed by a Nigerian prince email? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 87,
+        "text": "Vote: Who's most likely to get into a bar fight? Winner chooses the least likely to back them to [Penalty, 5].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 88,
+        "text": "Point at someone who has lied about their height on their dating profile. They [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 89,
+        "text": "Who has the most unhinged camera roll? Everyone votes. Winner chooses two people to [Penalty, 2].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 90,
+        "text": "Most likely to have a sex dungeon one day? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 91,
+        "text": "Point at the person who's definitely double-texted someone who left them on read. They [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 92,
+        "text": "Vote: Who would make the best drug dealer? Winner chooses someone to [Penalty, 4].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 93,
+        "text": "Most likely to have a secret Instagram account? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 94,
+        "text": "Who's the biggest attention seeker? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 95,
+        "text": "Point at someone who's probably into choking. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 96,
+        "text": "Most likely to have a midlife crisis at 25? Vote. Most votes [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 97,
+        "text": "Vote: Who gives off virgin energy? Loser picks someone to [Penalty, 3].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 98,
+        "text": "Point at the person most likely to have cried after sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 99,
+        "text": "Who would be the first to sell out their friends? Everyone votes. Most votes [Penalty, 4].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 100,
+        "text": "Most likely to have an STD right now? Vote now. That player must [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 101,
+        "text": "Point at someone who's definitely looked through their partner's phone without permission. They [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 102,
+        "text": "Vote: Who's the most likely to be secretly broke? Winner chooses someone to [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 103,
+        "text": "Most likely to have nudes leaked? Point at them. Most fingers [Penalty, 4]. If it has happened, double it.",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 104,
+        "text": "Who would be the best at manipulating people? Everyone votes. The master manipulator must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 105,
+        "text": "Point at the person most likely to have peed in a pool this summer. They [Penalty, 2].",
+        "tags": ["Silly", "Degen"]
+    },
+    {
+        "id": 106,
+        "text": "Most likely to get pregnant or get someone pregnant by accident? Vote. Most votes [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 107,
+        "text": "Vote: Who's the most fake? That player must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 108,
+        "text": "Point at someone who's probably had sex in a public place. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 109,
+        "text": "Who has the worst spending habits? Everyone votes. They choose someone to [Penalty, 5].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 110,
+        "text": "Most likely to become a crazy cat person? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 111,
+        "text": "Point at the person who's most likely to have tried to slide into a celebrity's DMs. They [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 112,
+        "text": "Vote: Who would be the worst boss? Loser must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 113,
+        "text": "Most likely to have Googled their own name? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 114,
+        "text": "Who's most likely to cheat on a test? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 115,
+        "text": "Point at someone who's definitely had morning wood at an awkward time. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 116,
+        "text": "Most likely to have a reality TV show about their life? Vote. Most votes [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 117,
+        "text": "Vote: Who's the most likely to become an influencer? Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 118,
+        "text": "Point at the person most likely to have used someone for sex. They [Penalty, 5].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 119,
+        "text": "Who would lose in a roast battle? Everyone votes. The burnt player must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 120,
+        "text": "Most likely to end up on a true crime podcast? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Silly"]
+    },
+    {
+        "id": 121,
+        "text": "Point at someone who's probably faked an illness to get attention. They [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 122,
+        "text": "Vote: Who's the most likely to have a secret love child? That player must [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 123,
+        "text": "Most likely to have eaten ass? Everyone votes. The human bidet must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 124,
+        "text": "Who gives off serial killer vibes? Everyone votes. Winner chooses someone to [Penalty, 5].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 125,
+        "text": "Point at the person most likely to have tried to finger themselves. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 126,
+        "text": "Most likely to get married in Vegas drunk? Vote. Most votes [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 127,
+        "text": "Vote: Who's the most judgmental? The Judgy Judge of Judgment Town must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 128,
+        "text": "Point at someone who's definitely had a threesome or wants one. Winner picks two partners to [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 129,
+        "text": "Who has the worst memory? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 130,
+        "text": "Most likely to have sent a nude to the wrong person? Vote now. Most votes [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 131,
+        "text": "Point at the person who's probably the most submissive in bed. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 132,
+        "text": "Vote: Who would be the first to die in an apocalypse? Winner chooses someone to [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 133,
+        "text": "Most likely to have a sex tape on their phone? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 134,
+        "text": "Who's the most likely to ghost all their friends and move to another country? Everyone votes. The ghost must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 135,
+        "text": "Point at someone who's definitely judged someone for their kinks. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 136,
+        "text": "Most likely to have a one-night stand tonight? Vote. Most votes [Penalty, 1].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 137,
+        "text": "Vote: Who's the biggest procrastinator? That player must [Penalty, 2] at the end of the game. If they forget, they must [Penalty, max].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 138,
+        "text": "Point at the person most likely to have tried calling an ex while drunk. They [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 139,
+        "text": "Who would be the best at gaslighting someone? Everyone votes. Most votes gaslights someone to [Penalty, 5] instead.",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 140,
+        "text": "Most likely to have a secret Reddit account where they post weird shit? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Degen", "Silly"]
+    },
+    {
+        "id": 141,
+        "text": "Point at someone who's probably into bondage. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 142,
+        "text": "Vote: Who's most likely to end up on Maury? Loser must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 143,
+        "text": "Most likely to have lied about finishing? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 144,
+        "text": "Who has the most embarrassing drunk story? Everyone votes. Winner picks someone to [Penalty, 5].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 145,
+        "text": "Point at the person most likely to have had their nudes on their phone hacked. They [Penalty, 2].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 146,
+        "text": "Most likely to become a cougar or silver fox? Vote. Most votes [Penalty, 2].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 147,
+        "text": "Vote: Who's the worst at texting back? They must [Penalty, max].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 148,
+        "text": "Point at someone who's definitely watched porn with someone in the same room. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 149,
+        "text": "Who would be the first to betray their morals for fame? Everyone votes. The soul seller must [Penalty, 4].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 150,
+        "text": "Most likely to have hooked up with a coworker? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 151,
+        "text": "Point at the person who's probably the most dominant in bed. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 152,
+        "text": "Vote: Who's most likely to catfish someone online? That player must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 153,
+        "text": "Most likely to have been to a strip club? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 154,
+        "text": "Who's the most likely to lie about their body count? Everyone votes. The liar must [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 155,
+        "text": "Point at someone who's definitely stalked an ex's new partner on social media. They [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 156,
+        "text": "Most likely to have a panic attack in public? Vote. Most votes chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 157,
+        "text": "Vote: Who would survive the longest without alcohol? They must [Penalty, 3]. Lucky you.",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 158,
+        "text": "Point at the person most likely to have paid for sex or nudes. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 159,
+        "text": "Who has the worst dance moves? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 160,
+        "text": "Most likely to have tried anal? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 161,
+        "text": "Point at someone who's probably into roleplay. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 162,
+        "text": "Vote: Who's the biggest control freak? Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 163,
+        "text": "Most likely to have slept with someone significantly older or younger? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 164,
+        "text": "Who would be the worst person to be stuck on an elevator with? Everyone votes. Loser must [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 165,
+        "text": "Point at the person most likely to have maxed out a credit card. They [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 166,
+        "text": "Most likely to join the mile high club? Vote. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 167,
+        "text": "Vote: Who's most likely to have a secret gambling addiction? That player must [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 168,
+        "text": "Point at someone who's definitely peed in the shower while someone else was in the bathroom. They [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 169,
+        "text": "Who has the best ass? Everyone votes. Winner chooses someone two players to [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 170,
+        "text": "Most likely to have road rage? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 171,
+        "text": "Point at the person who's probably faked a phone call to get out of an awkward conversation. They [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 172,
+        "text": "Vote: Who would be the first to snitch? Loser must [Penalty, 4].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 173,
+        "text": "Most likely to have a sex playlist? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 174,
+        "text": "Who's most likely to become a hermit? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 175,
+        "text": "Point at someone who's definitely had sex with someone they weren't attracted to. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 176,
+        "text": "Most likely to have a secret Snapchat? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 177,
+        "text": "Vote: Who gives off the most bisexual energy? Winner chooses two people to [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 178,
+        "text": "Point at the person most likely to have kissed their friend's crush or ex. They [Penalty, 3].",
+        "tags": ["Degen", "Spicy"]
+    },
+    {
+        "id": 179,
+        "text": "Who would be the best wingman? Everyone votes. Winner must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 180,
+        "text": "Most likely to have daddy or mommy issues? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 181,
+        "text": "Point at someone who's probably into dirty talk. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 182,
+        "text": "Vote: Who's the most likely to be a cam girl or cam guy? That player must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 183,
+        "text": "Most likely to have horrible credit? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 184,
+        "text": "Who would be the most fun to party with? Everyone votes. Winner chooses as many people as they want to [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 185,
+        "text": "Vote on who is more likely to say “I love you” too soon, [Player A] or [Player B]. Loser must [Penalty, 3].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 186,
+        "text": "Most likely to die alone? Vote. Most votes [Penalty, 1].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 187,
+        "text": "Vote: Who's most likely to have sent a dirty text to the wrong person? Loser must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 188,
+        "text": "Point at someone who's definitely pretended to like something to fit in. They [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 189,
+        "text": "Who has the dirtiest search history? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 190,
+        "text": "Most likely to get an STD this year? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 191,
+        "text": "Point at the person who's probably had a wet dream about someone here. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 192,
+        "text": "Vote: Who's the biggest people pleaser? Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 193,
+        "text": "Most likely to have lied to their parents about where they were? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 194,
+        "text": "Who would win in a drinking contest? Everyone votes. The champion must [Penalty, 5].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 195,
+        "text": "Point at someone who's definitely looked at porn in a public place. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 196,
+        "text": "Most likely to have a tramp stamp? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 197,
+        "text": "Vote: Who's the worst at handling their alcohol? The lightweight must [Penalty, 2] and choose someone to [Penalty, 4].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 198,
+        "text": "Point at the person most likely to have tried edibles and freaked out. They [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 199,
+        "text": "Who has the best body? Everyone votes. Winner chooses someone to [Penalty, 6].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 200,
+        "text": "Most likely to have hooked up with their roommate? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 201,
+        "text": "Point at someone who's probably into spanking. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 202,
+        "text": "Vote: Who would be the first to join a pyramid scheme? Loser must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 203,
+        "text": "Most likely to run away screaming if they saw a spider? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 204,
+        "text": "Who's most likely to go viral for something embarrassing? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 205,
+        "text": "Point at the person most likely to have faked being busy to avoid someone. They [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 206,
+        "text": "Most likely to have done drugs at work or school? Vote. Most votes [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 207,
+        "text": "Vote: Who has the most annoying laugh? The cackler chooses someone to [Penalty, 4].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 208,
+        "text": "Point at someone who's definitely had sex in their parents' house. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 209,
+        "text": "Who can have the best stripper name? Everyone votes. Loser must [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 210,
+        "text": "Most likely to have a sugar baby? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 211,
+        "text": "Point at the person who's probably watched their own sex tape. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 212,
+        "text": "Vote: Who's most likely to get fired from their job? That player must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 213,
+        "text": "Most likely to have hooked up in a car? Point at them. Most fingers [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 214,
+        "text": "Who gives off main character energy? Everyone votes. Winner chooses someone to [Penalty, 5].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 215,
+        "text": "Point at someone who's definitely blamed their fart on someone else. They [Penalty, 2].",
+        "tags": ["Silly", "Degen"]
+    },
+    {
+        "id": 216,
+        "text": "Most likely to become a gym rat? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 217,
+        "text": "Vote: Who's the most two-faced? Loser must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 218,
+        "text": "Point at the person most likely to have sexted during class or work. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 219,
+        "text": "Who would be the worst at keeping a straight face during a lie? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 220,
+        "text": "Most likely to have tried to join an orgy? Vote now. Most votes [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 221,
+        "text": "Point at someone who's probably into watching. They must watch as everybody else has to [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 222,
+        "text": "Vote: Who has the worst music taste? Loser must [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 223,
+        "text": "Most likely to have stolen something from a store? Point at them. The thief must [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 224,
+        "text": "Who's most likely to end up in rehab? Everyone votes. Loser must [Penalty, 4].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 225,
+        "text": "Point at the person most likely to have given or received head in a risky place. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 226,
+        "text": "Most likely to become a wine mom or craft beer dad? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 227,
+        "text": "Vote: Who's the most passive aggressive? That player must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 228,
+        "text": "Point at someone who's definitely had a friend with benefits situation go wrong. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 229,
+        "text": "Who would be the best at flirting? Everyone votes. The flirt chooses someone to [Penalty, 5].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 230,
+        "text": "Most likely to have used a fake ID? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 231,
+        "text": "Point at the person who's probably into hair pulling. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 232,
+        "text": "Vote: Who's most likely to cry during a movie? Loser must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 233,
+        "text": "Most likely to have gotten with someone just for the story? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 234,
+        "text": "Who has the most unique voice? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 235,
+        "text": "Point at someone who's definitely Googled symptoms and convinced themselves they were dying. They [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 236,
+        "text": "Most likely to accidentally date an AI? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 237,
+        "text": "Vote: Who's the most bougie? Winner chooses someone to [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 238,
+        "text": "Point at the person most likely to have had sex with someone whose name they didn't remember. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 239,
+        "text": "Who would be the last person you'd want to be in a horror movie with? Everyone votes. Loser must [Penalty, 3].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 240,
+        "text": "Most likely to have sent a risky Snapchat? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 241,
+        "text": "Point at someone who's probably into being called daddy or mommy. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 242,
+        "text": "Vote: Who's most likely to start an argument over nothing? That player must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 243,
+        "text": "Most likely to have hooked up with a friend's sibling? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 244,
+        "text": "Who has the best smile? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 245,
+        "text": "Point at the person most likely to have cried during sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 246,
+        "text": "Most likely to become a standup comedian? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 247,
+        "text": "Vote: Who's most likely to slide into their crush's best friend's DMs for info? They must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 248,
+        "text": "Point at someone who's definitely had sex on the first date. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 249,
+        "text": "Who would be the worst at poker? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 250,
+        "text": "Most likely to have a foot pic on their phone? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 251,
+        "text": "Point at the person who's probably gotten off to someone in this room. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 252,
+        "text": "Vote: Who gives off the most chaotic energy? Winner chooses as many people as they want to [Penalty, 4].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 253,
+        "text": "Most likely to have peed in the ocean? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 254,
+        "text": "Who's most likely to get cancelled? Everyone votes. Loser must [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 255,
+        "text": "Point at someone who's definitely masturbated in a weird place. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 256,
+        "text": "Most likely to have glasses kink? Vote. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 257,
+        "text": "Vote: Who's the biggest hypocrite? That player must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 258,
+        "text": "Point at the person most likely to have tried to get with someone in a relationship. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 259,
+        "text": "Who would be the best at lying to get out of trouble? Everyone votes. The liar must [Penalty, 5].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 260,
+        "text": "Most likely to have watched hentai? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 261,
+        "text": "Point at someone who's probably into biting. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 262,
+        "text": "Vote: Who would look the most awkward holding a baby? Loser must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 263,
+        "text": "Most likely to have hooked up with multiple people in one night? Point at them. Most fingers [Penalty, 4].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 264,
+        "text": "Who has the worst fashion sense? Everyone votes. That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 265,
+        "text": "Point at the person most likely to have been walked in on during sex or masturbation. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 266,
+        "text": "Most likely to become a TikTok star? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 267,
+        "text": "Vote: Who's the biggest flake? The flaker must [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 268,
+        "text": "Point at the person least likely to try anal. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 269,
+        "text": "Who would be the most fun to go on vacation with? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 270,
+        "text": "Most likely to have been in handcuffs (not the cop kind)? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 271,
+        "text": "Point at the person who's probably the kinkiest. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 272,
+        "text": "Vote: Who's most likely to have a mental breakdown over something small? That player must [Penalty, 1].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 273,
+        "text": "Most likely to have hooked up in a bathroom? Point at them. The Loo Lover must [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 274,
+        "text": "Who gives off trust fund baby vibes? Everyone votes. They can choose someone to [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 275,
+        "text": "Point at someone who's definitely recorded themselves having sex. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 276,
+        "text": "Most likely to fake an accent to seem interesting? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 277,
+        "text": "Vote: Who's most likely to get plastic surgery? Loser must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 278,
+        "text": "Point at the person most likely to have had a pregnancy scare. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 279,
+        "text": "Who would be the best at keeping a secret? Everyone votes. That player chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 280,
+        "text": "Most likely to have tried sexting and immediately regretted it? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 281,
+        "text": "Point at someone who's probably into voyeurism. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 282,
+        "text": "Vote: Who's the biggest cheapskate? They choose two people to [Penalty, 1].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 283,
+        "text": "Most likely to have hooked up with a celebrity or tried to? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 284,
+        "text": "Who has the best eyes? Everyone votes. Winner must [Penalty, 2].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 285,
+        "text": "Point at the person most likely to have been in a friends-with-benefits situation that got messy. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 286,
+        "text": "Most likely to become a YouTuber? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 287,
+        "text": "Vote: Who's most likely to get lost in their own neighborhood? That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 288,
+        "text": "Point at someone who's definitely had sex while other people were in the house. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 289,
+        "text": "Vote on who is more likely to spill a drink on someone, [Player A] or [Player B]. Loser must [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 290,
+        "text": "Most likely to have tried pegging or want to try it? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 291,
+        "text": "Point at the person who's probably into exhibitionism. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 292,
+        "text": "Vote: Who's the most gullible? Loser must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 293,
+        "text": "Who has the most degenerate parents? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 294,
+        "text": "Who has the most infectious laugh? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 295,
+        "text": "Point at someone who's definitely had sex on a balcony. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 296,
+        "text": "Most likely to become a famous artist? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 297,
+        "text": "Vote: Who's most likely to catfish someone? That player must [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 298,
+        "text": "Point at the person most likely to have lied about their sexual experience. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 299,
+        "text": "Who would be the worst at keeping a poker face? Everyone votes. Loser must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 300,
+        "text": "Most likely to have a BDSM dungeon someday? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 301,
+        "text": "Point at someone who's probably has the most morning sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 302,
+        "text": "Vote: Who's the biggest attention whore? They choose themselves to [Penalty, 5].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 303,
+        "text": "Most likely to have hooked up at a party? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 304,
+        "text": "Who gives off the most innocent vibes? Everyone votes. That player chooses someone to [Penalty, max].",
+        "tags": ["Party", "Spicy"]
+    },
+    {
+        "id": 305,
+        "text": "Point at the person most likely to have used toys during sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 306,
+        "text": "Most likely to become a therapist? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 307,
+        "text": "Vote: Who's most likely to drunk dial their ex tonight? Loser must [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 308,
+        "text": "Point at someone who's definitely had shower sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 309,
+        "text": "Who would be the best person to go to for relationship advice? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 310,
+        "text": "Most likely to have tried phone sex? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 311,
+        "text": "Point at the person who's probably into rough sex. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 312,
+        "text": "Vote: Who's the most stubborn? That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 313,
+        "text": "Most likely to have hooked up with a stranger? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 314,
+        "text": "Who has the best hair? Everyone votes. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 315,
+        "text": "Point at someone who's definitely had a quickie. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 316,
+        "text": "Most likely to become a teacher? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 317,
+        "text": "Vote: Who's most likely to get kicked out of an Uber? Loser must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 318,
+        "text": "Point at the person most likely to have had sex on a beach. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 319,
+        "text": "Who would be the best drinking game partner? Everyone votes. They must [Penalty, 3] and choose someone to [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 320,
+        "text": "Most likely to have tried sexting someone they shouldn't have? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 321,
+        "text": "Point at someone who's probably into age play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 322,
+        "text": "Vote: Who's the biggest pushover? The pushover must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 323,
+        "text": "Vote on who is more likely to lose their phone at a party, [Player A] or [Player B]. Loser must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 324,
+        "text": "Who gives off player vibes? Everyone votes. Loser must [Penalty, 3].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 325,
+        "text": "Point at the person most likely to have had a one night stand they regretted. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 326,
+        "text": "Most likely to become a life coach? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 327,
+        "text": "Vote: Who's most likely to pass out first tonight? That player must [Penalty, 5].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 328,
+        "text": "Point at someone who's most likely given or received road head. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 329,
+        "text": "Who would win in an eating contest? Everyone votes. Winner chooses someone to [Penalty, 4].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 330,
+        "text": "Most likely to have tried anal and hated it? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 331,
+        "text": "Point at the person who's probably into degradation. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 332,
+        "text": "Vote: Who's the most impatient? They must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 333,
+        "text": "Most likely to have sexted at work? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 334,
+        "text": "Who has the best style? Everyone votes. Winner picks the person with the worst outfit to [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 335,
+        "text": "Point at someone who's definitely tried to have sex drunk and couldn't finish. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 336,
+        "text": "Most likely to become a professional athlete? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 337,
+        "text": "Vote: Who's most likely to throw up tonight? That player must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 338,
+        "text": "Point at the person most likely to have had sex in a pool or hot tub. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 339,
+        "text": "Who would be the best at karaoke? Everyone votes. Winner must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 340,
+        "text": "Most likely to have a praise kink? Vote now. Be a good boy or girl and [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 341,
+        "text": "Point at someone who's probably into being tied up. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 342,
+        "text": "Vote: Who's the most competitive? Winner must [Penalty, 5].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 343,
+        "text": "Most likely to have hooked up with their best friend's ex? Point at them. Most fingers [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 344,
+        "text": "Who gives off responsible adult vibes? Everyone votes. That player chooses someone to [Penalty, 5].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 345,
+        "text": "Point at the person most likely to have had a threesome fantasy. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 346,
+        "text": "Most likely to become an entrepreneur? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 347,
+        "text": "Vote: Who's most likely to lose their phone tonight? Loser must [Penalty, 2].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 348,
+        "text": "Point at someone who's definitely had sex while someone was sleeping in the same room. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 349,
+        "text": "Who would be the most likely to win a talent show? Everyone votes. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 350,
+        "text": "Most likely to have a breeding kink? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 351,
+        "text": "Point at the person who's probably tried edging. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 352,
+        "text": "Vote: Who's the biggest overthinker? That player must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 353,
+        "text": "Vote on who is more likely to break something and lie about it, [Player A] or [Player B]. Loser must [Penalty, 3].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 354,
+        "text": "Who has the best personality? Everyone votes. Winner chooses someone to [Penalty, 5].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 355,
+        "text": "Point at someone who's definitely tried masturbating to someone's social media. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 356,
+        "text": "Most likely to become a chef? Vote. Most votes [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 357,
+        "text": "Vote: Who's most likely to embarrass themselves tonight? Loser must [Penalty, 3].",
+        "tags": ["Party", "Degen"]
+    },
+    {
+        "id": 358,
+        "text": "Point at the person most likely to have had sex outdoors. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 359,
+        "text": "Who would be the best hype person? Everyone votes. That player chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 360,
+        "text": "Most likely to be into furry stuff? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 361,
+        "text": "Point at someone who's probably tried using food during sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 362,
+        "text": "Vote: Who's the most sarcastic? Captain Sarcasm must [Penalty, 4].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 363,
+        "text": "Most likely to have masturbated today? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 364,
+        "text": "Who gives off lawyer vibes? Everyone votes. The lawyer must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 365,
+        "text": "Point at the person most likely to have tried 69. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 366,
+        "text": "Most likely to become a bartender? Vote. Most votes [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 367,
+        "text": "Vote: Who's most likely to get into a fight tonight? That player must [Penalty, 3].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 368,
+        "text": "Point at someone who's definitely had sex in a tent. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 369,
+        "text": "Who would win in a 100m race, [Player A] or [Player B]? Everyone votes. Winner chooses someone to [Penalty, 4].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 370,
+        "text": "Most likely to be into lactation? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 371,
+        "text": "Point at the person who's probably tried orgasm denial. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 372,
+        "text": "Vote: Who's the most forgetful? Loser must [Penalty, 2].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 373,
+        "text": "Most likely to have gotten caught having sex by a parent or roommate? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 374,
+        "text": "Who has the nicest hands? Everyone votes. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 375,
+        "text": "Point at someone who's definitely tried mutual masturbation. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 376,
+        "text": "Most likely to become a firefighter? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 377,
+        "text": "Vote: Who's most likely to hook up with someone here tonight? That player must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 378,
+        "text": "Point at the person most likely to have had car sex during the day. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 379,
+        "text": "Who would be the best travel buddy? Everyone votes. Winner must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 380,
+        "text": "Most likely to have a humiliation kink? Vote now. Most votes = [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 381,
+        "text": "Point at someone who's probably into temperature play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 382,
+        "text": "Vote: Who's the most loyal friend? Winner chooses someone to [Penalty, 5].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 383,
+        "text": "Most likely to have sexted multiple people at once? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 384,
+        "text": "Vote on who is more likely to order the weirdest thing off the menu, [Player A] or [Player B]. Loser must [Penalty, 3].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 385,
+        "text": "Point at the person most likely to have tried face-sitting. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 386,
+        "text": "Most likely to become a nurse? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 387,
+        "text": "Vote: Who's most likely to black out tonight? The degenerate can pick somebody to [Penalty, max] with them.",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 388,
+        "text": "Point at someone who's definitely had sex in a friend's bed. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 389,
+        "text": "Vote on who is more likely to steal someone's fries, [Player A] or [Player B]. The thief must [Penalty, 4].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 390,
+        "text": "Most likely to have tried cock warming? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 391,
+        "text": "Point at the person who's probably into sensory deprivation. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 392,
+        "text": "Vote: Who's the most paranoid? That player must [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 393,
+        "text": "Most likely to have watched porn with their partner? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 394,
+        "text": "Who has the best voice? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 395,
+        "text": "Point at someone who's definitely tried 420 before sex. They [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 396,
+        "text": "Most likely to become a photographer? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 397,
+        "text": "Vote: Who's most likely to hook up with an ex tonight? Loser must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 398,
+        "text": "Point at the person most likely to have had sex in a library or bookstore. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 399,
+        "text": "Who would be the best person to be stranded with? Everyone votes. That player chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 400,
+        "text": "Most likely to have an orgasm denial fantasy? Vote now. Most votes [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 401,
+        "text": "Point at someone who's probably tried wax play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 402,
+        "text": "Vote: Who's the most spontaneous? Winner chooses someone to [Penalty, 1].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 403,
+        "text": "Most likely to have sent nudes while drunk? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 404,
+        "text": "Most likely to talk their way out of a speeding ticket? Everyone votes. The smooth talker chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 405,
+        "text": "Point at the person most likely to have had shower sex fail hilariously. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 406,
+        "text": "Most likely to become a fashion designer? Vote. Most votes must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 407,
+        "text": "Vote: Who's most likely to cry when drunk? That player must [Penalty, 2].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 408,
+        "text": "Point at someone who's definitely had morning after regrets. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 409,
+        "text": "Who would win in a cooking competition? Everyone votes. Winner chooses someone to [Penalty, 1].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 410,
+        "text": "Most likely to have a corruption kink? Vote now. Most votes must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 411,
+        "text": "Point at the person who's probably tried impact play. They must [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 412,
+        "text": "Vote: Who's the most optimistic? The optimist must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 413,
+        "text": "Most likely to have tried sexting an ex? Point at them. Most fingers must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 414,
+        "text": "Who has the most contagious energy? Everyone votes. Winner chooses someone to [Penalty, 1].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 415,
+        "text": "Point at someone who's definitely googled sex positions. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 416,
+        "text": "Most likely to become a musician? Vote. Most votes must [Penalty, 2].",
+        "tags": ["Silly"]
+    },
+    {
+        "id": 417,
+        "text": "Vote: Who's most likely to make a bad decision tonight? That player must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 418,
+        "text": "Point at the person most likely to have had period sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 419,
+        "text": "Who would be the best person to party with? Everyone votes. The party animal must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 420,
+        "text": "Most likely to have an exhibitionist fantasy? Vote now. Most votes must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 421,
+        "text": "Point at someone who's probably tried knife play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 422,
+        "text": "Vote: Who's the most pessimistic? The pessimist chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 423,
+        "text": "Most likely to have masturbated at work or school? Point at them. Most fingers must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 424,
+        "text": "Who gives off CEO vibes? Everyone votes. That player chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 425,
+        "text": "Point at the person most likely to have tried watching themselves in a mirror during sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 426,
+        "text": "Most likely to become an actor? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 427,
+        "text": "Vote: Who's most likely to do something they'll regret? Loser must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 428,
+        "text": "Point at someone who's definitely had sex while high. They [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 429,
+        "text": "Who would win in a video game tournament? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 430,
+        "text": "Most likely to have a voyeur fantasy? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 431,
+        "text": "Point at the person who's probably tried nipple clamps. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 432,
+        "text": "Vote: Who's the most realistic? That player must [Penalty, 1].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 433,
+        "text": "Most likely to have sexted during a meeting or class? Point at them. Most fingers must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 434,
+        "text": "Who has the best laugh? Everyone votes. Winner chooses someone to [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 435,
+        "text": "Point at someone who's definitely used lube. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 436,
+        "text": "Most likely to become a writer? Vote. Most votes [Penalty, 1].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 437,
+        "text": "Vote: Who's most likely to wake up somewhere random? Loser must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 438,
+        "text": "Point at the person most likely to have tried edging their partner. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 439,
+        "text": "Who would be the best at giving massages? Everyone votes. That player chooses someone to [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 440,
+        "text": "Most likely to have a cuckolding fantasy? Vote now. The cuck gets to watch everyone else [Penalty, 1].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 441,
+        "text": "Point at someone who's probably tried a butt plug. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 442,
+        "text": "Vote: Who's the most chill? Winner chooses someone to [Penalty, max].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 443,
+        "text": "Most likely to have read smut or erotica? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 444,
+        "text": "Who gives off genius vibes? Everyone votes. Einstein must [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 445,
+        "text": "Point at the person most likely to have tried using ice during sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 446,
+        "text": "Most likely to become a lawyer? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 447,
+        "text": "Vote: Who's most likely to get kicked out of here? That player must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 448,
+        "text": "Point at someone who's definitely tried role reversal in bed. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 449,
+        "text": "Who would be the worst at giving a toast at a wedding? Everyone votes. That player must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 450,
+        "text": "Most likely to have a gangbang fantasy? Vote now. Most votes [Penalty, 4].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 451,
+        "text": "Point at the person who's probably tried double penetration. They [Penalty, 2]. If they have, double it.",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 452,
+        "text": "Vote: Who's most likely to accidentally reply-all on a company email? Loser must [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 453,
+        "text": "Most likely to have written fanfiction? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 454,
+        "text": "Who has the most attractive voice? Everyone votes. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 455,
+        "text": "Point at someone who's definitely tried using a blindfold during sex. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 456,
+        "text": "Most likely to become a pilot? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 457,
+        "text": "Vote: Who's most likely to text someone they shouldn't tonight? That player must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 458,
+        "text": "Point at the person most likely to have tried fisting. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 459,
+        "text": "Who would survive the longest on a reality dating show? Everyone votes. The reality star picks someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 460,
+        "text": "Most likely to have a forced orgasm kink? Vote now. Most votes is forced to [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 461,
+        "text": "Point at someone who's probably tried rimming. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 462,
+        "text": "Vote: Who would be the worst at assembling IKEA furniture? That player chooses someone to [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 463,
+        "text": "Most likely to have watched porn with their friends? Point at them. Most fingers [Penalty, 3].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 464,
+        "text": "Who gives off therapist vibes? Everyone votes. That player chooses someone to [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 465,
+        "text": "Point at the person most likely to have tried electrostimulation. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 466,
+        "text": "Most likely to become a veterinarian? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 467,
+        "text": "Vote: Who's most likely to get arrested tonight? Loser must [Penalty, 4].",
+        "tags": ["Degen"]
+    },
+    {
+        "id": 468,
+        "text": "Point at someone who's definitely had sex somewhere they could've been caught. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 469,
+        "text": "Who would win in a trivia night? Everyone votes. Winner chooses someone to [Penalty, 1].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 470,
+        "text": "Most likely to have a master/slave fantasy? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 471,
+        "text": "Point at the person who's probably into pet play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 472,
+        "text": "Vote: Who's the most down-to-earth? That player must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 473,
+        "text": "Most likely to have listened to audio porn? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy", "Degen"]
+    },
+    {
+        "id": 474,
+        "text": "Who has the best vibe? Everyone votes. Winner chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 475,
+        "text": "Point at someone who's definitely tried using a cock ring. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 476,
+        "text": "Most likely to become an engineer? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 477,
+        "text": "Vote: Who's most likely to start drama before the night ends? The drama queen must [Penalty, 3].",
+        "tags": ["Degen", "Party"]
+    },
+    {
+        "id": 478,
+        "text": "Point at the person most likely to have tried sensation play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 479,
+        "text": "Who would be the best wedding planner? Everyone votes. That player chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 480,
+        "text": "Most likely to have a free use fantasy? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 481,
+        "text": "Point at someone who's probably tried sounding. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 482,
+        "text": "Vote: Who's the funniest? The class clown chooses someone to [Penalty, 2].",
+        "tags": ["Party", "Silly"]
+    },
+    {
+        "id": 483,
+        "text": "Most likely to have tried mutual oral? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 484,
+        "text": "Who gives off undercover agent vibes? Everyone votes. The secret agent chooses someone to [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 485,
+        "text": "Point at the person most likely to have used a vibrator during sex with a partner. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 486,
+        "text": "Most likely to accidentally set off a fire alarm while cooking? Vote. Most votes [Penalty, 3].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 487,
+        "text": "Vote: Who's most likely to hook up with someone they just met? That player must [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 488,
+        "text": "Point at someone who's definitely tried prostate stimulation. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 489,
+        "text": "Who would win in a spelling bee? Everyone votes. Winner chooses someone to [Penalty, 4].",
+        "tags": ["Silly", "Party"]
+    },
+    {
+        "id": 490,
+        "text": "Most likely to have a somnophilia kink (sex involving someone who is asleep)? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 491,
+        "text": "Point at the person who's probably into chastity play. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 492,
+        "text": "Vote: Who's the most mysterious? Loser must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 493,
+        "text": "Most likely to have tried double-ended toys? Point at them. Most fingers [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 494,
+        "text": "Who has the most interesting life? Everyone votes. Winner chooses someone to [Penalty, 4].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 495,
+        "text": "Point at someone who's definitely tried breath play. They [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 496,
+        "text": "Most likely to become a podcaster? Vote. Most votes [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 497,
+        "text": "Vote: Who's most likely to make out with someone tonight? That player must [Penalty, 3].",
+        "tags": ["Spicy", "Party"]
+    },
+    {
+        "id": 498,
+        "text": "Point at the person most likely to have tried using a strap-on. They [Penalty, 2].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 499,
+        "text": "Who would be the best event coordinator? Everyone votes. Winner must [Penalty, 2].",
+        "tags": ["Party"]
+    },
+    {
+        "id": 500,
+        "text": "Most likely to have a primal play fantasy? Vote now. Most votes [Penalty, 3].",
+        "tags": ["Spicy"]
+    },
+    {
+        "id": 501,
+        "text": "[Player A], rate yourself in bed out of 10. Then the group votes their own rating and [Penalty, 1] for every point they score you lower.",
+        "tags": ["Spicy"]
+    }
+]

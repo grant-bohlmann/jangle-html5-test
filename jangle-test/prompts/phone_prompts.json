@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1000,
+    "text": "[Player A], type 'I need' and let predictive text finish the sentence. If it's embarrassing, [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1001,
+    "text": "Everyone show your screen time from yesterday. Highest screen time among all players must [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1002,
+    "text": "[Player A], let [Player B] send a text to anyone in your contacts. No deleting it for 10 minutes or [Penalty, 5].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1003,
+    "text": "[Player A], show the last photo in your camera roll. If it's a selfie, [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1004,
+    "text": "[Player A], read your most recent text conversation aloud or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1005,
+    "text": "[Player A], search your messages for the word 'sorry'. Read the most recent one or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1006,
+    "text": "[Player A], check your battery percentage. If it's below 20%, everyone else must [Penalty, 2]. If it's above 80%, you must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1007,
+    "text": "[Player A], show everyone your most used emoji. Group votes if it fits your personality. If not, [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1008,
+    "text": "[Player A], call the 5th contact in your phone and put them on speaker. If they don't answer, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1009,
+    "text": "[Player A], show your search history from today. Too clean? Clearly deleted it, [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1010,
+    "text": "[Player A], type 'I secretly' and let autocomplete finish. Read it aloud or [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1011,
+    "text": "[Player A], show the group your oldest photo. Tell the story behind it or [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1012,
+    "text": "[Player A], read the last voice message you received. If you have none, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1013,
+    "text": "Everyone check your phones. First person to find a screenshot of a conversation must explain it or [Penalty, 4].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1014,
+    "text": "[Player A], what's your phone's wallpaper? If it's the default, boring energy, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1015,
+    "text": "[Player A], show the group the last YouTube video you watched. Judgment-free zone... unless it's cringe. Then [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1016,
+    "text": "[Player A], read the oldest email in your inbox. If it's from more than a year ago, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1017,
+    "text": "[Player A], show your most recent Amazon or online shopping order. If it was an impulse buy, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1018,
+    "text": "[Player A], open your notes app and read the most recent note. No context allowed or [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1019,
+    "text": "[Player A], send a voice note to your group chat saying 'I love you all' in the most dramatic way possible. Refuse and [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1020,
+    "text": "[Player A], show everyone your alarm settings. If you have more than 5 alarms, [Penalty, 1] for each extra alarm.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1021,
+    "text": "[Player A], let [Player B] scroll through your camera roll for 10 seconds. They choose a photo for you to explain or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1022,
+    "text": "[Player A], show everyone your most listened to song this month. Everyone who knows it is safe. Everyone else must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1023,
+    "text": "[Player A], type 'Why did I' and let predictive text finish. Read it or [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1024,
+    "text": "[Player A], search your texts for the eggplant emoji. If found, read that message aloud or [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1025,
+    "text": "[Player A], scroll through 10 posts on your TikTok or Instagram For You page. The group votes if your algorithm is questionable. Majority vote means you [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1026,
+    "text": "[Player A], post a story on Instagram or Snapchat of you doing any dance. Refuse and [Penalty, 7].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1027,
+    "text": "Everyone search for 'drunk' in your messages. Whoever has the most results must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1028,
+    "text": "[Player A], read the last DM you received or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1029,
+    "text": "[Player A], show everyone the contact photo for your mom or dad. No photo? [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1030,
+    "text": "[Player A], text your ex 'hey' and show the group or [Penalty, max]. No ex? Everyone else must [Penalty, 1].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1031,
+    "text": "[Player A], show your Spotify Wrapped top artist. If nobody here has heard of them, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1032,
+    "text": "[Player A], what's the weirdest thing you've Googled this week? Show proof or [Penalty, 2].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 1033,
+    "text": "[Player A], let [Player B] change your phone's wallpaper to whatever they want for the rest of the night. Refuse and [Penalty, 5].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1034,
+    "text": "[Player A], call your most recent missed call and explain you butt-dialed them. No callback? [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1035,
+    "text": "[Player A], type 'I'm sorry for' and let predictive text finish. If it makes sense, [Penalty, 1]. If it's chaos, everyone else must [Penalty, 1].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1036,
+    "text": "[Player A], read your bio on any social media platform. If you don't have one, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1037,
+    "text": "[Player A] and [Player B], compare your screen time. Higher screen time must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1038,
+    "text": "Everyone open your last text conversation. Whoever's conversation is with someone in this room must both [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1039,
+    "text": "[Player A], show everyone the last meme you sent. If it doesn't get at least one laugh, [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1040,
+    "text": "[Player A], search your camera roll for 'food'. Show the most unappetizing meal or [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1041,
+    "text": "[Player A], show everyone how many unread texts you have. More than 50? [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1042,
+    "text": "[Player A], play the last song you listened to for 10 seconds. Group rates it 1-10. Under 5 means you [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1043,
+    "text": "[Player A], show the group how many photos are in your camera roll. Divide by 1000 and round up — that's how many you must [Penalty, 10].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1044,
+    "text": "[Player A], show your recently deleted photos folder. If there's something suspicious, [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1045,
+    "text": "Everyone check your most recent text message. Whoever's last text was just one word or emoji must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1046,
+    "text": "[Player A], read the 3rd most recent text you sent. No context. Refuse and [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1047,
+    "text": "[Player A], show everyone your typing style. If you type with one finger, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1048,
+    "text": "[Player A], open your dating app and show your profile. Don't have one? Suspicious, [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1049,
+    "text": "[Player A], FaceTime or video call someone in your contacts. If they answer, say 'wrong number, sorry' and hang up. Don't answer? [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1050,
+    "text": "[Player A], let the group see your 'Favorites' contacts. Explain why each is there or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1051,
+    "text": "[Player A], search for the fire emoji in your texts. Read the most recent message containing it or [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1052,
+    "text": "[Player A], show your Safari or Chrome tabs. More than 20 open? Digital hoarder, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1053,
+    "text": "[Player A], show the group the last thing you copy-pasted. If it's a link, open it and show everyone or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1054,
+    "text": "Everyone check your phones. Whoever has the lowest battery must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1055,
+    "text": "[Player A], type 'Last night I' and complete with autocomplete three times. Read the result or [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 1056,
+    "text": "[Player A], show everyone your 'On This Day' memory from Facebook or iPhone. No memories? Skip, but [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1057,
+    "text": "[Player A], show your most recent Google Maps search. If it's more than 50 miles away, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1058,
+    "text": "[Player A], check your spam folder and read the subject line of the first email. Don't check spam? [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1059,
+    "text": "[Player A], show everyone your app library. If you have any games, open one and let [Player B] play for 30 seconds.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1060,
+    "text": "[Player A], read your last sent email out loud. Work email? Even better. Refuse and [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1061,
+    "text": "Everyone show your most used app this week. If it's social media, [Penalty, 2]. If it's a dating app, [Penalty, max].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1062,
+    "text": "[Player A], look at your 'People' album. Show the person with the most photos. Explain why or [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1063,
+    "text": "[Player A], search your texts for 'love you'. Read the most recent one or [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1064,
+    "text": "Everyone check your text conversations. Whoever has the longest gap between messages in their most recent chat must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1065,
+    "text": "[Player A], show your recently used stickers or GIFs. If there's anything embarrassing, [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1066,
+    "text": "[Player A], go to your blocked contacts list. If anyone asks why someone is blocked, you must explain or [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1067,
+    "text": "[Player A], show everyone your ringtone. If it's the default, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1068,
+    "text": "[Player A], show your Snapchat best friends list. If anyone in this room is on it, you both must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1069,
+    "text": "[Player A], let [Player B] type anything into your search bar and hit search. You must show the results or [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 1070,
+    "text": "[Player A], show the last notification you received. If it's from someone in this group, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1071,
+    "text": "Everyone open your app library. First person to find a dating app (even deleted) must [Penalty, 2]. Nobody has one? Everyone must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1072,
+    "text": "[Player A], check how many unread voicemails you have. For every 3 unread voicemails, [Penalty, 1]. None? You're responsible, [Penalty, 0].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1073,
+    "text": "[Player A], open your calculator app. Whatever number is in the ones place on the screen, you must [Penalty, 10]. If the calculator is empty, clear and safe.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1074,
+    "text": "[Player A], type 'I wish' and use predictive text to complete the sentence. Read it or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1075,
+    "text": "[Player A], scroll to a random spot in your camera roll. Show that photo and let the group guess what year it's from. Wrong guesses must [Penalty, 1].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1076,
+    "text": "[Player A], find a contact whose name starts with the same letter as yours. Call them and say 'Name twins!' then hang up or [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1077,
+    "text": "Everyone pull up your phones. First person to open a food delivery app and show their last order picks someone to [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1078,
+    "text": "[Player A], text 'omg I can't believe it' to your best friend with no context. Show their panicked response or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1079,
+    "text": "[Player A], show your 'Siri Suggestions' or recent apps. If there's anything embarrassing, [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1080,
+    "text": "[Player A], let [Player B] pick any conversation in your messages. You must read the last 3 messages or [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1081,
+    "text": "[Player A], show your photo burst folder. Pick the most chaotic one and explain it or [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1082,
+    "text": "[Player A], show your Venmo, Cash App, or payment history. Most recent transaction must be explained or [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 1083,
+    "text": "Everyone compare your last screenshot. The most embarrassing one means that person must [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1084,
+    "text": "[Player A], show everyone your AirDrop name. If it's inappropriate, [Penalty, 2]. If it's your name, [Penalty, 1]. If you have an Android, sorry.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1085,
+    "text": "[Player A], let [Player B] look at your saved Instagram posts for 15 seconds. They pick one you must explain or [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1086,
+    "text": "[Player A], show the group your autocorrect fails. Type 'ducking' and if your phone actually suggests it instead of the other word, you're innocent. Otherwise [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1087,
+    "text": "[Player A], show the group the last TikTok or Reel you liked. If it's cringey, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1088,
+    "text": "[Player A], search 'haha' in your messages. Read the funniest one you find or [Penalty, 1].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1089,
+    "text": "[Player A], pull up your podcast history. Read the most recent episode title aloud. If nobody else has listened to that podcast, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1090,
+    "text": "[Player A], show your keyboard's suggested words right now. Use all three in one sentence or [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1091,
+    "text": "Everyone check your Screen Time for social media. Highest time must [Penalty, 2]. Lowest picks someone to [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1092,
+    "text": "[Player A], open your Notes app. Count how many notes you have total. More than 100? Digital hoarder, [Penalty, 2]. Less than 5? Suspiciously organized, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1093,
+    "text": "[Player A], show the group your phone case. No case? Living dangerously, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1094,
+    "text": "[Player A], go to your sent messages. Find the last message with more than 3 exclamation marks. Read it dramatically or [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1095,
+    "text": "[Player A], show your most recent Uber or Lyft ride. If it was a ride of shame location, [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1096,
+    "text": "Everyone, check your phone's health data for steps today. Most steps is safe. Least steps must [Penalty, 2] and walk around the room until the next round.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1097,
+    "text": "[Player A], show your 'Recents' in your phone app. If you have an unsaved number in the last 5 calls, [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1098,
+    "text": "[Player A], send a GIF to the group chat. Group votes — if it's not funny, [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1099,
+    "text": "[Player A], search your texts for 'please'. Read the most desperate one or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1100,
+    "text": "[Player A], show your recently played games on your phone. If there's a guilty pleasure, explain it or [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1101,
+    "text": "[Player A], text someone '👀' with no context. Show the response to the group. No response in 2 minutes? [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1102,
+    "text": "Everyone scroll through their camera roll and show a photo from exactly one year ago today. Best throwback wins. Worst must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1103,
+    "text": "[Player A], show your Twitter/X likes or bookmarks. Something embarrassing? [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1104,
+    "text": "[Player A], search your messages for the peach emoji 🍑. If found, read the context or [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1105,
+    "text": "[Player A], open your reminders. Read the oldest incomplete one or [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1106,
+    "text": "[Player A], let [Player B] AirDrop you anything. You must set it as your wallpaper for an hour or [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1107,
+    "text": "[Player A], search 'hookup' in your texts. If found, read the most recent one or [Penalty, max]. No results? Suspiciously innocent, [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1108,
+    "text": "[Player A], type 'My ex' and let autocomplete finish the thought. Read it or [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1109,
+    "text": "Everyone open your camera app. Anyone whose camera opens to selfie mode must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1110,
+    "text": "[Player A], show the group your weather app's location. If you're tracking anyone else's location, explain or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1111,
+    "text": "[Player A], search 'come over' in your texts. Read the most recent message or [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1112,
+    "text": "[Player A], search for 'lol' in your messages. Read the most sarcastic use of it or [Penalty, 1].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1113,
+    "text": "[Player A], show everyone your LinkedIn profile photo. Cringe professional shot? [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1114,
+    "text": "[Player A], call your mom and tell her you love her on speaker. If she doesn't answer or you refuse, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1115,
+    "text": "[Player A], show your camera roll photos taken between 2-6 AM. Pick the most questionable one to show or [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1116,
+    "text": "[Player A], text 'I need to tell you something' to someone not in this room and show their response. Refuse and [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1117,
+    "text": "[Player A], let [Player B] record a voice memo on your phone saying anything. It stays on your phone for a week or [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1118,
+    "text": "[Player A], show your group chats. If any of them are on Do Not Disturb, [Penalty, 2] for each muted chat.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1119,
+    "text": "[Player A], let everyone see your calendar for this month. If you have more than 3 events this week, social butterfly, [Penalty, 1]. Less than 1? Hermit mode, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1120,
+    "text": "[Player A], show your Uber or Lyft history from the past month. If any rides are between 11 PM - 5 AM, explain them or [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1121,
+    "text": "[Player A], find a contact you've never texted and send them a compliment. Refuse and [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1122,
+    "text": "[Player A], type 'Tonight I want' and let autocomplete do the rest. Share the result or [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1123,
+    "text": "[Player A], show everyone your most recently saved contact. If it's from a bar or club, [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1124,
+    "text": "[Player A], open your banking app and show your current balance. If you have more than $1000, you must buy 'Jangle' premium or [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1125,
+    "text": "Everyone pull out your phones. Last person to successfully open an app must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1126,
+    "text": "[Player A], search 'shouldn't have' in your texts. Read the context or [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1127,
+    "text": "[Player A], show your phone storage breakdown. If 'Photos' is your biggest category, [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1128,
+    "text": "[Player A], search your messages for 'never again'. Read the context or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1129,
+    "text": "[Player A], show your last app downloaded. Explain why you downloaded it or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1130,
+    "text": "[Player A], type 'I can't believe' and use predictive text 5 times. Read the full result or [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1131,
+    "text": "[Player A], search for the word 'suck' in your phone and read out the most recent text. If it's funny, pick someone to [Penalty, 4]. If not, you [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1132,
+    "text": "[Player A], read the subject lines of your last 3 emails aloud. No context. Refuse and [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1133,
+    "text": "[Player A], let [Player B] go live on any of your social media accounts for 10 seconds. Refuse and [Penalty, 6].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1134,
+    "text": "[Player A], open your contacts. For every contact named 'Jacob' or 'Sarah', [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1135,
+    "text": "[Player A], show your 'Focus' or 'Do Not Disturb' schedule. If you don't use it, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1136,
+    "text": "[Player A], text 'Hey, are you awake?' to someone not in this room. Refuse and [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1137,
+    "text": "[Player A], show the group your phone's color theme or display settings. Dark mode? Safe. Light mode? [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1138,
+    "text": "[Player A], open your Snapchat Map and show everyone where your friends are. Stalker vibes? [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1139,
+    "text": "[Player A], show your most played playlist. If it has a sus name, [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1140,
+    "text": "[Player A], type 'I was drunk when' and let autocomplete finish. Share or [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1141,
+    "text": "[Player A], search your photos for screenshots of conversations. Read the most recent one or [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1142,
+    "text": "[Player A], search 'delete this' in your texts. Read what needed deleting or [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1143,
+    "text": "[Player A], let [Player B] pick an emoji. Search for it in your texts and read any message containing it or [Penalty, 2].",
+    "tags": ["Party", "Spicy", "Degen"]
+  },
+  {
+    "id": 1144,
+    "text": "Everyone compare your Instagram follower-to-following ratio. Worst ratio must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1145,
+    "text": "[Player A], show your hidden albums in Photos. If you refuse to open it, [Penalty, max]. If it's empty, [Penalty, 2] for being suspiciously prepared.",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1146,
+    "text": "[Player A], call the first contact that starts with the letter 'J' and put them on speaker. No 'J' contacts or refusal? [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1147,
+    "text": "[Player A], search 'sneaky link' in your texts. If found, explain or [Penalty, max]. No results? Pick someone to [Penalty, 1].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1148,
+    "text": "[Player A], search your texts for 'don't tell anyone'. Read the message or [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1149,
+    "text": "[Player A], show your recently watched shows on a streaming service. Group votes if your taste is questionable. If the majority says yes, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1150,
+    "text": "[Player A], show your Find My Friends or location sharing settings. If you're sharing with anyone sus, [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1151,
+    "text": "Everyone open their phones. The person with the most recent notification wins. Everyone else must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1152,
+    "text": "[Player A], search 'blackout' in your texts. Read the most recent message or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1153,
+    "text": "[Player A], show your muted or archived Instagram DMs. If you have more than 3, explain who they are or [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1154,
+    "text": "[Player A], show your photo editing apps. If you have any photo editing or filter apps, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1155,
+    "text": "[Player A], search your messages for the 😭 emoji. Read the most dramatic context or [Penalty, 1].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1156,
+    "text": "[Player A], show your most recent Music 'Discover' playlist. Play a random song. Under 5 rating from the group means you [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1157,
+    "text": "[Player A], show everyone your current browser bookmarks. Explain the strangest one or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1158,
+    "text": "[Player A], search 'bad decision' in your texts. Read the most entertaining one or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1159,
+    "text": "[Player A], show your 'Hidden' photos album. If you won't show it, [Penalty, max]. If it's empty, [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1160,
+    "text": "[Player A], open your conversation with [Player B] and show the last time you texted them first vs. them texting you first. If the ratio is skewed, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1161,
+    "text": "Everyone show your most recent app notification. Most embarrassing one loses and must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1162,
+    "text": "[Player A], let the group vote on who to text a heart emoji to. You must send it or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1163,
+    "text": "[Player A], show the group your 'Emergency Contacts'. If it's not updated, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1164,
+    "text": "[Player A], search 'naked' in your texts. If found, explain the context or [Penalty, max]. No results? Everyone else must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1165,
+    "text": "[Player A], show your most recently joined Discord server or group chat. Explain it or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1166,
+    "text": "[Player A], let [Player B] pick a filter on your camera. Take a selfie with it and share it with your group chat or [Penalty, max].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1167,
+    "text": "[Player A], search for 'hangover' in your texts. Read the most recent message or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1168,
+    "text": "Everyone check your email. Whoever has the most unread emails must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1169,
+    "text": "Everyone show your Snapchat score. Whoever has the highest score must [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1170,
+    "text": "[Player A], show your phone's search history from Urban Dictionary. Most recent search must be explained or [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1171,
+    "text": "[Player A], show your photo widget on your home screen. If there's something embarrassing in the rotation, [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1172,
+    "text": "[Player A], search your messages for 'I hate'. Read the saltiest one or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1173,
+    "text": "[Player A], show your recently used apps. If a dating app appears in your recent apps, [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1174,
+    "text": "Everyone show your phone's lock screen. Best lock screen wins and picks someone to [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1175,
+    "text": "[Player A], record yourself singing the chorus of the last song you listened to and send it to a friend. Refuse and [Penalty, 6].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 1176,
+    "text": "[Player B], call [Player A] and let it go to voicemail so everyone can hear their greeting. If it's the default, [Player A] must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1177,
+    "text": "[Player A], show your saved posts on Instagram. Let [Player B] scroll for 10 seconds and pick one you must explain or [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1178,
+    "text": "[Player A], search 'ex' in your texts. Count how many different conversations come up. More than 3? [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1179,
+    "text": "[Player A], open your contacts. For every contact named 'Emily' or 'Michael', [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1180,
+    "text": "[Player A], open your contacts. For every contact named 'Josh' or 'Hannah', [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1181,
+    "text": "[Player A], search for '???' in your texts. Read the most confused message or [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1182,
+    "text": "Everyone open Instagram or TikTok. First person to see an ad picks someone to [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1183,
+    "text": "[Player A], show your most questionable playlist name on Spotify or Apple Music. If you have one with a sus title, [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1184,
+    "text": "[Player A], show your Bluetooth connected devices history. If you have more than 5 devices saved, [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1185,
+    "text": "[Player A], show your 'Shared with You' content from friends. Explain the weirdest share or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1186,
+    "text": "[Player A], text 'I had a dream about you last night' to someone not in this room. Refuse and [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1187,
+    "text": "[Player A], show your Instagram following list. Find the first person of the opposite sex and explain why you followed them or [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1188,
+    "text": "[Player A], search 'vodka' or 'tequila' or 'whiskey' in your texts. Read the most recent one or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1189,
+    "text": "[Player A], search 'walk of shame' in your texts. If found, read it or [Penalty, max]. No results? Safe, pick someone to [Penalty, 1].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1190,
+    "text": "Everyone open their email. First person to reply to an email with 'no reply' or 'do not reply' gets to pick someone to [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1191,
+    "text": "[Player A], show the group who you're following on TikTok or Instagram that has 'spicy' content. Group decides if it's valid. Majority vote means [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1192,
+    "text": "[Player A], search 'regret' in your texts. Read the most dramatic result or [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 1193,
+    "text": "[Player A], show the group your recently joined subreddits. Explain the weirdest one or [Penalty, 2]. If you don't have Reddit, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1194,
+    "text": "[Player A], let [Player B] look through your Instagram following list for 10 seconds. They pick one you must explain or [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1195,
+    "text": "[Player A], show your keyboard's word replacements or text shortcuts. If you have any, read them all. If you have none, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1196,
+    "text": "[Player A], show your most recent screenshot that isn't from today. Explain it or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1197,
+    "text": "Everyone search '$' in your texts. Whoever has the highest dollar amount can pick someone to [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1198,
+    "text": "[Player A], show your screen time comparison to last week. If it went up, [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1199,
+    "text": "[Player A], check your incognito or private browsing tabs. If you have any open right now, [Penalty, 3]. If you refuse to show, [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1200,
+    "text": "[Player A], show your YouTube subscriptions. Explain the most niche one or [Penalty, 2]. If you have no subscriptions, [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1201,
+    "text": "[Player A], show your TikTok or Instagram liked videos. Scroll for 10 seconds. If a thirst trap appears, [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1202,
+    "text": "[Player A], show everyone your recently used stickers in iMessage or WhatsApp. Group votes on the sticker you must send without context to someone not in this group. If you refuse, [Penalty, 5].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1203,
+    "text": "[Player A], let [Player B] pick any video in your camera roll. You must play it for the group or [Penalty, max].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1204,
+    "text": "[Player A], show your safari/chrome reading list. If it's empty or full of random articles, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1205,
+    "text": "[Player A], search '😈' in your texts. Read the spiciest message or [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1206,
+    "text": "Everyone turn on your phones at the same time. The slowest person to unlock their phone must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1207,
+    "text": "[Player A], show your Fitness app summary. If your least active day this week was on the weekend, [Penalty, 3].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1208,
+    "text": "[Player A], show your DMs on any social platform. Count how many are from people you've never met in person. For each one, [Penalty, 1]. If there are more than 10, [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1209,
+    "text": "[Player A], show your 'For You' photos on iPhone or Google Photos memories. If anything embarrassing shows up, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1210,
+    "text": "[Player A], show your Find My Friends or location sharing settings. If you're sharing with anyone sus, [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1211,
+    "text": "[Player A], search 'one night stand' in your texts. If found, explain or [Penalty, max]. No results? You're wholesome, pick someone to [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1212,
+    "text": "[Player A], search 'hot' in your texts. Read the spiciest result or [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1213,
+    "text": "[Player A], show your 'Close Friends' list on Instagram. If anyone in this room isn't on it but thinks they should be, [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1214,
+    "text": "Anyone who is charging their phone right now must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1215,
+    "text": "[Player A], type 'I promise' and let autocomplete finish. If it's a broken promise vibe, [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1216,
+    "text": "[Player A], show your voice memos. Play the most recent one or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1217,
+    "text": "[Player A], let [Player B] pick any contact in your phone. You must send them a selfie right now or [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1218,
+    "text": "[Player A], show your dating app matches or conversations. Count how many. More than 3 active convos? Save some for the rest of us, [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1219,
+    "text": "[Player A], search 'miss you' in your texts. If it's wholesome, everybody else must [Penalty, 2]. If it's cringe, [Player A] must [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1220,
+    "text": "[Player A], show your saved WiFi networks. If there's a questionable name, explain it or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1221,
+    "text": "[Player A], show your app limits in Screen Time. If you've exceeded any today, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1222,
+    "text": "[Player A], show screenshots of flirty conversations in your camera roll. If you have any, explain one or [Penalty, max]. If you have none, pick someone to [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1223,
+    "text": "[Player A], check your phone for any 'hidden' or 'secret' vault apps. If you have one, explain what you use it for or [Penalty, 3]. If you refuse to show, [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1224,
+    "text": "[Player A], scroll through your contacts. If you have any with just emojis or nicknames (no real names), explain who they are or [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1225,
+    "text": "[Player A], let [Player B] post anything to your Instagram story. It stays up for 1 hour or [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1226,
+    "text": "[Player A], search 'wyd' in your texts. Show the most recent booty call disguised as 'wyd' or [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 1227,
+    "text": "[Player A], search 'wasted' in your texts. Read the result or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1228,
+    "text": "[Player A], search 'pregame' or 'afterparty' in your texts. Read the wildest plan or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1229,
+    "text": "[Player A], show your top emoji predictions when you open the keyboard. Use 5 of them in one text to someone or [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1230,
+    "text": "[Player A], scroll through 10 posts on your Instagram or TikTok For You page. If a thirst trap shows up, [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1231,
+    "text": "[Player A], show your Venmo or Cash App transaction history. Most questionable payment description must be explained or [Penalty, 3].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 1232,
+    "text": "[Player A], open your Photos app. Find the most random or far away place you have photos from. Explain why you were there or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1233,
+    "text": "[Player A], let [Player B] scroll through your Spotify 'Liked Songs' playlist. They pick a song you must defend or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1234,
+    "text": "[Player A], search 'embarrassing' in your texts. Read the result or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1235,
+    "text": "[Player A], if you have an app with 1000+ unread notifications, [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1236,
+    "text": "[Player A], search 'fuck' in your texts. Show the most aggressive or dramatic use of it or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1237,
+    "text": "Everyone search 'toilet paper' in your texts. Anyone with no results must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1238,
+    "text": "[Player A], type 'I can't stop' and let autocomplete finish. Share or [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1239,
+    "text": "[Player A], open your contacts. For every contact named 'Chris' or 'Madison', [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1240,
+    "text": "[Player A], search 'omw' in your texts. Find a time you said 'omw' but were definitely not on your way. Read it or [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1241,
+    "text": "[Player A], show your most recent Google search on your phone. Group votes if it's weird. If the majority says yes, [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1242,
+    "text": "[Player A], search '🙈' in your texts. Read the most scandalous result or [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1243,
+    "text": "[Player A], check your Snapchat Memories for photos from last weekend. Show the most chaotic one or [Penalty, 2].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 1244,
+    "text": "[Player A], text your crush or partner 'I need to ask you something later' with no follow-up. If you refuse, [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 1245,
+    "text": "Everyone show each other your phone screens for the next 60 seconds. Anyone who receives a notification loses and must [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1246,
+    "text": "[Player A], search 'shots' in your texts. Count how many different conversations mention taking shots. More than 5? Certified party animal, [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 1247,
+    "text": "[Player A], show everyone your contact card (your own contact info). If it's not filled out, [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 1248,
+    "text": "[Player A], let [Player B] unfollow one person on any of your social media accounts. Refuse and [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1249,
+    "text": "[Player A], search 'mistake' in your texts. Read the juiciest one or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 1250,
+    "text": "[Player A], open your camera roll right now and show the 7th photo. Explain it to the group or [Penalty, max].",
+    "tags": ["Party", "Spicy", "Degen"]
+  },
+  {
+    "id": 1251,
+    "text": "[Player A], read your last sent text message out loud to the group. Refuse and [Penalty, max].",
+    "tags": ["Party", "Spicy", "Degen"]
+  }
+]

@@ -1,0 +1,1948 @@
+[
+  {
+    "id": 6000,
+    "text": "[Player A], confess the most embarrassing thing you've ever done while drunk. If you refuse, [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6001,
+    "text": "[Player A], name the last person you talked trash about behind their back. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6002,
+    "text": "[Player A], what's the pettiest thing you've ever done to get back at someone? Spill it or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6003,
+    "text": "[Player A], confess the most desperate thing you've ever done to impress someone. No confession means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6004,
+    "text": "Storytime: [Player A], describe the worst date you've ever been on in one sentence. Skip it and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6005,
+    "text": "[Player A], what's something you did as a kid that your parents never found out about? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6006,
+    "text": "[Player A], what's the biggest lie you've ever told to get out of plans? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6007,
+    "text": "Hot confession: [Player A], reveal a secret you've been keeping from someone in this room. Staying quiet costs [Penalty, max].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6008,
+    "text": "[Player A], confess the most questionable hookup decision you've ever made. Details or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6009,
+    "text": "[Player A], have you ever cheated on a test, partner, or diet? Fess up to whichever one's juiciest or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6010,
+    "text": "[Player A], what's the most money you've wasted on something completely stupid? Confess or [Penalty, 2].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6011,
+    "text": "[Player A], what's the most embarrassing phase you went through growing up? Share or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6012,
+    "text": "[Player A], confess the sketchiest thing you've ever done while blacked out, or at least what you were told you did. No story means [Penalty, 4].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6013,
+    "text": "[Player A], what's the most embarrassing thing you've ever texted or sent to the wrong person? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6014,
+    "text": "[Player A], tell the group about a time you got caught doing something you definitely shouldn't have been doing. Silence costs [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6015,
+    "text": "[Player A], what is the funniest excuse you've ever used to get out of work or school? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6016,
+    "text": "[Player A], confess the most embarrassing thing you've ever posted on social media and then deleted. No story means [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6017,
+    "text": "[Player A], tell the group about the funniest thing you've ever been caught doing by a family member. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6018,
+    "text": "[Player A], what is the most embarrassing thing you have ever done to get someone's attention romantically? Spill it or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6019,
+    "text": "[Player A] and [Player B], confess one thing about the other person that you've never said out loud. Both must share or both [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Couples"
+    ]
+  },
+  {
+    "id": 6020,
+    "text": "[Player A], what is the most shameless thing you've ever done for free food or free drinks? Confess or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6021,
+    "text": "[Player A], name the worst advice you've ever given someone that actually backfired. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6022,
+    "text": "[Player A], what is the most childish thing you still do as an adult? Fess up or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6023,
+    "text": "[Player A], confess the funniest thing you've ever done to impress a bartender. No story and you [Penalty, 2].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6024,
+    "text": "[Player A], confess something you've done at a party that the host definitely doesn't know about. No story and you [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6025,
+    "text": "[Player A], confess the most ridiculous reason you've ever ended or almost ended a relationship. Refuse and [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6026,
+    "text": "[Player A], have you ever kissed someone in this room? Confess or [Penalty, max].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6027,
+    "text": "[Player A], what is the most embarrassing thing you've ever said during sex? Tell the group or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6028,
+    "text": "[Player A], confess the funniest thing that has gone wrong mid-hookup. No story means [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6029,
+    "text": "[Player A], what is the most desperate move you've ever made when you knew a relationship was falling apart? Confess or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6030,
+    "text": "[Player A], confess the funniest thing you've ever done while blackout drunk that someone else had to fill you in on later. Refuse and [Penalty, 4].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6031,
+    "text": "[Player A], what is the most questionable substance or combination of things you've consumed at a party? Spill it or [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6032,
+    "text": "[Player A], tell the group about the most embarrassing thing a family member has done in public that you witnessed. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6033,
+    "text": "[Player A], what is the biggest thing you've ever kept secret from your best friend? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6034,
+    "text": "[Player A], confess the most embarrassing thing you've ever done to stalk someone on social media. No story and you [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6035,
+    "text": "[Player A], what is the most embarrassing thing you've ever done at a work or school event? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6036,
+    "text": "[Player A], confess the most embarrassing crush you've ever had. No details and you [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6037,
+    "text": "[Player A], have you ever talked badly about a friend to protect yourself from blame? Confess or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6038,
+    "text": "[Player A], what is the most passive aggressive thing you've ever done instead of just saying what you meant? Spill it or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6039,
+    "text": "[Player A], confess the most embarrassing thing that has ever happened to you in front of a complete stranger. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6040,
+    "text": "[Player A], what is something you lied to your parents about in the last year? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6041,
+    "text": "[Player A], have you ever ghosted someone you actually liked? Tell the group why or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6042,
+    "text": "[Player A], confess the most embarrassing thing you've ever overshared on a first date or first meeting. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6043,
+    "text": "[Player A], what is the pettiest argument you've ever had with a sibling or close family member? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6044,
+    "text": "[Player A], confess something you've never complimented someone on, even though you've thought it many times. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6045,
+    "text": "[Player A], what is the most embarrassing reason you've ever been jealous of someone? Confess or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6046,
+    "text": "[Player A], describe the most humiliating thing that has ever happened to you in public, no one's fault but your own. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6047,
+    "text": "[Player A], what is the worst fight you've ever started over something completely trivial? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6048,
+    "text": "[Player A], confess the most irresponsible thing you've ever done on a work night. No story and you [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6049,
+    "text": "[Player A], what is the most out of character thing you've ever done just to impress a group of people you barely knew? Confess or [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6050,
+    "text": "[Player A], have you ever developed feelings for someone who was already in a relationship? Tell the group the story or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6051,
+    "text": "[Player A], confess the most embarrassing thing you've ever done to get someone's number. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6052,
+    "text": "[Player A] and [Player B], each confess one thing you've judged the other person for but never said. Both share or both [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6053,
+    "text": "[Player A], what is the most you've ever spent on a night out without meaning to? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6054,
+    "text": "[Player A], confess the most self-destructive thing you've ever done just because you were bored. No answer means [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6055,
+    "text": "[Player A], what is the most embarrassing thing that happened to you at your first job? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6056,
+    "text": "[Player A], confess the worst gift you've ever given someone, knowing full well it was terrible. No story means [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6057,
+    "text": "[Player A], have you ever borrowed money from someone and not paid it back? Confess who and how much, or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6058,
+    "text": "[Player A], what is the worst thing that has ever gone wrong on a road trip or travel day? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6059,
+    "text": "[Player A], confess an embarrassing habit or hobby you had that you hoped no one would find out about. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6060,
+    "text": "[Player A], what is something genuinely uncomfortable you know to be true about yourself but rarely admit? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6061,
+    "text": "[Player A], confess the most ridiculous thing you've ever done to avoid a conversation or situation you didn't want to be in. No story and you [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6062,
+    "text": "[Player A], what is something you have secretly judged other people for, knowing you've done the same thing? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6063,
+    "text": "[Player A], confess the most embarrassing thing you did when you first moved out on your own. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6064,
+    "text": "[Player A], what is a belief or opinion you held strongly in the past that you are now embarrassed by? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6065,
+    "text": "[Player A], confess the most regrettable thing you've ever gotten or almost gotten permanently on your body. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6066,
+    "text": "[Player A], have you ever taken something that wasn't yours and never returned it? Confess what it was or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6067,
+    "text": "[Player A], what is something you've said to someone in anger that you genuinely regret? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6068,
+    "text": "[Player A], confess the most attention-seeking thing you've ever done at a bar or party to get noticed. No story means [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6069,
+    "text": "[Player A], what is the worst decision you've ever made because you were too proud to admit you were wrong? Confess or [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6070,
+    "text": "[Player A], have you ever lied about your body count? Tell the group the real number or [Penalty, max].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6071,
+    "text": "[Player A], confess the most embarrassing thing you've done to impress someone you were attracted to that completely backfired. Refuse and [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6072,
+    "text": "[Player A], what is the most reckless thing you've ever agreed to on a dare or a bet while out? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6073,
+    "text": "[Player A], confess the pettiest thing you've ever done after losing an argument. No story and you [Penalty, 2].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6074,
+    "text": "[Player A], what is the most embarrassing thing you've ever done after having one too many, that you wish you could take back? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6075,
+    "text": "[Player A], what is the most embarrassing thing on your dating app profile, past or present? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6076,
+    "text": "[Player A], confess a fear you have that you think would surprise everyone in this room. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6077,
+    "text": "[Player A], what is a secret talent or skill you have that you've never shown this group? Confess and demonstrate or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6078,
+    "text": "[Player A], confess a white lie you've been telling for so long that it would be weird to correct now. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6079,
+    "text": "[Player A], what is something you deeply regret never doing, even though you had every chance? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6080,
+    "text": "[Player A], confess something you have never told a doctor, dentist, or therapist that you probably should have. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6081,
+    "text": "[Player A], what is your most embarrassing musical guilty pleasure? Tell the group the artist or playlist or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6082,
+    "text": "[Player A], confess a secret opinion you have about someone's relationship that you've kept to yourself. No story and you [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6083,
+    "text": "[Player A], what is something you project total confidence about but are actually completely winging? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6084,
+    "text": "[Player A], confess something you have only ever admitted to yourself and never said out loud to anyone. Refuse and [Penalty, 4].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6085,
+    "text": "[Player A], what is the most embarrassing thing about your morning routine that you would not want people to know? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6086,
+    "text": "[Player A], do you have a secret social media account, finsta, or alt that this group doesn't know about? Confess or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6087,
+    "text": "[Player A], what is a comfort lie you regularly tell yourself to feel better? No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6088,
+    "text": "[Player A], what is a rule you consistently break that you think everyone else follows? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6089,
+    "text": "[Player A], what is the most embarrassing thing you've ever done when you thought no one was watching but someone was? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6090,
+    "text": "[Player A], confess a time you completely played the victim in a situation where you were just as much at fault. No story means [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6091,
+    "text": "[Player A], what is the most unhinged thing you've ever done over text after one too many? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6092,
+    "text": "[Player A], confess something you've genuinely lied about on a resume or application. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6093,
+    "text": "[Player A], what is something you have outright stolen from a workplace, hotel, or venue and felt zero guilt about? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6094,
+    "text": "[Player A], confess the most reckless thing you've ever done to impress or keep the attention of someone you were seeing. No story and you [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6095,
+    "text": "[Player A], confess the most embarrassing item of clothing you've ever bought and actually worn in public. No story means [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6096,
+    "text": "[Player A], what is a fitness goal or healthy habit you've told people you do but have never actually stuck to? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6097,
+    "text": "[Player A], confess a double standard you hold that you know is completely hypocritical. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6098,
+    "text": "[Player A], what is a pet peeve you openly complain about that you are just as guilty of yourself? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6099,
+    "text": "[Player A], confess a superstition you genuinely believe in but would be embarrassed to admit to most people. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6100,
+    "text": "[Player A], what is a secret obsession or hobby you would not want most people to know about? Confess or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6101,
+    "text": "[Player A], have you ever let someone else take the blame for something you did? Tell the group what happened or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6102,
+    "text": "[Player A], confess a movie, book, or show that everyone considers a classic that you have never actually seen or read. No answer means [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6103,
+    "text": "[Player A], what is the most embarrassing autocorrect or voice-to-text fail you've ever sent without catching? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6104,
+    "text": "[Player A], confess a concept, word, or thing you pretended to understand for years before finally looking it up. No story and you [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6105,
+    "text": "[Player A], what is the most embarrassing thing you have ever misread about a social situation? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6106,
+    "text": "[Player A], confess a role you play in your friend group that you are not proud of. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6107,
+    "text": "[Player A], what is something you have faked enjoyment of for so long that people now associate it with you? Confess or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6108,
+    "text": "[Player A], confess the most embarrassing thing you were ever caught doing by a stranger in public. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6109,
+    "text": "[Player A], what is a weird food combination you genuinely love that you know is objectively wrong? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6110,
+    "text": "[Player A], confess the most ridiculous thing you have ever been genuinely afraid of. No story means [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6111,
+    "text": "[Player A], what is a diet or eating habit you've bragged about that you quietly gave up on? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6112,
+    "text": "[Player A], confess the most embarrassing thing you have ever done or said at a funeral or serious event. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6113,
+    "text": "[Player A], what is a hidden opinion you have about someone in this room that you have never said to their face? Tell the group or [Penalty, max].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6114,
+    "text": "[Player A], confess the most office gossip you've ever spread or been the source of at a workplace. No story and you [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6115,
+    "text": "[Player A], what is something you have an irrational ongoing competition about in your own head that the other person has no idea about? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6116,
+    "text": "[Player A], confess a hairstyle or look you voluntarily chose that you now cringe at. No answer means [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6117,
+    "text": "[Player A], what is the most degenerate thing you have ever done on a vacation or trip away? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6118,
+    "text": "[Player A], confess the most illegal thing you have ever done that you have never been caught for. Refuse and [Penalty, 5].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6119,
+    "text": "[Player A], have you ever been kicked out of a bar, venue, or event? Tell the story or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6120,
+    "text": "[Player A], confess the most irresponsible thing you've ever done at work while hungover. No story means [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6121,
+    "text": "[Player A], have you ever used a fake ID or lied about your age to get into somewhere or get something? Confess or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6122,
+    "text": "[Player A], what is the most reckless group decision you have personally led that ended badly for everyone? Tell the group or [Penalty, 5].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6123,
+    "text": "[Player A], confess the worst decision you ever made the morning after a big night out when you were still in rough shape. Refuse and [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6124,
+    "text": "[Player A], have you ever driven, cycled, or operated something you absolutely should not have after a night out? Confess or [Penalty, max].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6125,
+    "text": "[Player A], what is something you got away with at a party or event by blaming it on someone else? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6126,
+    "text": "[Player A], confess the funniest lie you have ever told to get out of consequences for something stupid you did. No story and you [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6127,
+    "text": "[Player A], do you have a secret attraction to anyone in this room? Come clean or [Penalty, max].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6128,
+    "text": "[Player A], confess a romantic fantasy you've had about someone that would genuinely surprise everyone here. Refuse and [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6129,
+    "text": "[Player A], have you ever flirted your way out of trouble, a ticket, or a fee? Tell the group what happened or [Penalty, 2].",
+    "tags": [
+      "Spicy",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6130,
+    "text": "[Player A], what is something you did for an ex that you would be embarrassed to admit to anyone in this room? Confess or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6131,
+    "text": "[Player A], confess the most intimate or embarrassing thing you have ever said to a complete stranger. No story means [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6132,
+    "text": "[Player A], what is the biggest green flag or red flag you ignored in a relationship because you were too into the person? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6133,
+    "text": "[Player A], have you ever said \"I love you\" first and regretted it? Tell the story or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6134,
+    "text": "[Player A], what is something you have lied to a partner or ex about that you have never corrected? Confess or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6135,
+    "text": "[Player A], who is the hardest person you have ever had to get over, and what made it so bad? Tell the group or [Penalty, 5].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6136,
+    "text": "[Player A], confess the most embarrassing thing you have ever overheard someone say about you. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6137,
+    "text": "[Player A], have you ever accidentally sent a photo, voice note, or message to someone it was absolutely not meant for? Tell the group what it was or [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6138,
+    "text": "[Player A], confess a recurring habit or ritual you have that you know is completely irrational. No story and you [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6139,
+    "text": "[Player A], what is the most embarrassing animal encounter you have ever had? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6140,
+    "text": "[Player A], confess the most embarrassing costume or outfit you ever wore to an event that you genuinely thought was a good idea. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6141,
+    "text": "[Player A], what is a name you have completely forgotten that you absolutely should remember? Tell the group the context or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6142,
+    "text": "[Player A], confess the most embarrassing thing you've ever been caught looking up on your phone. No answer means [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6143,
+    "text": "[Player A], what is something you have been doing wrong your entire life and only recently found out? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6144,
+    "text": "[Player A], confess the most embarrassing thing you have ever done to try to look busy or important when you were doing absolutely nothing. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6145,
+    "text": "[Player A], what is the most embarrassing nickname you have ever had and how did you get it? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6146,
+    "text": "[Player A], confess the last time you cried over something you would never admit to anyone. No story and you [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6147,
+    "text": "[Player A], what is your most embarrassing guilty pleasure TV show, YouTube channel, or type of content? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6148,
+    "text": "[Player A], confess the worst cooking or baking disaster you have ever caused. No story means [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6149,
+    "text": "[Player A], what is the most awkward compliment you have ever given someone that did not land the way you intended? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6150,
+    "text": "[Player A], confess the most uncomfortable compliment you have ever received and who it was from. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6151,
+    "text": "[Player A], have you ever sat through an entire meal pretending to enjoy food that you thought was terrible? Tell the story or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6152,
+    "text": "[Player A], confess something you accidentally overshared with a boss, teacher, or authority figure. No story and you [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6153,
+    "text": "[Player A], what is the most embarrassing thing you do when you are completely alone at home that no one knows about? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6154,
+    "text": "[Player A], confess the worst first impression you have ever made on someone. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6155,
+    "text": "[Player A], have you ever pretended to be someone different or used a fake name with a stranger? Tell the group what happened or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6156,
+    "text": "[Player A], what is the most embarrassing thing that has ever happened to you in a job interview? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6157,
+    "text": "[Player A], confess the most accidentally offensive thing you have ever said to someone. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6158,
+    "text": "[Player A], what is the biggest overreaction you have ever had to something completely minor? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6159,
+    "text": "[Player A], confess the biggest misunderstanding you have ever caused by something you said or did. No answer means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6160,
+    "text": "[Player A], what is something you have put off for so long that it has now become a much bigger problem than it needed to be? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6161,
+    "text": "[Player A], confess something you have always pretended to be good at but are actually quite bad at. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6162,
+    "text": "[Player A], what is the most embarrassing thing you have ever searched on your phone that you would not want anyone to see? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6163,
+    "text": "[Player A], confess the worst apology you have ever given someone. Was it even a real apology? No story and you [Penalty, 1].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6164,
+    "text": "[Player A], what is something you only do when you are completely alone that you would never let anyone see? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6165,
+    "text": "[Player A], confess something you refuse to admit you are bad at, even though everyone around you knows it. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6166,
+    "text": "[Player A], what is the most embarrassing thing you have ever done when you thought you were alone in a car? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6167,
+    "text": "[Player A], confess the most embarrassing thing you have ever done as a kid to impress someone you had a crush on. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6168,
+    "text": "[Player A], what is something you were completely convinced was true as a child that turned out to be totally wrong? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6169,
+    "text": "[Player A], what is the most catastrophically wrong thing you have ever done while attempting a DIY or home fix? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6170,
+    "text": "[Player A], confess a secret you have been keeping from a current or recent partner that they still do not know. Refuse and [Penalty, max].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6171,
+    "text": "[Player A], what is a relationship dealbreaker you have that you would be embarrassed to say out loud? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6172,
+    "text": "[Player A], confess the most awkward thing you have ever done or said that killed the mood during an intimate moment. No story and you [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6173,
+    "text": "[Player A], have you ever developed a real interest in someone and then found out they were with someone else? No story and you [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6174,
+    "text": "[Player A], confess the worst time you have ever admitted feelings for someone. Terrible timing, wrong place, or completely backfired. No story means [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6175,
+    "text": "[Player A], is there someone you would have dated but never admitted it to? Tell the group who or describe them or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6176,
+    "text": "[Player A], confess the most embarrassing thing a close friend has personally witnessed you do. No story and you [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6177,
+    "text": "[Player A], what is the biggest lie you told on a first date to make yourself sound better? Tell the group or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6178,
+    "text": "[Player A], confess the person from your past that you still compare new people to, even if you would never admit it. Refuse and [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6179,
+    "text": "[Player A], what is the most embarrassing thing you have said while trying to flirt that completely backfired? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6180,
+    "text": "[Player A], confess the biggest secret you kept from an ex for the entire relationship. Refuse and [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6181,
+    "text": "[Player A], what is the funniest ritual or routine you have before going out for a big night? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6182,
+    "text": "[Player A], confess the worst thing that happened at a house party you hosted. No story means [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6183,
+    "text": "[Player A], have you ever shown up to something important still hungover from the night before? Tell the group what you showed up to or [Penalty, 4].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6184,
+    "text": "[Player A], confess the most creative thing you have ever done to avoid paying a bill or covering your share. Refuse and [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6185,
+    "text": "[Player A], what is the most chaotic thing you have ever done at a party that changed the vibe of the night? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6186,
+    "text": "[Player A], confess the worst fight or argument you have ever started that was entirely your fault. No story and you [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6187,
+    "text": "[Player A], what is the most questionable thing you have ever done to skip a line while out? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6188,
+    "text": "[Player A], what is the worst thing you have ever done as a guest in someone else's home? Confess or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6189,
+    "text": "[Player A], what is the biggest scene you have ever made in public while out that you are not proud of? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6190,
+    "text": "[Player A], confess something you called out of work for that had nothing to do with being sick. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6191,
+    "text": "[Player A], what is the most childish dare you accepted as a kid that went completely wrong? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6192,
+    "text": "[Player A], confess something you silently judge strangers for at a bar. Spill it or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6193,
+    "text": "[Player A], what is the lowest thing you have ever done to win an argument you knew you were losing? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6194,
+    "text": "[Player A], confess a habit or thing you do that you know is inconsiderate but have never stopped doing. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6195,
+    "text": "[Player A], have you ever called the wrong person by accident and said something you immediately regretted? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6196,
+    "text": "[Player A], confess something you lied about knowing how to do, then had to quietly figure out on the spot. No story and you [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6197,
+    "text": "[Player A], what is the worst excuse you have ever given for being late? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6198,
+    "text": "[Player A], confess the most embarrassing thing you have ever sent in a group chat by mistake. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6199,
+    "text": "[Player A], have you ever deliberately pretended not to hear something so you could avoid responding? What was it? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6200,
+    "text": "[Player A], confess the worst thing that has ever happened to you at a wedding. No answer means [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6201,
+    "text": "[Player A], have you ever faked being sick for longer than one day and had to commit to the whole story? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6202,
+    "text": "[Player A], confess the most embarrassing thing that has happened on a flight you were on. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6203,
+    "text": "[Player A], what is the worst rumor you have ever spread, even if you told yourself it was just gossip? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6204,
+    "text": "[Player A], confess the weirdest thing you have ever ordered on food delivery when you were alone. No story means [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6205,
+    "text": "[Player A], what is something you pretended not to know how to do just so you wouldn't have to do it? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6206,
+    "text": "[Player A], confess something you started that went badly and never admitted you were the one who started it. Refuse and [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6207,
+    "text": "[Player A], what is the most awkward silence you have ever personally caused? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6208,
+    "text": "[Player A], confess the worst prank you have ever pulled that went further than you intended. No story and you [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6209,
+    "text": "[Player A], what is the most ridiculous thing that has ever made you cry? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6210,
+    "text": "[Player A], confess something you were genuinely scared of until a recent age. Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6211,
+    "text": "[Player A], what is the worst group project you were a part of and what went wrong? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Silly"
+    ]
+  },
+  {
+    "id": 6212,
+    "text": "[Player A], confess the most embarrassing photo of yourself that exists and where it is. No answer means [Penalty, 3].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6213,
+    "text": "[Player A], what is the funniest misconception you had about sex or relationships when you were a kid? Tell the group or [Penalty, 1].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6214,
+    "text": "[Player A], have you ever been caught on mute saying something you should not have? Tell the group what it was or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6215,
+    "text": "[Player A], confess the most embarrassing thing you have edited about yourself before posting a photo. No story means [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6216,
+    "text": "[Player A], what is the lowest point you reached after a breakup? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6217,
+    "text": "[Player A], confess the worst thing you have ever said about someone's appearance, to their face or behind their back. Refuse and [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6218,
+    "text": "[Player A], have you ever drunkenly confessed feelings for someone and completely regretted it the next morning? Tell the story or [Penalty, 3].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6219,
+    "text": "[Player A], what is the biggest lie you told to keep someone romantically interested in you? Confess or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6220,
+    "text": "[Player A], is there someone from a past relationship you still quietly check up on? Come clean or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6221,
+    "text": "[Player A], confess the worst reason you ended things with someone who was genuinely good for you. No story and you [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6222,
+    "text": "[Player A], what is something an ex did that you secretly still think about or miss? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6223,
+    "text": "[Player A], have you ever matched with someone and never messaged them, and now regret it? Describe them or [Penalty, 1].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6224,
+    "text": "[Player A], confess something about your appearance that you put way too much effort into hiding. Refuse and [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6225,
+    "text": "[Player A], what is something you said in bed that you instantly wished you could take back? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6226,
+    "text": "[Player A], have you ever had a terrible sexting typo or autocorrect moment? Tell the group what it was or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6227,
+    "text": "[Player A], confess the most awkward situation you have ever been in involving an ex's friend. No story means [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6228,
+    "text": "[Player A], what is one thing from a blackout night that came back to you later? Tell the group or [Penalty, 4].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6229,
+    "text": "[Player A], confess the most reckless thing you have ever done for a bet at a bar. No story and you [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6230,
+    "text": "[Player A], what is the worst decision your whole group made on a vacation that you personally pushed for? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6231,
+    "text": "[Player A], confess the worst thing you did to someone else while they were hungover. Refuse and [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6232,
+    "text": "[Player A], what is the lowest thing you have ever done to get free entry somewhere? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6233,
+    "text": "[Player A], confess the most money you have ever lost gambling in a single night. No story means [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6234,
+    "text": "[Player A], have you ever been cut off by a bartender? Tell the group what led to that or [Penalty, 4].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6235,
+    "text": "[Player A], what is the most embarrassing thing a bouncer has ever witnessed you do? Tell the group or [Penalty, 3].",
+    "tags": [
+      "Degen",
+      "Bar"
+    ]
+  },
+  {
+    "id": 6236,
+    "text": "[Player A], confess the worst thing you have ever done just to get more drunk at a party. No story and you [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6237,
+    "text": "[Player A], what is a social media post you left up that you deeply regret but still haven't deleted? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6238,
+    "text": "[Player A], confess a message you wrote but never sent. What was it for? Refuse and [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6239,
+    "text": "[Player A], what is the worst birthday memory you have, of your own birthday or someone else's? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6240,
+    "text": "[Player A], confess something you have secretly wanted to say to someone in this room for a long time. Say it now or [Penalty, max].",
+    "tags": [
+      "Party",
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6241,
+    "text": "[Player A], what is a promise you made that you had no intention of keeping? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6242,
+    "text": "[Player A], confess the most chaotic thing that has ever happened to you on public transport. No story means [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6243,
+    "text": "[Player A] and [Player B], each confess one thing you genuinely appreciate about the other that you have never said out loud. Both share or both [Penalty, 2].",
+    "tags": [
+      "Party",
+      "Couples"
+    ]
+  },
+  {
+    "id": 6244,
+    "text": "[Player A], what is the pettiest reason you have ever cut someone off or stopped talking to them? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Party"
+    ]
+  },
+  {
+    "id": 6245,
+    "text": "[Player A], what is the most scandalous thing you have done that only one other person knows about? Tell the group or [Penalty, max].",
+    "tags": [
+      "Spicy",
+      "Degen"
+    ]
+  },
+  {
+    "id": 6246,
+    "text": "[Player A], what is something you have done with someone in this room that no one else here knows about? Confess or [Penalty, max].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6247,
+    "text": "[Player A], who was the last person you thought about in a sexual way? Name them or [Penalty, 5].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6248,
+    "text": "[Player A], what is the most reckless thing you have done purely because you were too proud to back down from a dare? Confess or [Penalty, 3].",
+    "tags": [
+      "Degen"
+    ]
+  },
+  {
+    "id": 6249,
+    "text": "[Player A], confess the biggest age gap you have ever had with someone you hooked up with. Tell the group or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6250,
+    "text": "[Player A], tell the group your best sex story. Skip it and [Penalty, 5].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6251,
+    "text": "[Player A], name the first three people you have slept with and [Penalty, 1] for each one you regret.",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6252,
+    "text": "[Player A], what is the wildest place you have ever hooked up? Tell the group or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6253,
+    "text": "[Player A], have you ever slept with someone knowing you absolutely should not have? Confess why or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6254,
+    "text": "[Player A], have you ever faked it in bed? Confess or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6255,
+    "text": "[Player A], what is something you have always wanted to try in bed but have never told anyone? Tell the group or [Penalty, 5].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6256,
+    "text": "[Player A], have you ever used someone purely for physical reasons? Be honest or [Penalty, 4].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6257,
+    "text": "[Player A], what is the longest you have ever gone home with someone after meeting them? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6258,
+    "text": "[Player A], who in this room do you think is the best in bed? Name them or [Penalty, 5].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6259,
+    "text": "[Player A], what is your highest number of hookups in a single trip or vacation? Tell the group or [Penalty, 2].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6260,
+    "text": "[Player A], describe your type in bed in three words. No answer means [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  },
+  {
+    "id": 6261,
+    "text": "[Player A], what is the most unique celebrity you have ever been sexually attracted to? Name them or [Penalty, 3].",
+    "tags": [
+      "Spicy"
+    ]
+  }
+]

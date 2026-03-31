@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 4000,
+    "text": "Never have I ever faked being sick to skip work or school. Everyone who has must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4001,
+    "text": "Never have I ever had a one-night stand. Everyone who has done this must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4002,
+    "text": "Never have I ever stalked an ex on social media at 2am. Guilty players must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4003,
+    "text": "Never have I ever sent a text to the wrong person. If you have, you must [Penalty, 1].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 4004,
+    "text": "Never have I ever blacked out from partying too hard. Everyone who has must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4005,
+    "text": "Never have I ever hooked up with someone and immediately regretted it. Instant regretters must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4006,
+    "text": "Never have I ever lied on my resume. Corporate fraudsters must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4007,
+    "text": "Never have I ever gone skinny dipping. Everyone who has done this must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4008,
+    "text": "Never have I ever caught feelings after saying 'this is just casual.' If that's you, you must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4009,
+    "text": "Never have I ever shoplifted anything. Sticky fingers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4010,
+    "text": "Never have I ever been escorted out of a bar or club. Legends must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4011,
+    "text": "Never have I ever used a pickup line on someone unironically. Smooth operators must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4012,
+    "text": "Never have I ever texted an ex after 10pm. Late-night texters must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4013,
+    "text": "Never have I ever gone back to someone I knew was bad for me. Guilty players must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4014,
+    "text": "Never have I ever woken up in a stranger's bed. If you have, you must [Penalty, 3].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4015,
+    "text": "Never have I ever 'entertained' two people at the same time. Everyone who has done this must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4016,
+    "text": "Never have I ever been pulled over by the police. Everyone who has must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4017,
+    "text": "Never have I ever lied about my body count. If you have, you must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4018,
+    "text": "Never have I ever danced on a table or bar. Party animals must [Penalty, 2].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 4019,
+    "text": "Never have I ever sent a risky photo. Everyone who has done this must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4020,
+    "text": "Never have I ever hooked up with a coworker. Office romancers must [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4021,
+    "text": "Never have I ever fallen asleep at a party. Lightweights must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4022,
+    "text": "Never have I ever snooped through someone's phone. Trust violators must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4023,
+    "text": "Never have I ever ghosted someone after being intimate. Everyone who has done this must [Penalty, 5].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4024,
+    "text": "Never have I ever been the reason someone cheated. Guilty players must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4025,
+    "text": "Never have I ever had a wardrobe malfunction in public. Fashion victims must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4026,
+    "text": "Never have I ever woken up with no memory of how I got home. Everyone who has must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4027,
+    "text": "Never have I ever driven after one too many. Guilty players must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4028,
+    "text": "Never have I ever had a crush on a friend's significant other. Secret crushers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4029,
+    "text": "Never have I ever slid into someone's DMs. If you have, you must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4030,
+    "text": "Never have I ever made out with someone within an hour of meeting them. Fast movers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4031,
+    "text": "Never have I ever puked from partying and kept going. Puke and ralliers must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4032,
+    "text": "Never have I ever faked an orgasm. Method actors must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4033,
+    "text": "Never have I ever called someone the wrong name during a hookup. Name-forgettors must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4034,
+    "text": "Never have I ever kissed someone just to make someone else jealous. Schemers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4035,
+    "text": "Never have I ever had a walk of shame. Early morning walkers must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4036,
+    "text": "Never have I ever gone to a party uninvited. Party crashers must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4037,
+    "text": "Never have I ever re-downloaded a dating app I swore I deleted. Weak-willed swipers must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4038,
+    "text": "Never have I ever gotten a piercing on a dare. Impulsive ones must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4039,
+    "text": "Never have I ever made out with someone at a wedding. Reception romancers must [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4040,
+    "text": "Never have I ever secretly checked a partner's location without them knowing. GPS stalkers must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4041,
+    "text": "Never have I ever been someone's rebound. Guilty players must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4042,
+    "text": "Never have I ever spilled a secret someone told me in confidence. Leakers must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4043,
+    "text": "Never have I ever blocked someone and then unblocked them to check their profile. Stalker energy must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4044,
+    "text": "Never have I ever hooked up with someone significantly older (10+ years). Guilty parties must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4045,
+    "text": "Never have I ever talked my way into VIP. Smooth talkers must [Penalty, 1].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 4046,
+    "text": "Never have I ever had a hangover so bad I swore I'd never party again. Liars must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4047,
+    "text": "Never have I ever been in a love triangle. Dramatic ones must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4048,
+    "text": "Never have I ever had a pregnancy scare. Everyone who has must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4049,
+    "text": "Never have I ever hooked up in a car. Backseat riders must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4050,
+    "text": "Never have I ever broken up with someone over text. Digital dumpers must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4051,
+    "text": "Never have I ever skinny dipped with strangers. Wild swimmers must [Penalty, 3].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4052,
+    "text": "Never have I ever used a fake ID. Identity swappers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4053,
+    "text": "Never have I ever hooked up with someone and later found out they were in a relationship. Unwitting accomplices must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4054,
+    "text": "Never have I ever left a restaurant without paying. Dine-and-dashers must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4055,
+    "text": "Never have I ever had a dream about someone in this room. Dreamers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4056,
+    "text": "Never have I ever used someone for a free meal. Restaurant tacticians must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4057,
+    "text": "Never have I ever lied to get out of a date. Liars must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4058,
+    "text": "Never have I ever snuck someone into my room. Secret agents must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4059,
+    "text": "Never have I ever been walked in on during an intimate moment. Traumatized ones must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4060,
+    "text": "Never have I ever had a situationship that lasted way too long. Confused lovers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4061,
+    "text": "Never have I ever flirted my way out of a speeding ticket. Charmers must [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4062,
+    "text": "Never have I ever hooked up at a party while people were in the next room. Risk takers must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4063,
+    "text": "Never have I ever made a burner account to stalk someone. Investigators must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 4064,
+    "text": "Never have I ever had my parents find something extremely embarrassing in my room or on my phone. Busted by the parents must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4065,
+    "text": "Never have I ever gone on a date with zero intention of seeing that person again. One-and-done daters must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4066,
+    "text": "Never have I ever made out with more than one person in the same night. Busy lips must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4067,
+    "text": "Never have I ever had a nip slip. Wardrobe malfunctioners must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4068,
+    "text": "Never have I ever given a fake number to someone hitting on me. Decoy dialers must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4069,
+    "text": "Never have I ever slept with my ex's friend. Line-crossers must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4070,
+    "text": "Never have I ever been someone's booty call. If you have, you must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4071,
+    "text": "Never have I ever posted a thirst trap. Attention seekers must [Penalty, 1].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4072,
+    "text": "Never have I ever thrown up in an Uber. Sorry-not-sorry riders must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4073,
+    "text": "Never have I ever been someone's secret. Hidden lovers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4074,
+    "text": "Never have I ever had a hookup that was so bad I left in the middle. Escape artists must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4075,
+    "text": "Never have I ever hooked up with a roommate. Lease-complicators must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4076,
+    "text": "Never have I ever been caught checking someone out. Wandering eyes must [Penalty, 1].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4077,
+    "text": "Never have I ever hooked up in a public place. Exhibitionists must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4078,
+    "text": "Never have I ever gotten a noise complaint for what was happening in the bedroom. Noisy neighbors must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4079,
+    "text": "Never have I ever dated two people from the same friend group. Group hoppers must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4080,
+    "text": "Never have I ever told someone I was single when I technically wasn't. Blurry line liars must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4081,
+    "text": "Never have I ever spent money I definitely didn't have on a night out. Financial risk takers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4082,
+    "text": "Never have I ever stayed up until sunrise with someone I just met. Night owls must [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4083,
+    "text": "Never have I ever gone on a date with someone whose name I didn't remember. Name-amnesia daters must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4084,
+    "text": "Never have I ever woken up with a stranger's phone number written on my body. Mystery digits must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4085,
+    "text": "Never have I ever had a friends-with-benefits situation. Everyone guilty must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4086,
+    "text": "Never have I ever gone commando to work or school. Free spirits must [Penalty, 1].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4087,
+    "text": "Never have I ever stolen a street sign. Urban collectors must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4088,
+    "text": "Never have I ever had a secret relationship. Undercover lovers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4089,
+    "text": "Never have I ever said 'I love you' and not meant it. Heartbreakers must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4090,
+    "text": "Never have I ever pretended to enjoy a bad kiss. Polite kissers must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4091,
+    "text": "Never have I ever pretended to be asleep to avoid being intimate with someone. Fake sleepers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4092,
+    "text": "Never have I ever been in handcuffs. Arrested or otherwise, guilty players must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4093,
+    "text": "Never have I ever keyed someone's car or slashed their tires. Vengeful villains must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4094,
+    "text": "Never have I ever gotten jealous over someone I wasn't even dating. Territorial ones must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4095,
+    "text": "Never have I ever lied in a game of Never Have I Ever. Meta-liars must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4096,
+    "text": "Never have I ever had a 'phase' my parents still don't know about. Closeted rebels must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4097,
+    "text": "Never have I ever gotten a tattoo I regret. Ink regretters must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4098,
+    "text": "Never have I ever lied about my age on a dating profile. Profile fibbers must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4099,
+    "text": "Never have I ever been left on read by my crush. Dejected lovers must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4100,
+    "text": "Never have I ever flirted with someone to get a free item. Discount chasers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4101,
+    "text": "Never have I ever creeped on my partner's ex online. FBI agents must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4102,
+    "text": "Never have I ever been catfished. Fooled ones must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4103,
+    "text": "Never have I ever been so hungover I called out of work. Champions of regret must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4104,
+    "text": "Never have I ever lied about where I was to my parents. Sneaky ones must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4105,
+    "text": "Never have I ever been friend-zoned and stayed anyway. Hopeful ones must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4106,
+    "text": "Never have I ever snuck out of the house at night. Ninjas must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4107,
+    "text": "Never have I ever been kicked out of a group chat. Exiled ones must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4108,
+    "text": "Never have I ever accidentally sent a screenshot to the person the screenshot was about. Everyone guilty must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4109,
+    "text": "Never have I ever panic-deleted an entire conversation. Evidence destroyers must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4110,
+    "text": "Never have I ever screenshotted a conversation and sent it to someone else. Evidence collectors must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4111,
+    "text": "Never have I ever been part of a group chat specifically made to gossip about someone. Tea-spillers must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4112,
+    "text": "Never have I ever said 'I'm on my way' while still in bed. Chronic liars must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4113,
+    "text": "Never have I ever forgotten someone's name mid-conversation. Guilty players must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4114,
+    "text": "Never have I ever walked into a glass door. Everyone guilty must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4115,
+    "text": "Never have I ever waved back at someone who wasn't waving at me. Awkward wavers must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4116,
+    "text": "Never have I ever tripped in public and pretended nothing happened. Smooth recoverers must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4117,
+    "text": "Never have I ever lost my phone while it was in my hand. Space cadets must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4118,
+    "text": "Never have I ever Googled symptoms and convinced myself I was dying. WebMD doctors must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4119,
+    "text": "Never have I ever laughed so hard I peed a little. Everyone guilty must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4120,
+    "text": "Never have I ever accidentally walked into the wrong bathroom. Confused navigators must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4121,
+    "text": "Never have I ever cried during a movie. Emotional ones must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4122,
+    "text": "Never have I ever accidentally farted loudly in public. Acoustic blasters must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4123,
+    "text": "Never have I ever eaten food off the floor. Five-second rule believers must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4124,
+    "text": "Never have I ever clogged someone else's toilet. Plumbing disasters must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4125,
+    "text": "Never have I ever blamed a fart on someone else. Gas deflectors must [Penalty, 1].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 4126,
+    "text": "Never have I ever had a hookup so awkward neither of us mentioned it again. Silent agreement must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4127,
+    "text": "Never have I ever hooked up with someone whose last name I never learned. Anonymous lovers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4128,
+    "text": "Never have I ever received a risky photo I didn't ask for. Unsolicited receivers must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4129,
+    "text": "Never have I ever had a hickey in an obvious spot and tried to hide it. Scarf season enthusiasts must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4130,
+    "text": "Never have I ever role-played in the bedroom. Costume designers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4131,
+    "text": "Never have I ever accidentally left intimate sounds playing through a Bluetooth speaker. Tech disasters must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4132,
+    "text": "Never have I ever lied about who I was going home with. Cover story creators must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4133,
+    "text": "Never have I ever gotten a tattoo while under the influence. Permanent decision makers must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4134,
+    "text": "Never have I ever had someone's significant other confront me. Drama magnets must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4135,
+    "text": "Never have I ever helped a friend cover up their cheating. Accomplice energy must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4136,
+    "text": "Never have I ever woken up with a mystery bruise after a night out. Battle scar collectors must [Penalty, 1].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4137,
+    "text": "Never have I ever left a date through the bathroom window. Literal escape artists must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4138,
+    "text": "Never have I ever sent a spicy text to my parents by mistake. Wrong-chat nightmares must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4139,
+    "text": "Never have I ever used a dating app while in a relationship. Digital cheaters must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4140,
+    "text": "Never have I ever hooked up in a bathroom at a party. Restroom romancers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4141,
+    "text": "Never have I ever pretended to be more experienced in bed than I actually was. Fake experts must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4142,
+    "text": "Never have I ever had a one-night stand and then run into them in public. Awkward reunions must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4143,
+    "text": "Never have I ever had a body part go numb during intimacy. Circulation failures must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4144,
+    "text": "Never have I ever matched with someone on a dating app who was sitting in the same room. Nearby swipers must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4145,
+    "text": "Never have I ever accidentally walked in on someone else's intimate moment. Scarred witnesses must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4146,
+    "text": "Never have I ever pre-gamed so hard I never made it to the actual event. Warm-up warriors must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4147,
+    "text": "Never have I ever bought someone a drink just to shoot my shot. Investment strategists must [Penalty, 1].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 4148,
+    "text": "Never have I ever woken up still wearing last night's outfit. Outfit recyclers must [Penalty, 1].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4149,
+    "text": "Never have I ever done something during a hookup that I'd never admit to sober. Guilty secrets must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4150,
+    "text": "Never have I ever lied about where I slept last night. Morning fibbers must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4151,
+    "text": "Never have I ever had an ex's family still follow me on social media. Awkward connections must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4152,
+    "text": "Never have I ever broken a bed during intimate activities. Structural engineers must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4153,
+    "text": "Never have I ever been on a double date that went terribly wrong. Social disaster survivors must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4154,
+    "text": "Never have I ever lost an item of clothing at a party. Missing garment victims must [Penalty, 2].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 4155,
+    "text": "Never have I ever kissed my best friend. Boundary crossers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4156,
+    "text": "Never have I ever worn someone else's clothes home after a hookup. Walk-of-shamers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4157,
+    "text": "Never have I ever taken someone home from a wedding. Reception closers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4158,
+    "text": "Never have I ever secretly disliked someone who's in this room right now. Hidden haters must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4159,
+    "text": "Never have I ever been kicked out of a hotel room. Hotel horrors must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4160,
+    "text": "Never have I ever gone through a drive-through after 3am. Late-night legends must [Penalty, 1].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4161,
+    "text": "Never have I ever started a fight at a party. Throwdown starters must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4162,
+    "text": "Never have I ever been banned from a bar. Blacklisted legends must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4163,
+    "text": "Never have I ever cheated on a partner. Everyone who has must [Penalty, max].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4164,
+    "text": "Never have I ever taken body shots off a stranger. Tequila pioneers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4165,
+    "text": "Never have I ever had a hookup turn into an actual relationship. Success stories must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4166,
+    "text": "Never have I ever had road rage so bad I scared my passenger. Aggressive drivers must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4167,
+    "text": "Never have I ever been called the wrong name by someone I was hooking up with. Forgettable lovers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4168,
+    "text": "Never have I ever been to a strip club. Nightlife explorers must [Penalty, 2].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4169,
+    "text": "Never have I ever been caught making out in public by someone I knew. PDA perpetrators must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4170,
+    "text": "Never have I ever had a friend with benefits situation go completely sideways. Complicated operators must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4171,
+    "text": "Never have I ever snuck someone out of my place in the morning. Stealth strategists must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4172,
+    "text": "Never have I ever lost a bet and had to do something humiliating. Losers must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4173,
+    "text": "Never have I ever been involved in a revenge plot against an ex. Strategic planners must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4174,
+    "text": "Never have I ever pretended I didn't recognize someone from a dating app in person. Professional ignorers must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4175,
+    "text": "Never have I ever cried during intimacy. Emotional connectors must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4176,
+    "text": "Never have I ever had to climb out of a window to avoid being caught. Window escapees must [Penalty, 3].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4177,
+    "text": "Never have I ever used someone else's credit card without asking. Unauthorized spenders must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4178,
+    "text": "Never have I ever hooked up while someone else was sleeping in the same room. Stealth operators must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4179,
+    "text": "Never have I ever tried to hook up with a friend and been rejected. Shot-missers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4180,
+    "text": "Never have I ever been woken up by police after passing out somewhere public. Open-air sleepers must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4181,
+    "text": "Never have I ever used a cheesy line in a dating app bio. 'Looking for a partner in crime' enthusiasts must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4182,
+    "text": "Never have I ever had a drunk meltdown in public. Public criers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4183,
+    "text": "Never have I ever accidentally liked a photo from years ago while stalking someone. Deep-scroll disasters must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4184,
+    "text": "Never have I ever been caught sneaking out by my parents. Busted ninjas must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4185,
+    "text": "Never have I ever texted something flirty to someone in a relationship. Line-toers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4186,
+    "text": "Never have I ever had someone fall asleep on me during a hookup. Offended parties must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4187,
+    "text": "Never have I ever eaten an edible that was way stronger than expected. Space cadets must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4188,
+    "text": "Never have I ever pregamed with a stranger I met outside the venue. Instant best friends must [Penalty, 2].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 4189,
+    "text": "Never have I ever kept someone's hoodie on purpose after a hookup. Souvenir collectors must [Penalty, 1].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4190,
+    "text": "Never have I ever had a booty call at 4am. Late-shift lovers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4191,
+    "text": "Never have I ever been physically carried home after a night out. Human cargo must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4192,
+    "text": "Never have I ever hidden someone in my closet. If you have, you must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4193,
+    "text": "Never have I ever gotten a lap dance. Dance recipients must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4194,
+    "text": "Never have I ever been handcuffed to a bed. Restrained players must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4195,
+    "text": "Never have I ever hooked up with someone I met on the internet. Digital daters must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4196,
+    "text": "Never have I ever gone through a phase where I went out every single night. Party marathoners must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4197,
+    "text": "Never have I ever told someone I was busy to hang out with someone else instead. Schedule manipulators must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4198,
+    "text": "Never have I ever made a scene at a bar. Public spectacles must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4199,
+    "text": "Never have I ever had my card declined on a date. Financially embarrassed daters must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4200,
+    "text": "Never have I ever used a blindfold during intimacy. Sensory experimenters must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4201,
+    "text": "Never have I ever had an intimate photo almost get exposed. Close call survivors must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4202,
+    "text": "Never have I ever been told I was bad in bed. Review-received players must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4203,
+    "text": "Never have I ever accidentally pocket-dialed someone while talking about them. Butt-dial betrayals must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4204,
+    "text": "Never have I ever gotten a matching tattoo with someone I'm no longer close with. Permanent regretters must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4205,
+    "text": "Never have I ever had a secret hookup with someone in this room. If you have, you must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4206,
+    "text": "Never have I ever been told 'we need to talk' after a hookup. Anxious waiters must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4207,
+    "text": "Never have I ever thrown up on a date. Date destroyers must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4208,
+    "text": "Never have I ever sexted someone while at work. Multitaskers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4209,
+    "text": "Never have I ever gone home with someone whose face I couldn't clearly remember the next day. Memory loss must [Penalty, 3].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4210,
+    "text": "Never have I ever had to explain a hookup's leftover belongings to someone who found them. Evidence concealers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4211,
+    "text": "Never have I ever been caught watching something I shouldn't have been watching. Tab-panickers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4212,
+    "text": "Never have I ever had an inappropriate thought about a friend's parent. Forbidden thinkers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4213,
+    "text": "Never have I ever done something while under the influence that I had to apologize for the next day. Morning apologizers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4214,
+    "text": "Never have I ever had a photo of me surface that I didn't know existed. Candid nightmares must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4215,
+    "text": "Never have I ever been the last one standing at a party. Endurance champions must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4216,
+    "text": "Never have I ever been someone's first kiss. First kiss takers must [Penalty, 1].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4217,
+    "text": "Never have I ever hooked up on a first date. Efficient daters must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4218,
+    "text": "Never have I ever had a shower with someone. Water conservationists must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4219,
+    "text": "Never have I ever had someone else's partner hit on me. Accidental temptations must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4220,
+    "text": "Never have I ever had an inappropriate dream about a teacher or boss. Authority figure dreamers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4221,
+    "text": "Never have I ever been the reason a couple broke up. Relationship wrecking balls must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4222,
+    "text": "Never have I ever taken someone back after they cheated. Forgiving souls must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4223,
+    "text": "Never have I ever smashed a phone screen during a fight with a partner. Rage breakers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4224,
+    "text": "Never have I ever convinced someone to skinny dip. Peer pressure specialists must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4225,
+    "text": "Never have I ever done a body shot. Tequila adventurers must [Penalty, 1].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 4226,
+    "text": "Never have I ever had a sugar daddy or sugar mama. Sponsored players must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4227,
+    "text": "Never have I ever gone to brunch just to keep the party going from last night. Brunch warriors must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4228,
+    "text": "Never have I ever been in a hot tub with strangers. Communal soakers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4229,
+    "text": "Never have I ever had a fling while on vacation. Holiday romancers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4230,
+    "text": "Never have I ever left someone's place before they woke up. Morning ghosts must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4231,
+    "text": "Never have I ever lost my wallet or phone during a night out. Irresponsible party-goers must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4232,
+    "text": "Never have I ever hooked up with two friends who didn't know about each other. Secret keepers must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4233,
+    "text": "Never have I ever had a hookup I was too embarrassed to tell my friends about. Vault-lockers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4234,
+    "text": "Never have I ever drunk-texted my boss. Career risk takers must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4235,
+    "text": "Never have I ever been on a party bus. Rolling ravers must [Penalty, 1].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 4236,
+    "text": "Never have I ever woken up with a random object I apparently stole during a night out. Drunk collectors must [Penalty, 2].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4237,
+    "text": "Never have I ever kissed someone I absolutely should not have. Boundary-ignorers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4238,
+    "text": "Never have I ever told someone I had a partner to avoid being hit on. Ring-finger liars must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4239,
+    "text": "Never have I ever had a party so wild the cops showed up. Noise violation legends must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4240,
+    "text": "Never have I ever finished a night out with a completely different group of people than I started with. Social drifters must [Penalty, 1].",
+    "tags": ["Degen", "Party"]
+  },
+  {
+    "id": 4241,
+    "text": "Never have I ever hooked up with my ex and told no one. Secret relapsers must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4242,
+    "text": "Never have I ever tried to impress someone by lying about my job. Professional fabricators must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 4243,
+    "text": "Never have I ever been dared into a kiss. Dare accepters must [Penalty, 1].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 4244,
+    "text": "Never have I ever saved a risky photo of someone in a hidden folder. Secret archivists must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 4245,
+    "text": "Never have I ever gambled away more money than I could afford. Table tilters must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4246,
+    "text": "Never have I ever been picked up by someone twice my age. Age-gap adventurers must [Penalty, 2].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4247,
+    "text": "Never have I ever had a threesome. Adventurous ones must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 4248,
+    "text": "Never have I ever woken up in a different city than where I started the night. Geographic drifters must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 4249,
+    "text": "Never have I ever had someone find my browser history and confront me about it. Incognito failures must [Penalty, 2].",
+    "tags": ["Spicy"]
+  }
+]
