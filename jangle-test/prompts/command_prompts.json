@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 2000,
+    "text": "[Player A], give [Penalty, 3] to whoever you think has the worst taste in music.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2001,
+    "text": "Everyone who is wearing socks right now must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2002,
+    "text": "[Player A], point at someone. That person must [Penalty, 2] and then point at someone else who must [Penalty, 1].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2003,
+    "text": "The last person to have eaten fast food must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2004,
+    "text": "[Player A], assign [Penalty, 4] to the person to your left and [Penalty, 4] to the person to your right.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2005,
+    "text": "Everyone who has texted someone today without replying to their last message must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2006,
+    "text": "[Player A] and [Player B], arm wrestle. Loser must [Penalty, 4].",
+    "tags": ["Party", "Team"]
+  },
+  {
+    "id": 2007,
+    "text": "The tallest person here must [Penalty, 2]. The shortest must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2008,
+    "text": "[Player A], you have 10 seconds to name 3 things in your bag or pockets. Fail and you must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2009,
+    "text": "Everyone who has called in sick when they weren't sick must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2010,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would last the longest in jail.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2011,
+    "text": "The person who slept the latest yesterday must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2012,
+    "text": "[Player A], pick someone to swap seats with. Whoever refuses must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2013,
+    "text": "Everyone who has ghosted someone must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2014,
+    "text": "[Player A], give [Penalty, 5] to whoever you think is the most likely to cry at a movie.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2015,
+    "text": "The person sitting closest to the door must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2016,
+    "text": "Everyone who has lied on their resume must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2017,
+    "text": "[Player A], stare at [Player B] without blinking. First to blink must [Penalty, 3].",
+    "tags": ["Silly", "Party", "Team"]
+  },
+  {
+    "id": 2018,
+    "text": "Everyone who has sent a risky text to the wrong person must [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2019,
+    "text": "[Player A], give [Penalty, max] to whoever you think has the messiest room right now.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2020,
+    "text": "The last person to have been on a date must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2021,
+    "text": "Everyone who has pretended not to see someone in public must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2022,
+    "text": "[Player A], give [Penalty, 3] to the person you think would be the worst roommate.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2023,
+    "text": "Whoever has the most unread notifications on their phone must [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2024,
+    "text": "[Player A], do your best impression of someone in this group. If no one guesses who it is, you must [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2025,
+    "text": "Everyone who has been kicked out of a bar or venue must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2026,
+    "text": "[Player A], choose someone to take [Penalty, 4] for you. If they refuse, you take [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2027,
+    "text": "The person who woke up latest today must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2028,
+    "text": "Everyone who has made someone else do their homework or work project must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2029,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would spend the most on a night out.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2030,
+    "text": "The person with the longest hair must [Penalty, 2]. The person with the shortest must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2031,
+    "text": "Everyone who has used someone else's streaming password must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2032,
+    "text": "[Player A], whisper something to [Player B]. If [Player B] laughs, they must [Penalty, 2]. If they don't, you must [Penalty, 2].",
+    "tags": ["Silly", "Party", "Team"]
+  },
+  {
+    "id": 2033,
+    "text": "Whoever was most recently in a fight with a family member must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2034,
+    "text": "[Player A], give [Penalty, 4] to whoever you think has had the most embarrassing drunk moment.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2035,
+    "text": "Everyone who has bailed on plans last minute must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2036,
+    "text": "The person who has traveled the farthest from their hometown must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2037,
+    "text": "[Player A], point at someone. They must give you [Penalty, 3] or you must give them [Penalty, 3]. Your call.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2038,
+    "text": "Everyone who has told someone they're on their way when they hadn't left yet must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2039,
+    "text": "[Player A], give [Penalty, 3] to whoever you think is most likely to black out tonight.",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2040,
+    "text": "The person who has the most siblings must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2041,
+    "text": "Everyone who has lied to get out of a ticket or fine must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2042,
+    "text": "[Player A], give [Penalty, 2] to the person to your left, then [Penalty, 2] to the person to your right. Keep going around until someone refuses.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2043,
+    "text": "Whoever has the oldest model phone in the group must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2044,
+    "text": "[Player A], you have 5 seconds to make everyone laugh. Fail and you must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2045,
+    "text": "Everyone who has sent a drunk message they regretted must [Penalty, 3].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 2046,
+    "text": "[Player A], assign [Penalty, 5] to the person you trust the least in this group.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2047,
+    "text": "The person who got the least sleep last night must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2048,
+    "text": "Everyone who has hooked up with someone and never reached out again must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2049,
+    "text": "[Player A], give [Penalty, 3] to the person you think has the most chaotic love life.",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2050,
+    "text": "The person wearing the most colors must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2051,
+    "text": "Everyone who has overstayed their welcome at someone's place must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2052,
+    "text": "[Player A] and [Player B], flip a coin. Loser must [Penalty, 4].",
+    "tags": ["Party", "Team"]
+  },
+  {
+    "id": 2053,
+    "text": "Whoever has the most photos on their phone must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2054,
+    "text": "[Player A], give [Penalty, 4] to whoever looks the most tired right now.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2055,
+    "text": "Everyone who has been blocked by someone on social media must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2056,
+    "text": "The person who has spent the most money they shouldn't have in the last month must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2057,
+    "text": "Everyone who has blacked out and woken up somewhere unexpected must [Penalty, 4].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2058,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would cave first under peer pressure.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2059,
+    "text": "Whoever is wearing the least clothing must [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2060,
+    "text": "Everyone who has eaten an entire meal alone in their car must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2061,
+    "text": "[Player A], order [Player B] to do one thing right now. If they refuse, they must [Penalty, 4].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2062,
+    "text": "The person who has the most followers on any social media platform must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2063,
+    "text": "Everyone who has cried because of work stress must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2064,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would be the most dramatic in a breakup.",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2065,
+    "text": "Everyone who has gone to bed past 4am on a weeknight must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2066,
+    "text": "[Player A], you have 10 seconds to come up with a rule everyone must follow for the next 3 rounds. If you blank, you must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2067,
+    "text": "Whoever has the lowest battery percentage right now must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2068,
+    "text": "Everyone who has started a rumor must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2069,
+    "text": "[Player A], give [Penalty, 4] to whoever you think talks the most behind people's backs.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2070,
+    "text": "The person who paid for the last round here must assign [Penalty, 3] to whoever they want.",
+    "tags": ["Party", "Bar"]
+  },
+  {
+    "id": 2071,
+    "text": "Everyone who has cheated on a test or exam must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2072,
+    "text": "[Player A] and [Player B], thumb war. Loser must [Penalty, 3].",
+    "tags": ["Silly", "Party", "Team"]
+  },
+  {
+    "id": 2073,
+    "text": "Whoever is sitting with the worst posture right now must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2074,
+    "text": "Everyone who has been in a situationship must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2075,
+    "text": "[Player A], give [Penalty, 3] to whoever you think has the worst spending habits.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2076,
+    "text": "The last person to have cried must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2077,
+    "text": "Everyone who has taken an embarrassing number of bathroom selfies must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2078,
+    "text": "[Player A], point to the person you'd least want to be stuck in an elevator with. That person must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2079,
+    "text": "Whoever has been in the most relationships must [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2080,
+    "text": "Everyone who has made a questionable purchase while intoxicated must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2081,
+    "text": "[Player A], assign [Penalty, 3] to yourself and [Penalty, 3] to whoever you think is most like you.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2082,
+    "text": "The person who has been unemployed the longest must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2083,
+    "text": "Everyone who has done something at work they'd never admit to their boss must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2084,
+    "text": "[Player A], give [Penalty, 4] to whoever you think has the darkest internet search history.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2085,
+    "text": "Everyone who has slept with someone whose last name they didn't know must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 2086,
+    "text": "[Player A], give out [Penalty, 2] three times to any players you choose.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2087,
+    "text": "The person sitting farthest from the door must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2088,
+    "text": "Everyone who has stood someone up must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2089,
+    "text": "[Player A], keep a straight face while everyone tries to make you laugh for 30 seconds. Fail and you must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2090,
+    "text": "Everyone who has gone through someone else's phone without permission must [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2091,
+    "text": "[Player A], pick the most chaotic person here. They must assign [Penalty, 4] to someone of their choice.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2092,
+    "text": "The person who has had the most jobs must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2093,
+    "text": "Everyone who has stolen something, no matter how small, must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2094,
+    "text": "[Player A], rate each person in the group on how much of a party animal they are. Whoever gets the lowest score must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2095,
+    "text": "Whoever sent a text in the last 10 minutes must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2096,
+    "text": "Everyone who has said 'I'm fine' when they were definitely not fine must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2097,
+    "text": "[Player A], give [Penalty, 3] to whoever laughed most recently before this card was read.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2098,
+    "text": "The person who has gone the longest without a shower must [Penalty, 4]. Be honest.",
+    "tags": ["Silly", "Degen"]
+  },
+  {
+    "id": 2099,
+    "text": "Everyone who has shown up to something over an hour late must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2100,
+    "text": "[Player A], trade places with [Player B] for the rest of this round.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2101,
+    "text": "Whoever has the most ex-partners must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2102,
+    "text": "Everyone who has eaten food that fell on the floor must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2103,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would be the most annoying to travel with.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2104,
+    "text": "The person who has the most notes saved on their phone must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2105,
+    "text": "Everyone who has gotten into a fight while on a night out must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2106,
+    "text": "[Player A], you have 10 seconds to say something that will make [Player B] uncomfortable. Works and they must [Penalty, 3], doesn't work and you must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2107,
+    "text": "Everyone who has used someone else's loyalty card or points without asking must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2108,
+    "text": "[Player A], give [Penalty, 4] to whoever you think would win in a 'who has been through the most' competition.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2109,
+    "text": "The person who has the most screenshots on their phone must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2110,
+    "text": "Everyone who has pretended to be asleep to avoid a conversation must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2111,
+    "text": "[Player A], give [Penalty, 3] to whoever you'd least want as a coworker.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2112,
+    "text": "Whoever has spent money on something they've used exactly once must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2113,
+    "text": "Everyone who has slept in past noon in the last month must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2114,
+    "text": "[Player A], make a rule that applies only to [Player B] for the next 5 rounds. If [Player B] refuses, they must [Penalty, max].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2115,
+    "text": "Everyone who has cheated on someone must [Penalty, max].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2116,
+    "text": "[Player A], give [Penalty, 3] to the person with the most interesting secret.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2117,
+    "text": "Whoever has put something on their resume they can't actually do must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2118,
+    "text": "Everyone who has been in a bar fight or come close to one must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2119,
+    "text": "[Player A], give [Penalty, 2] to yourself, then give [Penalty, 2] to whoever you think deserves it most.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2120,
+    "text": "Whoever looks the most sober right now must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2121,
+    "text": "Everyone who has ended a relationship over text must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2122,
+    "text": "[Player A], give [Penalty, 4] to whoever you think has the most skeletons in their closet.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2123,
+    "text": "The person who has spent the most nights sleeping on a couch in the last year must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2124,
+    "text": "Everyone who has ever been escorted out of a venue must [Penalty, 4].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2125,
+    "text": "[Player A], point at the two people you think are most attracted to each other. Both must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2126,
+    "text": "Whoever has the longest contact list must give [Penalty, 2] to whoever has the shortest.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2127,
+    "text": "Everyone who has canceled plans the morning of must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2128,
+    "text": "[Player A], give [Penalty, 3] to whoever you think has the worst pickup line. Make them prove it.",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2129,
+    "text": "Everyone who has matched with someone on an app and never messaged them must [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2130,
+    "text": "[Player A] and [Player B], take turns saying one word each to build a story. First person to pause more than 3 seconds must [Penalty, 3].",
+    "tags": ["Silly", "Party", "Team"]
+  },
+  {
+    "id": 2131,
+    "text": "Whoever has told someone 'we should hang out' with zero intention of following through must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2132,
+    "text": "Everyone who has left a party without saying goodbye must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2133,
+    "text": "[Player A], give [Penalty, 4] to whoever you'd nominate as most likely to end up in a documentary.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2134,
+    "text": "The person who ordered the most expensive item the last time the group went out must [Penalty, 2].",
+    "tags": ["Party", "Bar"]
+  },
+  {
+    "id": 2135,
+    "text": "Everyone who has slept with someone they met that same night must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 2136,
+    "text": "[Player A], assign a nickname to [Player B] for the rest of the game. Anyone who uses their real name instead must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2137,
+    "text": "Whoever still has their ex's number saved must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2138,
+    "text": "Everyone who has eaten at a bar alone must [Penalty, 2].",
+    "tags": ["Party", "Bar"]
+  },
+  {
+    "id": 2139,
+    "text": "[Player A], give [Penalty, 3] to whoever you think is worst at keeping secrets.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2140,
+    "text": "The person who has the most pending messages they haven't replied to must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2141,
+    "text": "Everyone who has been caught lying by their partner must [Penalty, 4].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2142,
+    "text": "[Player A], give [Penalty, 3] to the last person who genuinely made you laugh.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2143,
+    "text": "Everyone who has used 'I'm an introvert' as an excuse to get out of something must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2144,
+    "text": "[Player A], count to 20 without saying the number 13. Mess up and you must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2145,
+    "text": "The person who has the longest active streak in any app right now must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2146,
+    "text": "Everyone who has woken up still wearing their shoes must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2147,
+    "text": "[Player A], whisper a dare to [Player B]. They must either do it or [Penalty, max].",
+    "tags": ["Degen", "Spicy"]
+  },
+  {
+    "id": 2148,
+    "text": "Whoever has taken something from a hotel room beyond the toiletries must [Penalty, 2].",
+    "tags": ["Silly", "Degen"]
+  },
+  {
+    "id": 2149,
+    "text": "Everyone who has cried in a bathroom at a party must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2150,
+    "text": "[Player A], give [Penalty, 3] to whoever you think could charm their way out of anything.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2151,
+    "text": "The person who has been on the most first dates in a single month must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2152,
+    "text": "Everyone who has skipped a family event to hang out with friends must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2153,
+    "text": "[Player A] and [Player B], rock paper scissors, best of three. Loser must [Penalty, 4].",
+    "tags": ["Party", "Silly", "Team"]
+  },
+  {
+    "id": 2154,
+    "text": "Whoever has borrowed money and forgotten to pay it back must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2155,
+    "text": "Everyone who has sent an accidental voice memo must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2156,
+    "text": "[Player A], give [Penalty, 4] to whoever you think makes the worst decisions when they've had too much.",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2157,
+    "text": "The person who has eaten the most questionable food combo must describe it, then [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2158,
+    "text": "Everyone who has left a voicemail in the last year must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2159,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would be the most entertaining in a crisis.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2160,
+    "text": "Whoever has the loudest laugh must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2161,
+    "text": "Everyone who has been on a date that went completely off the rails must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2162,
+    "text": "[Player A], assign [Penalty, 3] to everyone you think is currently avoiding someone in this room.",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2163,
+    "text": "The person who shows up latest to things must [Penalty, 3]. You all know who it is.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2164,
+    "text": "Everyone who has passed out somewhere they shouldn't have must [Penalty, 4].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2165,
+    "text": "[Player A], give [Penalty, 3] to whoever you'd most want by your side if everything went wrong.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2166,
+    "text": "Whoever has the worst hangover story must share the headline, then assign [Penalty, 3] to whoever laughs hardest.",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2167,
+    "text": "Everyone who has made out with someone at a party and never seen them again must [Penalty, 3].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 2168,
+    "text": "[Player A], give [Penalty, 2] to everyone who is on their phone right now.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2169,
+    "text": "The person who has gone the longest without a vacation must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2170,
+    "text": "Everyone who has been the drunkest person in a room must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2171,
+    "text": "[Player A], declare a rule for yourself for the rest of the game. Break it and you must [Penalty, max].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2172,
+    "text": "Whoever has the messiest Notes app must [Penalty, 2]. Let someone else judge.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2173,
+    "text": "Everyone who has dated someone their friends didn't like must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2174,
+    "text": "[Player A], give [Penalty, 3] to whoever most recently said something they immediately regretted.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2175,
+    "text": "The person who has the most silenced group chats must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2176,
+    "text": "Everyone who has done something purely for the clout must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2177,
+    "text": "[Player A] and [Player B], hold eye contact without looking away. First to break must [Penalty, 3]. Group decides who went first.",
+    "tags": ["Party", "Spicy", "Team"]
+  },
+  {
+    "id": 2178,
+    "text": "Whoever has paid cover charge at a bar in the last month must [Penalty, 2].",
+    "tags": ["Degen", "Bar"]
+  },
+  {
+    "id": 2179,
+    "text": "Everyone who has woken up and immediately checked social media must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2180,
+    "text": "[Player A], assign [Penalty, 4] to whoever you think has caused the most chaos in this group over the years.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2181,
+    "text": "The last person to have ordered shots for a group must assign [Penalty, 2] to someone.",
+    "tags": ["Degen", "Bar"]
+  },
+  {
+    "id": 2182,
+    "text": "Everyone who has thrown up at a party must [Penalty, 4].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2183,
+    "text": "[Player A], pick a number between 1 and the number of people in this group. Everyone else guesses. Whoever is farthest off must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2184,
+    "text": "Everyone who has accidentally liked an old post while going through someone's profile must [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2185,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would go the longest without their phone.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2186,
+    "text": "The person with the most stamps in their passport must assign [Penalty, 2] to whoever has the fewest.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2187,
+    "text": "Everyone who has talked their way into somewhere for free must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2188,
+    "text": "[Player A], give [Penalty, 4] to the person you think would be the first to call it a night.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2189,
+    "text": "Whoever has the biggest age gap with an ex must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2190,
+    "text": "Everyone who has been on a couples trip as the only single person must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2191,
+    "text": "[Player A], give [Penalty, 2] to every person you'd invite to a party and [Penalty, 3] to every person you wouldn't.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2192,
+    "text": "The person tending bar (or whoever got the last round) must assign [Penalty, 3] to whoever they want.",
+    "tags": ["Degen", "Bar"]
+  },
+  {
+    "id": 2193,
+    "text": "Everyone who has kissed someone on a first date must [Penalty, 2].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2194,
+    "text": "[Player A], give [Penalty, 3] to the most competitive person here.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2195,
+    "text": "Whoever has eaten an entire pizza by themselves must [Penalty, 3].",
+    "tags": ["Silly", "Degen"]
+  },
+  {
+    "id": 2196,
+    "text": "Everyone who has accidentally followed someone on social media must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2197,
+    "text": "[Player A], give [Penalty, 3] to whoever has been the worst influence on you.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2198,
+    "text": "Everyone who has said yes to plans they had no intention of keeping must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2199,
+    "text": "[Player A] and [Player B], each say a number from 1 to 10 at the same time. Closest to matching wins. Loser must [Penalty, 3].",
+    "tags": ["Silly", "Party", "Team"]
+  },
+  {
+    "id": 2200,
+    "text": "Whoever has gone to work or school still intoxicated must [Penalty, 4].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2201,
+    "text": "Everyone who has been caught creeping someone's social media must [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2202,
+    "text": "[Player A], give [Penalty, 3] to whoever you think cares most about what others think of them.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2203,
+    "text": "The last person to have binged an entire season in one sitting must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2204,
+    "text": "Everyone who has started a group chat and then gone completely silent in it must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2205,
+    "text": "[Player A], assign [Penalty, max] to whoever you think deserves it most tonight. No explanation needed.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2206,
+    "text": "Whoever has the smallest shoe size must [Penalty, 2]. Largest must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2207,
+    "text": "Everyone who has shared someone else's secret must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2208,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would be the most useful in an apocalypse.",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2209,
+    "text": "The person who has been in the most cities in the last year must assign [Penalty, 2] to someone.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2210,
+    "text": "Everyone who has woken someone up by accident during the night must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2211,
+    "text": "[Player A], call someone out. They must [Penalty, 2] or defend themselves to the group's satisfaction.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2212,
+    "text": "Whoever has the most tattoos must assign [Penalty, 2] to whoever has the least.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2213,
+    "text": "Everyone who has skipped the gym to go out instead must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2214,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would win a lying competition.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2215,
+    "text": "The most recently single person in the group must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2216,
+    "text": "Everyone who has eaten food that wasn't theirs from a shared fridge must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2217,
+    "text": "[Player A], pick someone. That person must sit next to whoever they're most awkward with in this group or [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2218,
+    "text": "Whoever has shown up to a party on the wrong day must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2219,
+    "text": "Everyone who has sent a screenshot with the wrong person visible in the notification bar must [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2220,
+    "text": "[Player A], give [Penalty, 4] to whoever you think is the biggest wild card on a night out.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2221,
+    "text": "The person whose hands are the coldest right now must [Penalty, 2].",
+    "tags": ["Silly"]
+  },
+  {
+    "id": 2222,
+    "text": "Everyone who has hooked up with someone their friend had already been with must [Penalty, 4].",
+    "tags": ["Spicy", "Degen"]
+  },
+  {
+    "id": 2223,
+    "text": "[Player A], give [Penalty, 3] to whoever you think would survive longest without social media.",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2224,
+    "text": "Everyone who has blocked then unblocked someone must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2225,
+    "text": "[Player A], assign [Penalty, 3] to whoever you think is the most unpredictable when things go sideways.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2226,
+    "text": "The last person to have lost something important on a night out must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2227,
+    "text": "Everyone who has snuck someone into a venue or event must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2228,
+    "text": "[Player A], tap [Player B] on the shoulder. If they jump or react, they must [Penalty, 2]. If they don't react at all, you must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2229,
+    "text": "Whoever has cried at a wedding must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 2230,
+    "text": "Everyone who has accidentally replied-all to an email must [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 2231,
+    "text": "[Player A], give [Penalty, 3] to whoever you think has the most regrets from their younger years.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2232,
+    "text": "The person who has gone the longest without sleeping in their own bed must [Penalty, 3].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2233,
+    "text": "Everyone who has shown someone a conversation and immediately regretted it must [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2234,
+    "text": "[Player A], give [Penalty, 3] to whoever in the group you'd trust to plan your birthday.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2235,
+    "text": "Whoever has done something embarrassing at a work event must [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2236,
+    "text": "Everyone who has matched with someone on an app and then run into them in real life must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2237,
+    "text": "[Player A], assign [Penalty, 5] to whoever you think is the most fun after midnight.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2238,
+    "text": "Everyone point at the person you'd most want on a desert island. Person with the most fingers pointed at them assigns [Penalty, 3] to whoever they want.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2239,
+    "text": "Whoever has gone back to an ex more than once must [Penalty, 3].",
+    "tags": ["Spicy"]
+  },
+  {
+    "id": 2240,
+    "text": "[Player A], give [Penalty, 3] to whoever you think is most likely to text their ex tonight.",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 2241,
+    "text": "Everyone who has made a major decision while intoxicated and stood by it must [Penalty, 4].",
+    "tags": ["Degen"]
+  },
+  {
+    "id": 2242,
+    "text": "The person who has been on the most group trips must assign [Penalty, 2] to someone who has been on the fewest.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2243,
+    "text": "Everyone who has lied about their age must [Penalty, 2].",
+    "tags": ["Party", "Spicy"]
+  },
+  {
+    "id": 2244,
+    "text": "[Player A] and [Player B], each hold up fingers 1 to 5 at the same time. If the total is odd, [Player A] must [Penalty, 3]. If it's even, [Player B] must [Penalty, 3].",
+    "tags": ["Silly", "Party", "Team"]
+  },
+  {
+    "id": 2245,
+    "text": "Whoever has never been on a plane must assign [Penalty, 2] to whoever has flown the most.",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2246,
+    "text": "Everyone who has cried in their car alone must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 2247,
+    "text": "[Player A], give [Penalty, 3] to the person you think has the least filter when they've had too much.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2248,
+    "text": "The last person to have done something they knew was a bad idea and did it anyway must [Penalty, 3].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 2249,
+    "text": "Everyone who has lied about where they were must [Penalty, 3].",
+    "tags": ["Party", "Spicy"]
+  }
+]
