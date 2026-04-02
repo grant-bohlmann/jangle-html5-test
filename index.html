@@ -23,14 +23,17 @@
         <!-- Set the background colour of the document -->
         <style>
             body {
-                background: #0;
+                background: #000;
                 color: #cccccc;
-                margin: 0px;
-                padding: 0px;
-                border: 0px;
+                margin: 0;
+                padding: 0;
+                border: 0;
                 overflow: hidden;
                 width: 100vw;
                 height: 100dvh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
             }
 
             canvas {
@@ -38,9 +41,10 @@
                 -webkit-interpolation-mode: nearest-neighbor;
                 -ms-touch-action: none;
                 touch-action: none;
-                margin: 0px;
-                padding: 0px;
-                border: 0px;
+                margin: 0;
+                padding: 0;
+                border: 0;
+                display: block;
             }
             :-webkit-full-screen #canvas {
                 width: 100%;
@@ -105,7 +109,7 @@
             
 
             <!-- Create the canvas element the game draws to -->
-            <canvas id="canvas" width="720" height="1280" style="display: block; margin: 0 auto;">
+            <canvas id="canvas" width="720" height="1280">
                 
                 <p>Your browser doesn't support HTML5 canvas.</p>
             </canvas>
@@ -114,11 +118,58 @@
             
         </div>
 
+        <!-- Canvas sizing: calculate exact pixel dimensions to maintain 9:16 aspect ratio -->
+        <script>
+            function resizeCanvas()
+            {
+                var canvas = document.getElementById("canvas");
+                if (!canvas) return;
+
+                var GAME_W = 720;
+                var GAME_H = 1280;
+                var aspectRatio = GAME_W / GAME_H; // 0.5625
+
+                var viewW = window.innerWidth;
+                var viewH = window.innerHeight;
+
+                var displayW, displayH;
+
+                // Fit the 9:16 game into the available viewport while preserving aspect ratio
+                if (viewW / viewH < aspectRatio)
+                {
+                    // Viewport is narrower than game — fit to width
+                    displayW = viewW;
+                    displayH = viewW / aspectRatio;
+                }
+                else
+                {
+                    // Viewport is wider than (or equal to) game — fit to height
+                    displayH = viewH;
+                    displayW = viewH * aspectRatio;
+                }
+
+                // Set explicit CSS pixel dimensions (no object-fit needed)
+                // This ensures canvas.clientWidth/clientHeight match the visible area exactly,
+                // which is what GM's runtime uses for input coordinate mapping.
+                canvas.style.width = Math.floor(displayW) + "px";
+                canvas.style.height = Math.floor(displayH) + "px";
+            }
+
+            // Resize on load, orientation change, and window resize
+            window.addEventListener("resize", resizeCanvas);
+            window.addEventListener("orientationchange", function() {
+                setTimeout(resizeCanvas, 100);
+            });
+
+            // Initial sizing before GM init
+            resizeCanvas();
+        </script>
+
         <!-- Run the game code -->
         <script type="text/javascript" src="jangle-test/PreGame.js?cachebust=2060702419"></script>
 
         <!-- Builtin injector for injecting runner path -->
-        
+
 
         <script>window.onload = GameMaker_Init;</script>
 
