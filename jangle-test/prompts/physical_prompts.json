@@ -1,0 +1,79 @@
+[
+  {
+    "id": 5000,
+    "text": "[Player A], spin in place five times as fast as you can, then walk in a straight line. If you veer off course, [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5001,
+    "text": "[Player A], strike your best superhero pose and hold it for ten seconds. Nail it and assign [Penalty, 3] to anyone. Break early and [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5002,
+    "text": "Everyone try to touch your nose with your tongue. If you can, assign [Penalty, 2] to anyone. If you can't, [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5003,
+    "text": "[Player A], stand on one leg for fifteen seconds without touching down. Fail and [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 5004,
+    "text": "[Player A], make a bridge with your body. Lean back on your hands and feet, stomach to the ceiling. Can't hold it for five seconds and [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 5005,
+    "text": "Everyone try to lick your elbow. If you can pull it off, assign [Penalty, 2] to anyone. If you can't, [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5006,
+    "text": "[Player A], hold your breath for thirty seconds. If you can't make it, [Penalty, 3].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 5007,
+    "text": "[Player A], do a handstand against the wall and hold it as long as possible. Every five seconds you hold, assign [Penalty, 1] to anyone you want.",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 5008,
+    "text": "[Player A], do a cartwheel. Stumble, bail, or refuse and [Penalty, max].",
+    "tags": ["Party", "Degen"]
+  },
+  {
+    "id": 5009,
+    "text": "[Player A] and [Player B], get into a plank. First one to drop takes [Penalty, 5].",
+    "tags": ["Party", "Team"],
+    "player_count": { "min": 2, "max": 99 }
+  },
+  {
+    "id": 5010,
+    "text": "[Player A], jump and try to touch the ceiling. Touch it and assign [Penalty, 3] to anyone. Don't reach it and [Penalty, 3].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5011,
+    "text": "[Player A], walk backwards from one wall to the other without looking. If you veer off, bump something, or stop to peek, [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5012,
+    "text": "Everyone try to wiggle your ears. Anyone who can't, [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  },
+  {
+    "id": 5013,
+    "text": "[Player A] and [Player B], hold a squat. First one to stand up or fall over takes [Penalty, 4].",
+    "tags": ["Party", "Team"],
+    "player_count": { "min": 2, "max": 99 }
+  },
+  {
+    "id": 5014,
+    "text": "Everyone try to touch your toes without bending your knees. If you can't reach, [Penalty, 2].",
+    "tags": ["Party", "Silly"]
+  }
+]

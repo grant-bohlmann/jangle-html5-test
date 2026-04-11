@@ -7,7 +7,7 @@
   {
     "id": 2001,
     "text": "Everyone wearing socks right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2002,
@@ -27,7 +27,7 @@
   {
     "id": 2005,
     "text": "The tallest person here must [Penalty, 2]. The shortest must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2006,
@@ -37,7 +37,7 @@
   {
     "id": 2007,
     "text": "The person who slept the latest yesterday must [Penalty, 3].",
-    "tags": ["Party", "Degen"]
+    "tags": ["Party"]
   },
   {
     "id": 2008,
@@ -47,7 +47,7 @@
   {
     "id": 2009,
     "text": "[Player A], give [Penalty, 5] to whoever you think is most likely to cry at a movie.",
-    "tags": ["Silly", "Party"]
+    "tags": ["Party"]
   },
   {
     "id": 2010,
@@ -61,8 +61,8 @@
   },
   {
     "id": 2012,
-    "text": "Whoever has the most unread notifications on their phone right now must [Penalty, 3].",
-    "tags": ["Party", "Silly"]
+    "text": "The last person to arrive here tonight must [Penalty, 3]. Punctuality is a virtue.",
+    "tags": ["Party"]
   },
   {
     "id": 2013,
@@ -71,7 +71,7 @@
   },
   {
     "id": 2014,
-    "text": "The person who woke up latest today must [Penalty, 2].",
+    "text": "The person who stayed out the latest this past weekend must [Penalty, 3].",
     "tags": ["Party", "Degen"]
   },
   {
@@ -82,7 +82,7 @@
   {
     "id": 2016,
     "text": "The person with the longest hair must [Penalty, 2]. The person with the shortest must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2017,
@@ -102,7 +102,7 @@
   {
     "id": 2020,
     "text": "The person who has the most siblings must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2021,
@@ -111,8 +111,8 @@
   },
   {
     "id": 2022,
-    "text": "Whoever has the oldest phone model in the group must [Penalty, 3].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has gone the longest without changing their hairstyle must [Penalty, 3].",
+    "tags": ["Party", "Silly"]
   },
   {
     "id": 2023,
@@ -122,7 +122,7 @@
   {
     "id": 2024,
     "text": "The person who got the least sleep last night must [Penalty, 3].",
-    "tags": ["Party", "Degen"]
+    "tags": ["Party"]
   },
   {
     "id": 2025,
@@ -132,17 +132,17 @@
   {
     "id": 2026,
     "text": "The person wearing the most colors must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2027,
-    "text": "Whoever has the most photos on their phone must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has been to the most cities in the last year must assign [Penalty, 2] to someone who has left town the least.",
+    "tags": ["Party"]
   },
   {
     "id": 2028,
     "text": "[Player A], give [Penalty, 4] to whoever looks the most tired right now.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2029,
@@ -167,7 +167,7 @@
   {
     "id": 2033,
     "text": "Whoever is sitting with the worst posture right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2034,
@@ -187,7 +187,7 @@
   {
     "id": 2037,
     "text": "[Player A], assign [Penalty, 3] to yourself and [Penalty, 3] to whoever you think is most like you.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2038,
@@ -216,7 +216,7 @@
   },
   {
     "id": 2043,
-    "text": "Whoever sent a text in the last 10 minutes must [Penalty, 2].",
+    "text": "Whoever got here last must [Penalty, 2] for every person who arrived before them.",
     "tags": ["Party"]
   },
   {
@@ -227,12 +227,12 @@
   {
     "id": 2045,
     "text": "The person who has gone the longest without a shower must [Penalty, 4]. Be honest.",
-    "tags": ["Silly", "Degen"]
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2046,
-    "text": "Whoever has the most screenshots on their phone must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who most recently called someone instead of texting them must [Penalty, 2].",
+    "tags": ["Party", "Silly"]
   },
   {
     "id": 2047,
@@ -246,17 +246,17 @@
   },
   {
     "id": 2049,
-    "text": "[Player A], point at the two people you think are most attracted to each other. Both must [Penalty, 3].",
-    "tags": ["Spicy", "Party"]
+    "text": "[Player A] must [Penalty, max]. No questions. No context. Because I said so.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2050,
-    "text": "Whoever has the longest contact list must give [Penalty, 2] to whoever has the shortest.",
+    "text": "The person who talks the most must assign [Penalty, 2] to the person who talks the least. Group decides who is who.",
     "tags": ["Party", "Silly"]
   },
   {
     "id": 2051,
-    "text": "[Player A], give [Penalty, 3] to whoever you think has the worst pickup line. Make them prove it.",
+    "text": "[Player A], give [Penalty, 3] to whoever you think has the worst pickup line.",
     "tags": ["Spicy", "Party"]
   },
   {
@@ -276,13 +276,13 @@
   },
   {
     "id": 2055,
-    "text": "The person who has the most pending messages they haven't replied to must [Penalty, 3].",
+    "text": "The person who takes the longest to reply to messages must [Penalty, 3]. You all know who it is.",
     "tags": ["Party"]
   },
   {
     "id": 2056,
     "text": "[Player A], give [Penalty, 3] to the last person who genuinely made you laugh.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2057,
@@ -292,7 +292,7 @@
   {
     "id": 2058,
     "text": "[Player A], give [Penalty, 3] to whoever you think would be the most entertaining in a crisis.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2059,
@@ -307,7 +307,7 @@
   {
     "id": 2061,
     "text": "[Player A], give [Penalty, 3] to whoever you'd most want by your side if everything went wrong.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2062,
@@ -321,8 +321,8 @@
   },
   {
     "id": 2064,
-    "text": "Whoever has the lowest battery percentage right now must [Penalty, 3].",
-    "tags": ["Silly", "Party"]
+    "text": "The first person to have arrived here tonight assigns [Penalty, 3] to whoever showed up last.",
+    "tags": ["Party"]
   },
   {
     "id": 2065,
@@ -331,7 +331,7 @@
   },
   {
     "id": 2066,
-    "text": "Whoever has the messiest Notes app must [Penalty, 2]. Let someone else judge.",
+    "text": "The person who eats the most junk food must [Penalty, 2]. Group decides.",
     "tags": ["Silly", "Party"]
   },
   {
@@ -341,8 +341,8 @@
   },
   {
     "id": 2068,
-    "text": "The person who has the most silenced group chats must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has been in the most relationships must [Penalty, 2]. The person who has been in the fewest must [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
   },
   {
     "id": 2069,
@@ -377,7 +377,7 @@
   {
     "id": 2075,
     "text": "The person whose hands are the coldest right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2076,
@@ -401,7 +401,7 @@
   },
   {
     "id": 2080,
-    "text": "Everyone point at the person you'd most want on a desert island. Person with the most fingers pointed at them assigns [Penalty, 3] to whoever they want.",
+    "text": "[Player A], you owe [Penalty, max] to the group. Split it however you want across the other players.",
     "tags": ["Party"]
   },
   {
@@ -452,12 +452,12 @@
   {
     "id": 2090,
     "text": "Whoever has the smallest shoe size must [Penalty, 2]. Largest must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2091,
     "text": "[Player A], give [Penalty, 3] to whoever you think would be the most useful in an apocalypse.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2092,
@@ -467,7 +467,7 @@
   {
     "id": 2093,
     "text": "[Player A], give [Penalty, 3] to whoever you think would survive longest without social media.",
-    "tags": ["Silly", "Party"]
+    "tags": ["Party"]
   },
   {
     "id": 2094,
@@ -482,7 +482,7 @@
   {
     "id": 2096,
     "text": "The person who most recently went on a date must [Penalty, 2].",
-    "tags": ["Spicy"]
+    "tags": ["Spicy", "Party"]
   },
   {
     "id": 2097,
@@ -496,8 +496,8 @@
   },
   {
     "id": 2099,
-    "text": "The person who has the most notes saved on their phone must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has lived at the most different addresses must assign [Penalty, 2] to whoever has moved around the least.",
+    "tags": ["Party"]
   },
   {
     "id": 2100,
@@ -531,8 +531,8 @@
   },
   {
     "id": 2106,
-    "text": "Whoever still has their ex's number saved must [Penalty, 3].",
-    "tags": ["Spicy"]
+    "text": "The person who has been single the longest must [Penalty, 2]. The person who has been taken the longest must [Penalty, 2].",
+    "tags": ["Spicy", "Party"]
   },
   {
     "id": 2107,
@@ -542,7 +542,7 @@
   {
     "id": 2108,
     "text": "The person who has eaten the most questionable food combo must describe it, then [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2109,
@@ -551,8 +551,8 @@
   },
   {
     "id": 2110,
-    "text": "The person who has the longest active streak in any app right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "text": "The person who works out the most must [Penalty, 2]. The person who works out the least must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2111,
@@ -566,7 +566,7 @@
   },
   {
     "id": 2113,
-    "text": "[Player A], pick someone. That person must sit next to whoever they're most awkward with in this group or [Penalty, 3].",
+    "text": "[Player A], assign [Penalty, 4] to whoever you think has been avoiding the most awkward conversation in this group lately.",
     "tags": ["Party", "Spicy"]
   },
   {
@@ -582,7 +582,7 @@
   {
     "id": 2116,
     "text": "The last person to have binged an entire season in one sitting must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "tags": ["Party"]
   },
   {
     "id": 2117,
@@ -607,7 +607,7 @@
   {
     "id": 2121,
     "text": "Whoever has been unemployed the longest must [Penalty, 3].",
-    "tags": ["Party", "Degen"]
+    "tags": ["Party"]
   },
   {
     "id": 2122,
@@ -677,12 +677,12 @@
   {
     "id": 2135,
     "text": "[Player A], give [Penalty, 3] to whoever you think has the most chaotic morning routine.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2136,
-    "text": "The person with the most open browser tabs right now must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who uses their credit card the most recklessly must [Penalty, 3]. Group decides.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2137,
@@ -691,8 +691,8 @@
   },
   {
     "id": 2138,
-    "text": "Whoever has the most unread emails must [Penalty, 2]. Show the number.",
-    "tags": ["Party", "Silly"]
+    "text": "The person who owes the most money to someone in this group must [Penalty, 3]. You know who you are.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2139,
@@ -701,8 +701,8 @@
   },
   {
     "id": 2140,
-    "text": "The person with the most blocked contacts must [Penalty, 3]. Verify if challenged.",
-    "tags": ["Spicy", "Party"]
+    "text": "The person who has ended the most friendships must [Penalty, 3]. Group decides who qualifies.",
+    "tags": ["Party", "Spicy"]
   },
   {
     "id": 2141,
@@ -711,7 +711,7 @@
   },
   {
     "id": 2142,
-    "text": "Whoever has the most photos of food on their phone must [Penalty, 2].",
+    "text": "The person who eats the fastest must [Penalty, 2]. The person who eats the slowest must [Penalty, 2]. Group decides.",
     "tags": ["Silly", "Party"]
   },
   {
@@ -722,7 +722,7 @@
   {
     "id": 2144,
     "text": "The person currently sitting closest to the phone charger must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2145,
@@ -731,7 +731,7 @@
   },
   {
     "id": 2146,
-    "text": "Whoever has the most apps on their home screen must [Penalty, 2]. Everyone counts.",
+    "text": "The person who has owned the most pets must assign [Penalty, 2] to whoever has owned the fewest.",
     "tags": ["Silly", "Party"]
   },
   {
@@ -741,7 +741,7 @@
   },
   {
     "id": 2148,
-    "text": "The person with the most voice notes sitting unlistened-to must [Penalty, 2].",
+    "text": "The person who naps the most must [Penalty, 2]. The person who never naps must [Penalty, 2].",
     "tags": ["Silly", "Party"]
   },
   {
@@ -752,16 +752,16 @@
   {
     "id": 2150,
     "text": "Whoever is currently wearing something inside out must [Penalty, 3]. Check carefully.",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2151,
     "text": "[Player A], give [Penalty, 3] to whoever you think is most likely to show up to something overdressed.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2152,
-    "text": "The person with the highest step count today must assign [Penalty, 2] to whoever has the lowest.",
+    "text": "The person who walks the fastest must assign [Penalty, 2] to the person who walks the slowest. Group decides.",
     "tags": ["Silly", "Party"]
   },
   {
@@ -771,18 +771,18 @@
   },
   {
     "id": 2154,
-    "text": "Whoever has the most reminders or alarms set on their phone right now must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who wakes up earliest on weekdays must [Penalty, 2]. The person who sleeps the latest on weekends must [Penalty, 2].",
+    "tags": ["Party"]
   },
   {
     "id": 2155,
     "text": "[Player A], give [Penalty, 3] to whoever you think is the most delusional about their own cooking.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2156,
-    "text": "The person with the most saved items in their shopping cart right now must [Penalty, 2].",
-    "tags": ["Party", "Silly"]
+    "text": "The person who has spent the most money on clothes in the last month must [Penalty, 3]. Be honest.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2157,
@@ -791,13 +791,13 @@
   },
   {
     "id": 2158,
-    "text": "Whoever has the most photos of sunsets on their camera roll must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "Bad news for [Player A] and [Player B]. You both must [Penalty, 3]. Good news: there is no good news.",
+    "tags": ["Party"]
   },
   {
     "id": 2159,
     "text": "[Player A], give [Penalty, 3] to whoever you think would make the worst best man or maid of honor.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2160,
@@ -812,7 +812,7 @@
   {
     "id": 2162,
     "text": "Whoever is sitting in the most uncomfortable position right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2163,
@@ -821,8 +821,8 @@
   },
   {
     "id": 2164,
-    "text": "The person with the most do-not-disturb contacts on their phone must [Penalty, 2].",
-    "tags": ["Party"]
+    "text": "The person who has gone the longest without seeing a doctor must [Penalty, 2]. Brave or reckless, either way [Penalty, 2].",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2165,
@@ -831,8 +831,8 @@
   },
   {
     "id": 2166,
-    "text": "Whoever has the lowest screen time average this week must [Penalty, 2]. Show the number.",
-    "tags": ["Silly", "Party"]
+    "text": "[Player A], give [Penalty, 3] to whoever you think peaked in high school.",
+    "tags": ["Party"]
   },
   {
     "id": 2167,
@@ -841,7 +841,7 @@
   },
   {
     "id": 2168,
-    "text": "The person with the most unanswered calls right now must [Penalty, 2].",
+    "text": "The person who has skipped the most plans in the last month must [Penalty, 3].",
     "tags": ["Party"]
   },
   {
@@ -861,18 +861,18 @@
   },
   {
     "id": 2172,
-    "text": "The person with the most downloads pending on their phone must [Penalty, 2].",
-    "tags": ["Silly"]
+    "text": "[Player A] picks 3 players who each must [Penalty, 5]. For absolutely no reason whatsoever.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2173,
     "text": "[Player A], give [Penalty, 4] to whoever you think could survive a week in the woods with no phone.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2174,
     "text": "Whoever is currently wearing something they borrowed and never returned must [Penalty, 3].",
-    "tags": ["Silly", "Party"]
+    "tags": ["Party"]
   },
   {
     "id": 2175,
@@ -882,17 +882,17 @@
   {
     "id": 2176,
     "text": "The person most likely to have read a self-help book this year must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "tags": ["Party"]
   },
   {
     "id": 2177,
     "text": "[Player A], give [Penalty, 3] to whoever you think would be the first to panic in a natural disaster.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2178,
-    "text": "Whoever has the most social media accounts currently active must [Penalty, 2].",
-    "tags": ["Party"]
+    "text": "The game has decided: everyone must [Penalty, 2]. No one is innocent here.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2179,
@@ -901,18 +901,18 @@
   },
   {
     "id": 2180,
-    "text": "The person who has been in this city the longest must assign [Penalty, 2] to whoever has been here the shortest.",
+    "text": "Whoever has lived in this city the longest gets to decide: does the person who has been here the shortest [Penalty, 3], or do they get a free pass?",
     "tags": ["Party"]
   },
   {
     "id": 2181,
     "text": "[Player A], give [Penalty, 3] to whoever you think is least likely to survive without someone doing things for them.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2182,
-    "text": "Whoever has the highest screen time reported today must [Penalty, 3]. Show it.",
-    "tags": ["Party", "Silly"]
+    "text": "Youngest person here must [Penalty, 2]. Oldest person here must [Penalty, 2]. Middle children of the group must [Penalty, 3].",
+    "tags": ["Party"]
   },
   {
     "id": 2183,
@@ -921,8 +921,8 @@
   },
   {
     "id": 2184,
-    "text": "The person with the most subscriptions currently active on their phone must [Penalty, 2].",
-    "tags": ["Party", "Silly"]
+    "text": "The person who has spent the most nights this year sleeping somewhere other than their own bed must [Penalty, 2].",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2185,
@@ -932,7 +932,7 @@
   {
     "id": 2186,
     "text": "Whoever is wearing the brightest color right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2187,
@@ -942,7 +942,7 @@
   {
     "id": 2188,
     "text": "The person who has been awake the longest today must [Penalty, 2].",
-    "tags": ["Party", "Degen"]
+    "tags": ["Party"]
   },
   {
     "id": 2189,
@@ -951,8 +951,8 @@
   },
   {
     "id": 2190,
-    "text": "Whoever currently has the most items in their online cart must [Penalty, 2].",
-    "tags": ["Party", "Silly"]
+    "text": "The last person to make an impulse purchase must [Penalty, 3]. You know exactly what you did.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2191,
@@ -962,7 +962,7 @@
   {
     "id": 2192,
     "text": "The person wearing the most rings or jewelry right now must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2193,
@@ -972,7 +972,7 @@
   {
     "id": 2194,
     "text": "Whoever is sitting the closest to the center of the room must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2195,
@@ -981,7 +981,7 @@
   },
   {
     "id": 2196,
-    "text": "The person with the most group chats on their phone must [Penalty, 2].",
+    "text": "The person who has been in the most group chats this year must [Penalty, 2]. The person who has been in the fewest must [Penalty, 2].",
     "tags": ["Party", "Silly"]
   },
   {
@@ -991,7 +991,7 @@
   },
   {
     "id": 2198,
-    "text": "Whoever has the most photos taken within the last 24 hours must [Penalty, 2].",
+    "text": "The person who took the most selfies in the last week must [Penalty, 2]. You know if it's you.",
     "tags": ["Party", "Silly"]
   },
   {
@@ -1001,23 +1001,23 @@
   },
   {
     "id": 2200,
-    "text": "The person currently the farthest from their charger and under 30% battery must [Penalty, 3].",
+    "text": "The person who is the most directionally challenged must [Penalty, 3]. Group decides.",
     "tags": ["Silly", "Party"]
   },
   {
     "id": 2201,
     "text": "[Player A], give [Penalty, 3] to whoever you think is most likely to fall asleep first tonight.",
-    "tags": ["Party", "Degen"]
+    "tags": ["Party"]
   },
   {
     "id": 2202,
-    "text": "The person with the most photos of themselves on their camera roll must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "[Player A], assign [Penalty, 4] to whoever showed up looking the most suspicious tonight.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2203,
     "text": "[Player A], give [Penalty, 4] to whoever you think would last the longest in a silent retreat.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2204,
@@ -1031,8 +1031,8 @@
   },
   {
     "id": 2206,
-    "text": "The person who has gone the longest without checking social media today must assign [Penalty, 2] to whoever checked it last.",
-    "tags": ["Party", "Silly"]
+    "text": "The person who has gone the longest without calling their parents must [Penalty, 3].",
+    "tags": ["Party"]
   },
   {
     "id": 2207,
@@ -1041,8 +1041,8 @@
   },
   {
     "id": 2208,
-    "text": "Whoever has the most expired coupons or loyalty cards on their phone must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has the most items on a personal bucket list they haven't crossed off must [Penalty, 2].",
+    "tags": ["Party"]
   },
   {
     "id": 2209,
@@ -1052,7 +1052,7 @@
   {
     "id": 2210,
     "text": "The person currently sitting in the least comfortable position must [Penalty, 2]. Group votes.",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2211,
@@ -1061,8 +1061,8 @@
   },
   {
     "id": 2212,
-    "text": "Whoever has the most apps they haven't opened in over a month must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has lived in the most apartments or houses must [Penalty, 2]. Most nomadic player wins nothing.",
+    "tags": ["Party"]
   },
   {
     "id": 2213,
@@ -1071,8 +1071,8 @@
   },
   {
     "id": 2214,
-    "text": "The person whose lock screen is someone else's face must [Penalty, 2].",
-    "tags": ["Spicy", "Silly"]
+    "text": "The person who has gone the longest without updating their look must [Penalty, 2]. Group decides.",
+    "tags": ["Party", "Silly"]
   },
   {
     "id": 2215,
@@ -1087,12 +1087,12 @@
   {
     "id": 2217,
     "text": "[Player A], give [Penalty, 3] to whoever you think would buy the most useless thing in a duty-free shop.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2218,
-    "text": "The person with the most contacts saved under a nickname instead of a real name must [Penalty, 2].",
-    "tags": ["Party", "Spicy"]
+    "text": "The person who has the most embarrassing nickname from their past must [Penalty, 2]. Group picks who they think it is.",
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2219,
@@ -1101,13 +1101,13 @@
   },
   {
     "id": 2220,
-    "text": "Whoever has the most items in their phone camera trash or recently deleted folder must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has cancelled the most plans this month must [Penalty, 3]. Be honest.",
+    "tags": ["Party"]
   },
   {
     "id": 2221,
     "text": "[Player A], give [Penalty, 4] to whoever you think would be the worst to share a hotel room with.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2222,
@@ -1117,16 +1117,16 @@
   {
     "id": 2223,
     "text": "[Player A], give [Penalty, 3] to whoever you think is most likely to have a meltdown over something minor.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2224,
-    "text": "Whoever has a photo of food as their contact picture for someone must [Penalty, 2].",
-    "tags": ["Silly"]
+    "text": "The person who has been in the most group photos this year must [Penalty, 2]. The person who has been in the fewest must [Penalty, 3].",
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2225,
-    "text": "[Player A], give [Penalty, 3] to whoever you think would be the most likely to win an argument they were completely wrong about.",
+    "text": "[Player A], give [Penalty, 3] to whoever you think would win an argument they were completely wrong about.",
     "tags": ["Party"]
   },
   {
@@ -1137,12 +1137,12 @@
   {
     "id": 2227,
     "text": "[Player A], give [Penalty, 3] to whoever you think has the most dramatic inner monologue.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2228,
-    "text": "Whoever has the most archived conversations on their phone must [Penalty, 2].",
-    "tags": ["Party", "Spicy"]
+    "text": "The person who has the most distant relationship with someone they once called their best friend must [Penalty, 2].",
+    "tags": ["Party"]
   },
   {
     "id": 2229,
@@ -1151,8 +1151,8 @@
   },
   {
     "id": 2230,
-    "text": "The person with the most international contacts saved must assign [Penalty, 2] to whoever has the fewest.",
-    "tags": ["Party"]
+    "text": "The game has spoken: [Player A] must [Penalty, max] right now. That's it. That's the card.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2231,
@@ -1162,7 +1162,7 @@
   {
     "id": 2232,
     "text": "Whoever is wearing an item of clothing with a logo or brand on it must [Penalty, 2].",
-    "tags": ["Silly"]
+    "tags": ["Silly", "Party"]
   },
   {
     "id": 2233,
@@ -1171,8 +1171,8 @@
   },
   {
     "id": 2234,
-    "text": "The person whose phone wallpaper is a default background must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "The person who has rescheduled the most plans in their life must [Penalty, 2]. Chronic reschedulers, you know who you are.",
+    "tags": ["Party"]
   },
   {
     "id": 2235,
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 2238,
-    "text": "The person currently with the most steps remaining in their daily goal must [Penalty, 2].",
+    "text": "The person who has walked the most today must assign [Penalty, 2] to the person who has walked the least. Be honest.",
     "tags": ["Silly", "Party"]
   },
   {
@@ -1201,18 +1201,18 @@
   },
   {
     "id": 2240,
-    "text": "Whoever has the most notifications from dating apps right now must [Penalty, 3].",
-    "tags": ["Spicy", "Party"]
+    "text": "Congratulations, [Player A]. You must [Penalty, max]. The game chose you. It always was going to be you.",
+    "tags": ["Party", "Degen"]
   },
   {
     "id": 2241,
     "text": "[Player A], give [Penalty, 3] to whoever you think is the biggest homebody.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2242,
-    "text": "The person with the most photos from this year on their phone must [Penalty, 2].",
-    "tags": ["Party", "Silly"]
+    "text": "The person who has the most years of memories with someone in this group must assign [Penalty, 2] to the newest addition to the circle.",
+    "tags": ["Party"]
   },
   {
     "id": 2243,
@@ -1227,12 +1227,12 @@
   {
     "id": 2245,
     "text": "[Player A], give [Penalty, 3] to whoever you think would be the most likely to accidentally burn dinner.",
-    "tags": ["Party", "Silly"]
+    "tags": ["Party"]
   },
   {
     "id": 2246,
     "text": "The person who has been awake the fewest hours today must [Penalty, 2].",
-    "tags": ["Party", "Degen"]
+    "tags": ["Party"]
   },
   {
     "id": 2247,
@@ -1241,8 +1241,8 @@
   },
   {
     "id": 2248,
-    "text": "Whoever has the most photos of animals on their camera roll must [Penalty, 2].",
-    "tags": ["Silly", "Party"]
+    "text": "Whoever is the newest to this friend group must [Penalty, 3]. Welcome to the family.",
+    "tags": ["Party"]
   },
   {
     "id": 2249,

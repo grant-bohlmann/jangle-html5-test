@@ -1258,5 +1258,25 @@
     "id": 1251,
     "text": "[Player A], read your last sent text message out loud to the group. Refuse and [Penalty, max].",
     "tags": ["Party", "Spicy", "Degen"]
+  },
+  {
+    "id": 1252,
+    "text": "Everyone open your dating apps right now. Whoever has the most unread matches or messages must [Penalty, 3].",
+    "tags": ["Spicy", "Party"]
+  },
+  {
+    "id": 1253,
+    "text": "Everyone count how many social media accounts you have. The person with the most must [Penalty, 2].",
+    "tags": ["Party"]
+  },
+  {
+    "id": 1254,
+    "text": "Everyone check your app store. Whoever has the most pending updates or downloads waiting must [Penalty, 2].",
+    "tags": ["Silly", "Party"]
+  },
+  {
+    "id": 1255,
+    "text": "Everyone scroll through your contacts. Whoever has the most international numbers gets to decide: does the person with the fewest [Penalty, 3], or do they get a free pass?",
+    "tags": ["Party"]
   }
 ]
