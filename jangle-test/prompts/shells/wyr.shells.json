@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "wyr.group_vote.v1",
+      "category_id": "wyr",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Would you rather [wyr_pairs.a] or [wyr_pairs.b]? Everyone reveal at once. Losing side takes [Penalty, 2-3]."
+      }
+    }
+  ]
+}

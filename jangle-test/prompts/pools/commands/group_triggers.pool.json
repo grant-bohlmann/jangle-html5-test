@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "pool_id": "group_triggers",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "group_triggers_silly",
+      "type": "text",
+      "tags": [
+        "Silly",
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "has their phone screen facing down right now",
+        "is wearing something with a zipper",
+        "is holding their phone in their hand right now",
+        "has at least one pocket right now",
+        "has chapped lips right now",
+        "is sitting with their back against something",
+        "has a notification they haven't checked in the last hour",
+        "has both feet flat on the floor right now",
+        "is wearing something with buttons",
+        "has a charger within arm's reach right now",
+        "has their legs crossed right now",
+        "is wearing something with a hood",
+        "is holding a drink right now",
+        "can see the front door from where they're sitting",
+        "has their shoes off right now",
+        "is wearing something with a stripe on it",
+        "has their sleeves rolled up right now",
+        "is sitting on the floor right now",
+        "has a ring on right now",
+        "is wearing something borrowed right now",
+        "has their hair tied up right now",
+        "is closest to a window right now",
+        "has a visible scar or mark on their skin right now"
+      ]
+    },
+    {
+      "pool_id": "group_triggers_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "has texted someone in this room today",
+        "has sent a meme to someone in the last 24 hours",
+        "has checked social media in the last 15 minutes",
+        "went out last weekend",
+        "has eaten something today that they probably shouldn't have",
+        "has replied to a story in the last 24 hours",
+        "has made plans this week they're already dreading",
+        "has looked at their ex's social media in the last month",
+        "has bought something online in the last week",
+        "has canceled plans at least once this month",
+        "has a package on the way right now",
+        "has an unanswered text sitting in their inbox right now",
+        "has a low phone battery right now",
+        "has an alarm set for tomorrow morning already",
+        "has a group chat notification they haven't opened yet",
+        "has plans after this that they haven't mentioned yet",
+        "has a parking meter or ticket they need to deal with",
+        "is due for an oil change or car maintenance",
+        "has a birthday in the same month as someone else here",
+        "has a subscription renewal coming up this week"
+      ]
+    },
+    {
+      "pool_id": "group_triggers_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "has gone out three or more nights in a row at some point this year",
+        "has shown up somewhere already buzzed",
+        "has mixed two things that had no business being mixed",
+        "has started a night saying 'just one' and had more than four",
+        "has kept going after everyone else called it a night at least once this year",
+        "has a drink in hand that's stronger than they're letting on",
+        "has already lost count tonight",
+        "is the reason the pregame ran long",
+        "has a backup plan for getting home that involves someone else's couch",
+        "showed up tonight already regretting a decision from earlier today"
+      ]
+    },
+    {
+      "pool_id": "group_triggers_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "is currently talking to someone they shouldn't be",
+        "has an unread message from someone they're interested in right now",
+        "has flirted with someone in this room",
+        "has thought about someone in this room today",
+        "would pursue something with someone in this room if circumstances were different",
+        "has a notification from a dating app right now",
+        "is dressed tonight for someone specific",
+        "has been texting the same person all week"
+      ]
+    }
+  ]
+}

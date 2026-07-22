@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "pool_id": "duo_punchlines",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "duo_punchlines_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "The good news? There is none.",
+        "Fate works in mysterious ways.",
+        "Life comes at you fast.",
+        "No one saw that coming.",
+        "The universe has spoken.",
+        "Consider it a bonding experience.",
+        "Some friendships are forged in suffering.",
+        "You're welcome, everyone else.",
+        "You'll laugh about this eventually.",
+        "That's just how it goes.",
+        "No refunds.",
+        "Worth it, probably.",
+        "The universe doesn't do explanations.",
+        "Cosmic injustice, served fresh.",
+        "This one's on nobody in particular.",
+        "Blame the algorithm.",
+        "There was never going to be a good reason."
+      ]
+    },
+    {
+      "pool_id": "duo_punchlines_silly",
+      "type": "text",
+      "tags": [
+        "Silly",
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Congrats on being chosen.",
+        "The stars aligned for this.",
+        "A tragedy in two parts.",
+        "Nobody is having a good time.",
+        "Somewhere, a butterfly is to blame.",
+        "This is what peak chemistry looks like.",
+        "You were selected by a very fair algorithm.",
+        "Some duos are just destined.",
+        "A very official coin flip decided this.",
+        "The odds were never actually calculated."
+      ]
+    }
+  ]
+}

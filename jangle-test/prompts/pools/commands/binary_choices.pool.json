@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pool_id": "binary_choices",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "binary_choices_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Coffee or energy drinks?",
+        "Beach trip or city trip?",
+        "Sweet or salty?",
+        "Morning shower or night shower?",
+        "Window seat or aisle seat?",
+        "Dogs or cats?",
+        "Texting or calling?",
+        "Cook at home or order out?",
+        "Early bird or night owl?",
+        "Fries or onion rings?",
+        "Movie theater or couch?",
+        "Pancakes or waffles?",
+        "Music or podcasts?",
+        "Group chat or one-on-one?",
+        "Plan everything or wing it?",
+        "Camping or hotel?",
+        "Save it or spend it?",
+        "Hot weather or cold weather?",
+        "Summer or winter?",
+        "Mountains or ocean?",
+        "Netflix or YouTube?",
+        "Text first or wait for a reply?",
+        "Big group or small group?",
+        "Read the book or watch the movie?",
+        "Take the stairs or wait for the elevator?",
+        "Sunrise or sunset?",
+        "Board games or video games?",
+        "Ask for directions or figure it out yourself?",
+        "New restaurant or the usual spot?",
+        "Cash or card?",
+        "Air conditioning or an open window?",
+        "Karaoke or trivia night?",
+        "Road trip or flight?",
+        "Comedy or horror?"
+      ]
+    },
+    {
+      "pool_id": "binary_choices_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Marry rich or marry hot?",
+        "Kiss on the first date or make them wait?",
+        "Older or younger?",
+        "Love at first sight or slow burn?",
+        "Flirt in person or slide into DMs?",
+        "Tall and quiet or short and loud?",
+        "Someone who chases or someone who plays hard to get?",
+        "Confidence or mystery?",
+        "A hopeless romantic or a heartbreaker?",
+        "Good in bed or good with words?",
+        "First move or wait to be asked?",
+        "A situationship or a slow burn?"
+      ]
+    }
+  ]
+}

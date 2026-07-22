@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "pool_id": "suffixes",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "-phobia",
+    "-ism",
+    "-ology",
+    "-meter",
+    "-scope",
+    "-ment",
+    "-itis",
+    "-cide",
+    "-graphy",
+    "-phile",
+    "-ful",
+    "-arian",
+    "-ician",
+    "-tude",
+    "-ery"
+  ]
+}

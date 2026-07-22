@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "pool_id": "escalating_constraints",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "keep your arms T-rex short",
+    "keep one eye closed",
+    "one thumb must be pointing up at all times",
+    "you can only speak in questions",
+    "you may only whisper",
+    "no 'um,' 'uh,' 'like,' or 'you know'",
+    "every sentence must end in a rhyme",
+    "no direct eye contact with anyone",
+    "don't say anyone's name",
+    "no swearing",
+    "speak at half volume",
+    "every time you laugh, say 'I accept that'",
+    "clap once every time someone says your name",
+    "snap twice before you start any sentence",
+    "keep your arms crossed at all times",
+    "speak only in a monotone. No inflection whatsoever",
+    "no using your hands to gesture while you speak",
+    "refer to yourself in the third person. No 'I' or 'me'",
+    "answer every question with a question",
+    "you can only respond with yes or no"
+  ]
+}

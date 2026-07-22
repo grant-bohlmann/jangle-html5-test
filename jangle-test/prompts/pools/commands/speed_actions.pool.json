@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "pool_id": "speed_actions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "speed_actions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "have eaten fast food",
+        "have arrived here tonight",
+        "have cried",
+        "have binged an entire season in one sitting",
+        "have taken a rideshare home",
+        "have gone to bed before midnight",
+        "have taken a selfie",
+        "have paid for someone else's meal",
+        "have gotten a haircut",
+        "have worked out",
+        "have skipped plans",
+        "have stayed up past 3am",
+        "have been on a first date",
+        "have called someone instead of texting",
+        "have gone grocery shopping",
+        "have sent a text to the wrong person",
+        "have fallen asleep on public transit",
+        "have watched a movie twice in the same week",
+        "have bought something just because it was on sale",
+        "have forgotten someone's name right after meeting them",
+        "have shown up late to something",
+        "have eaten a meal alone at a restaurant",
+        "have re-read an old text conversation",
+        "have gotten lost somewhere they've been before",
+        "have given a stranger a compliment",
+        "have changed their outfit at least twice before going out",
+        "have left a party earlier than they planned",
+        "have accidentally liked an old social media post while scrolling",
+        "have made a playlist for someone else",
+        "have ordered the same meal at the same restaurant twice in a row",
+        "have taken a nap that lasted more than two hours",
+        "have called their parents without a specific reason",
+        "have stood in front of the fridge for over a minute without taking anything",
+        "have stress-eaten an entire bag of something in one sitting",
+        "have re-watched a show they've already seen start to finish",
+        "have gone a full day without checking social media",
+        "have cooked a meal from scratch",
+        "have texted someone happy birthday and meant it",
+        "have shown up somewhere without telling anyone they were coming",
+        "have sent a voice message instead of texting",
+        "have double booked themselves by accident",
+        "have forgotten why they walked into a room",
+        "have replied to a text with just an emoji",
+        "have left a voicemail for someone under 30",
+        "have shown up to something in the exact same outfit as someone else",
+        "have rewatched the same three minutes of a video to catch something they missed"
+      ]
+    },
+    {
+      "pool_id": "speed_actions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "have ordered shots for a group",
+        "have lost something important on a night out",
+        "have been cut off by a bartender",
+        "have taken a shot by themselves",
+        "have thrown up from drinking",
+        "have mixed drinks from multiple different bottles in one night",
+        "have woken up and immediately started drinking again",
+        "have texted an ex while drunk",
+        "have smoked something they probably shouldn't have",
+        "have stolen a traffic cone or a sign on a night out",
+        "have gone skinny dipping after dark",
+        "have been the last person standing at a party",
+        "have drunk straight from the bottle",
+        "have woken up still drunk from the night before",
+        "have accepted a drink from a stranger at a bar",
+        "have ended a night at a fast food drive-through at 2am",
+        "have taken a cab of shame home in last night's outfit",
+        "have done something on a dare they immediately regretted",
+        "have lost their voice from a night out",
+        "have started a night thinking it would be early and been out past 3am"
+      ]
+    },
+    {
+      "pool_id": "speed_actions_silly",
+      "type": "text",
+      "tags": [
+        "Silly",
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "have done a cartwheel",
+        "have laughed until they cried",
+        "have tripped and fallen in public",
+        "have done a cannonball into a pool",
+        "have tried to do a handstand",
+        "have bitten into something and had it fall apart immediately",
+        "have walked into a glass door or window",
+        "have made a weird face in a photo and kept it",
+        "have used a shopping cart as a scooter",
+        "have jumped into a pool fully clothed",
+        "have burped louder than they intended in public",
+        "have gotten tangled in their own headphone cord",
+        "have sneezed so hard something came out",
+        "have worn their shirt inside out in public without realizing",
+        "have waved back at someone who wasn't waving at them"
+      ]
+    },
+    {
+      "pool_id": "speed_actions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "have kissed someone in a pool, ocean, or hot tub",
+        "have hooked up somewhere they probably shouldn't have",
+        "have sent a flirty text to the wrong person",
+        "have made out with someone whose last name they didn't know",
+        "have exchanged numbers and never texted",
+        "have been on a date where they knew from the start it wasn't going anywhere",
+        "have woken up somewhere they'd never been before",
+        "have had an ex come back after more than a year",
+        "have been called the wrong name by a partner",
+        "have accidentally matched with someone they know on a dating app",
+        "have left a date halfway through",
+        "have had a crush on someone significantly older or younger than them",
+        "have broken up with someone and immediately regretted it",
+        "have kissed someone at midnight on New Year's",
+        "have received a risky photo they didn't ask for"
+      ]
+    }
+  ]
+}

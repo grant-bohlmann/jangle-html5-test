@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_opposite_styles",
+  "type": "pair",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    { "a": "formally, like a butler", "b": "like a toddler" },
+    { "a": "like a golf announcer, hushed and reverent", "b": "like an auctioneer, fast and loud" },
+    { "a": "in questions", "b": "in commands" },
+    { "a": "with painful politeness, apologizing for everything", "b": "with brutal bluntness, cushioning nothing" },
+    { "a": "like a true crime narrator building suspense", "b": "like a kids' show host, upbeat about everything" },
+    { "a": "like you're being interviewed for a documentary", "b": "like you're being interrogated by the police" },
+    { "a": "like everything is a huge deal", "b": "like nothing fazes you at all" },
+    { "a": "like a motivational speaker hyping up the room", "b": "like someone deeply unimpressed by all of it" },
+    { "a": "like a weather forecaster, calm and matter-of-fact", "b": "like a sports commentator mid-meltdown" }
+  ]
+}

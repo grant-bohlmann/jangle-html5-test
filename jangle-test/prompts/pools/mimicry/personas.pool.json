@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "pool_id": "personas",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": ["celebrities", "characters"]
+}

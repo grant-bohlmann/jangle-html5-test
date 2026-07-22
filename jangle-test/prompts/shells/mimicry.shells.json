@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "mimicry.charades.v1",
+      "category_id": "mimicry",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], act out [silent_scenes] with no words or sounds. If nobody guesses it in [Timer, 30], take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "mimicry.animal.v1",
+      "category_id": "mimicry",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], become [animals]. Commit to the sound and the movement. If the group isn't convinced, take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "mimicry.impression.v1",
+      "category_id": "mimicry",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], do your best [personas] impression. If the group isn't buying it, take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "mimicry.quote.v1",
+      "category_id": "mimicry",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], deliver \"[movie_quotes]\" in [accents]. Flub the line or drop the accent and take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "mimicry.sound.v1",
+      "category_id": "mimicry",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], recreate the sound of [sound_effects]. If nobody can guess it, take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "mimicry.duel.v1",
+      "category_id": "mimicry",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you're [personas.a]. [Player B], you're [personas.b]. Have a conversation about [conversation_topics]. Whoever sells it less takes [Penalty, 3]."
+      }
+    },
+    {
+      "shell_id": "mimicry.impersonate.v1",
+      "category_id": "mimicry",
+      "players": { "min": 4 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], secretly pick someone in the group and do your best impression of them. If nobody can guess who, take [Penalty, 2]."
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pool_id": "silent_scenes",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "silent_scenes_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "brushing your teeth",
+        "riding a horse",
+        "fishing",
+        "taking a selfie",
+        "driving a car",
+        "playing tennis",
+        "eating spaghetti",
+        "walking a dog",
+        "shooting a basketball",
+        "playing the guitar",
+        "swimming",
+        "boxing",
+        "climbing a ladder",
+        "blowing out birthday candles",
+        "bowling",
+        "flipping a pancake",
+        "mowing the lawn",
+        "golfing",
+        "washing dishes",
+        "lifting weights",
+        "playing the drums",
+        "typing on a computer",
+        "doing yoga",
+        "putting on makeup",
+        "jumping rope"
+      ]
+    },
+    {
+      "pool_id": "silent_scenes_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a first kiss",
+        "a striptease",
+        "skinny dipping",
+        "twerking",
+        "a steamy makeout session",
+        "grinding on a dance floor",
+        "getting undressed in a hurry",
+        "seducing someone from across the room",
+        "sending a thirst trap selfie",
+        "a walk of shame"
+      ]
+    },
+    {
+      "pool_id": "silent_scenes_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "doing a keg stand",
+        "throwing up",
+        "stumbling home drunk",
+        "shotgunning a beer",
+        "doing the worm on the floor",
+        "fumbling with your keys to unlock the door",
+        "taking a bong rip",
+        "getting carried out by your friends",
+        "passing out face-down on a couch"
+      ]
+    }
+  ]
+}

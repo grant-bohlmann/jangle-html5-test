@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "pool_id": "phone_caught",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "phone_caught_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "charging their phone right now",
+        "with their phone face-down in front of them",
+        "whose phone is dead",
+        "whose phone is above 90% battery",
+        "connected to Bluetooth right now",
+        "with an alarm set for before 6am tomorrow"
+      ]
+    }
+  ]
+}

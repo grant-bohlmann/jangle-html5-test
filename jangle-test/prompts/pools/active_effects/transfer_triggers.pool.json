@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "pool_id": "transfer_triggers",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "make someone laugh",
+    "get someone to say your name",
+    "get someone to make direct eye contact with you for 3 seconds",
+    "get someone to agree with you out loud",
+    "get someone to owe you a favor out loud",
+    "get someone to repeat the last thing you said",
+    "get someone to compliment you",
+    "get someone to ask you a question",
+    "get someone to point at you",
+    "get someone to say 'fair enough' or any agreement phrase"
+  ]
+}

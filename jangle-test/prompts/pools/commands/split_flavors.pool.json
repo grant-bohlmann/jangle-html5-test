@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pool_id": "split_flavors",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "split_flavors_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Spread the love.",
+        "Good neighbor policy.",
+        "They did nothing wrong.",
+        "Location is destiny.",
+        "Classic neighborhood dispute.",
+        "Collateral damage.",
+        "Two for the price of one.",
+        "Geography strikes again.",
+        "No survivors on either side.",
+        "The middle seat has its privileges.",
+        "Adjacency has consequences.",
+        "Wrong place, right penalty.",
+        "Proximity is destiny.",
+        "The seating chart decided this one.",
+        "Both sides split the bill."
+      ]
+    },
+    {
+      "pool_id": "split_flavors_silly",
+      "type": "text",
+      "tags": [
+        "Silly",
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Left and right lose.",
+        "An equal-opportunity penalty.",
+        "Symmetry is beautiful.",
+        "Everyone in reach suffers equally.",
+        "Sitting near someone has consequences."
+      ]
+    }
+  ]
+}

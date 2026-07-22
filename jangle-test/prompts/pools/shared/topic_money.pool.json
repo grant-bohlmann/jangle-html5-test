@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_money",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "things people waste money on",
+    "ways people have tried to make money fast",
+    "things rich people buy that seem pointless",
+    "ways to become a millionaire according to the internet",
+    "things that cost way more than they should",
+    "impulse purchases everyone regrets",
+    "things people overpay for at a stadium",
+    "things people lie about on a date to seem richer",
+    "stocks everyone bought at the wrong time",
+    "things you'd buy if you won the lottery",
+    "things that are free but feel expensive",
+    "ways people split a bill that cause arguments",
+    "celebrity purchases that were insane",
+    "things people do to feel rich without spending money",
+    "subscriptions people forget they're paying for",
+    "things that are worth splurging on",
+    "financial terms no one actually understands",
+    "things people say when they're broke",
+    "ways people try to save money that don't work",
+    "things that hit differently when you're paying your own bills"
+  ]
+}

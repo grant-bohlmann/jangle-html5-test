@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pool_id": "metadata_metrics",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "metadata_metrics_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Whoever had the most screen time yesterday",
+        "Whoever has the most screen time this week",
+        "Whoever has the most time on social media this week",
+        "Whoever has the lowest battery right now",
+        "Whoever has the most alarms set",
+        "Whoever has the most unread texts",
+        "Whoever has the most browser tabs open",
+        "Whoever has the most notes in their Notes app",
+        "Whoever has the fewest steps today",
+        "Whoever has the most photos in their camera roll",
+        "Whoever has the worst follower-to-following ratio",
+        "Whoever has the most unread emails",
+        "Whoever has the highest Snapchat score",
+        "Whoever has the most social media accounts",
+        "Whoever has the most pending app updates",
+        "Whoever has the fewest contacts saved",
+        "Whoever has the most downloaded apps",
+        "Whoever's last sent text was a single word or emoji",
+        "Whoever's most-used app this week is a dating app",
+        "Whoever has the most unread dating app matches or messages",
+        "Whoever has the most photos taken in the last 24 hours",
+        "Whoever has the oldest unread notification",
+        "Whoever has the most contacts with no name saved",
+        "Whoever's phone storage is the most full"
+      ]
+    }
+  ]
+}

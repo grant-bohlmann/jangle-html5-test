@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "voting.most_likely.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Who's most likely to [most_likely_to_traits]? Everyone votes. Most votes takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.most_likely_point.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Point at who's most likely to [most_likely_to_traits]. Most votes takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.most_likely_assign.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Who's most likely to [most_likely_positive]? Everyone votes. Whoever gets the most votes picks someone to take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.superlative.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[superlative_questions] Everyone votes. Most votes takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.superlative_assign.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[superlative_positive] Everyone votes. Whoever gets the most votes picks someone to take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.duel.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Who's more likely to [most_likely_to_traits], [Player A] or [Player B]? Everyone votes. Loser takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.self_rating.v1",
+      "category_id": "voting",
+      "players": { "min": 3, "max": 8 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], rate yourself out of 5 [self_rating_dimensions]. On three, everyone reveals their honest rating of you with fingers, including yourself. Take [Penalty, 1] for every rating that doesn't match yours."
+      }
+    },
+    {
+      "shell_id": "voting.self_rating_match.v1",
+      "category_id": "voting",
+      "players": { "min": 4 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], rate yourself out of 5 [self_rating_dimensions]. On three, everyone reveals their honest rating of you with fingers, including yourself. If less than half the group matches your number, take [Penalty, 2-3]."
+      }
+    }
+  ]
+}

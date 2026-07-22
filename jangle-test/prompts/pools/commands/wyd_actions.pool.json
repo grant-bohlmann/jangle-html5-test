@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "pool_id": "wyd_actions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "wyd_actions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "let the group post one photo to their Instagram story right now",
+        "call the last person they texted and put them on speaker for 10 seconds",
+        "show the group the last photo they took",
+        "read their most recent voice note out loud",
+        "show their most recent search history to the group",
+        "send a 'miss you' text to a contact chosen by the group",
+        "let someone in the group change their lock screen for the rest of the night",
+        "show the group the last thing they added to their cart online",
+        "share their location with the group for the next 24 hours",
+        "read the most recent notification on their lock screen out loud",
+        "give a 30-second speech about why they deserve to be here tonight",
+        "name every person in this room by a secret nickname they'd give them",
+        "describe the last dream they remember having in detail",
+        "rank everyone in the room by how long they've known them, out loud",
+        "do their best impression of the person who picked them",
+        "read the last text they sent out loud, typos included",
+        "let the group choose their profile picture for the next 24 hours",
+        "show the group the app they've spent the most time on this week",
+        "let the group scroll through their camera roll for 15 seconds",
+        "tell the group the most recent thing they lied about, no matter how small",
+        "show the group their screen time report for today"
+      ]
+    },
+    {
+      "pool_id": "wyd_actions_silly",
+      "type": "text",
+      "tags": [
+        "Silly",
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "do their best impression of someone in this room",
+        "speak in an accent for the next two rounds",
+        "do 10 jumping jacks right now",
+        "moonwalk to the nearest wall and back",
+        "do their best runway walk across the room",
+        "hold a plank for 15 seconds",
+        "mime something they did today until someone guesses it correctly",
+        "do their best impression of a jungle animal of the group's choosing",
+        "narrate the next 30 seconds of their life like a nature documentary",
+        "teach the group a dance move they just made up"
+      ]
+    },
+    {
+      "pool_id": "wyd_actions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "let someone read their last flirty text out loud",
+        "show the group the person they text most",
+        "describe their ideal first date in detail to the group",
+        "let the group swipe through their dating app matches for 30 seconds",
+        "tell the group who in the room they'd kiss if they had to pick",
+        "admit the last time they developed feelings for someone they shouldn't have",
+        "tell the group the most embarrassing thing they've done to get someone's attention",
+        "share what trait in a partner they're most embarrassed to admit they care about",
+        "reveal the last person they were interested in before things faded out",
+        "describe their most recent crush to the group without using their name",
+        "read the group their bio from a dating app out loud",
+        "tell the group the last thing they said in an argument with a partner or ex",
+        "show the group their camera roll folder they'd least want opened",
+        "confess the last white lie they told to get out of a date",
+        "describe the exact moment they knew they liked someone",
+        "tell the group what they'd change about their last relationship if they could",
+        "share the last compliment they received that they still think about",
+        "admit who they'd choose in this room for a hypothetical rebound"
+      ]
+    },
+    {
+      "pool_id": "wyd_actions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "show the group the last photo in their camera roll taken after midnight",
+        "read out loud the wildest text they have from a night they barely remember",
+        "confess the worst impulse decision they made in the last six months",
+        "admit the most irresponsible thing they spent money on this year",
+        "describe the most chaotic night they've had this year in one sentence",
+        "reveal the last thing they bought that they immediately regretted",
+        "tell the group about the last time they lost track of how many drinks they'd had",
+        "admit the worst excuse they've given for missing work or class",
+        "describe the state of their bank account after their last big night out",
+        "confess the last time they woke up somewhere unexpected",
+        "tell the group the last dumb bet they made and whether they paid up",
+        "reveal the most chaotic thing currently sitting in their car"
+      ]
+    }
+  ]
+}

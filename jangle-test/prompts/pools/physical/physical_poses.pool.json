@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "pool_id": "physical_poses",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "physical_poses_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "get into a plank",
+        "hold a forearm plank",
+        "hold a wall-sit against the wall",
+        "balance on one leg",
+        "balance on one leg with both arms straight out",
+        "get into a bridge with your stomach toward the ceiling",
+        "hold a squat halfway down",
+        "hold a deep lunge without your back knee touching the floor",
+        "stand on your tiptoes",
+        "hold both arms straight out at your sides",
+        "hold a push-up halfway down",
+        "hold a hollow-body position with your shoulders and feet off the floor",
+        "balance on one leg with your eyes closed",
+        "stand heel-to-toe with your eyes closed",
+        "hold a squat with your eyes closed",
+        "balance on one leg and touch your nose with one finger, eyes closed"
+      ]
+    },
+    {
+      "pool_id": "physical_poses_silly",
+      "type": "text",
+      "tags": [
+        "Silly"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "strike your best superhero landing pose",
+        "freeze in your most dramatic action-movie pose",
+        "hold a runway model pose",
+        "pose like a garden gnome",
+        "hold your best caught-mid-sneeze pose",
+        "strike a bodybuilder flex and hold it"
+      ]
+    },
+    {
+      "pool_id": "physical_poses_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "hold your sexiest pose",
+        "do a slow body roll and freeze at the end",
+        "recreate a sex position with a willing partner, clothes on, and hold it for the timer",
+        "hold a wall-sit while a willing player sits on your lap",
+        "hold a plank over a willing partner with your faces almost touching",
+        "dip a willing partner low and hold it, eyes locked",
+        "straddle a willing player's lap and hold your pose"
+      ]
+    }
+  ]
+}

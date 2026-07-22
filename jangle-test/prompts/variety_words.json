@@ -1,0 +1,11 @@
+{
+    "vw_direction": ["left", "right"],
+    "vw_age":       ["oldest", "youngest"],
+    "vw_extreme":   ["highest", "lowest"],
+    "vw_recency":   ["newest", "oldest"],
+    "vw_order":     ["first", "last"],
+    "vw_speed":     ["fastest", "slowest"],
+    "vw_length":    ["longest", "shortest"],
+    "vw_stature":   ["tallest", "shortest"],
+    "vw_bodypart":  ["nose", "ear", "knee", "elbow", "shoulder"]
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "pool_id": "common_letters",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "A", "B", "C", "D", "F", "G", "L", "M",
+    "P", "R", "S", "T"
+  ]
+}

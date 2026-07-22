@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "pool_id": "spicy_directed_rules",
+  "type": "text",
+  "tags": ["Spicy"],
+  "pool_enabled": true,
+  "entries": [
+    "flirt shamelessly with whoever speaks to you next",
+    "maintain lingering eye contact with whoever you're speaking to. Hold it a beat too long every time",
+    "speak to whoever is across from you like you're trying to get their number",
+    "every compliment you give must have a physical quality in it",
+    "whenever you address the person on your left, lower your voice like it's a private conversation",
+    "respond to everything the person on your right says like you find it genuinely attractive",
+    "treat every question someone asks you like it's an invitation",
+    "describe anything you like or enjoy like it's something you'd whisper to someone at 2am",
+    "every time someone makes you laugh, tell them it's your favorite thing about them so far",
+    "speak to the person directly across from you like the two of you already have a secret worth sneaking off to share",
+    "every time you make a point, end it by asking the person across from you if they agree, and hold the eye contact until they answer",
+    "start every sentence to someone on your right with a compliment about something specific you've noticed about them tonight",
+    "whenever the person on your left talks, lean in a little closer like you don't want to miss a word",
+    "tell whoever you're speaking to that you weren't expecting them to be your type, and mean it",
+    "every time you agree with the person across from you, make it sound like the two of you are dangerously compatible",
+    "whenever you catch the eye of the person on your right, hold it a second longer than a normal glance, then smile like you got caught",
+    "tell the person on your left one thing about tonight that you're going to be thinking about later",
+    "whenever the person across from you laughs, tell them you like them best when they're like this"
+  ]
+}

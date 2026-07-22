@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_brands",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "luxury car brands",
+    "sneaker brands",
+    "clothing brands everyone recognizes",
+    "designer handbag brands",
+    "tech companies",
+    "smartphone brands",
+    "streaming services",
+    "coffee shop chains",
+    "energy drink brands",
+    "airline brands",
+    "hotel chains",
+    "makeup brands",
+    "athletic wear brands",
+    "ice cream brands",
+    "soda brands",
+    "whiskey brands",
+    "chip brands",
+    "credit card brands",
+    "car insurance companies everyone recognizes",
+    "video game console brands",
+    "grocery store chains",
+    "pharmacy chains"
+  ]
+}

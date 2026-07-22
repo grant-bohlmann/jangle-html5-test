@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "pool_id": "penalty_ceremonies",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "stand up",
+    "say one true thing about yourself",
+    "announce exactly what you did wrong",
+    "raise a toast to the group",
+    "deliver a formal apology to everyone present",
+    "give the group a sincere thank you",
+    "take it in slow motion",
+    "narrate yourself like a sports announcer calling the play",
+    "take a bow first",
+    "close your eyes and take a deep breath",
+    "shake hands with the person to your left",
+    "announce your own name like you're being introduced"
+  ]
+}

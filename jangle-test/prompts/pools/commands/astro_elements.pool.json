@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "pool_id": "astro_elements",
+  "type": "text",
+  "tags": [
+    "Party"
+  ],
+  "pool_enabled": true,
+  "entries": [
+    "a fire sign (Aries, Leo, or Sagittarius)",
+    "a water sign (Cancer, Scorpio, or Pisces)",
+    "an earth sign (Taurus, Virgo, or Capricorn)",
+    "an air sign (Gemini, Libra, or Aquarius)"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "pool_id": "degen_narration_rules",
+  "type": "text",
+  "tags": ["Degen"],
+  "pool_enabled": true,
+  "entries": [
+    "narrate everything that happens like you're recapping the night to your group chat at 2am, already regretting your decisions",
+    "speak like you're three drinks in and increasingly convinced that everything you're saying is profound",
+    "deliver every statement like a confession to a bouncer who's deciding whether to let you back in",
+    "narrate your own actions out loud like a nature documentary about a person making questionable choices",
+    "speak like you're on a phone call with your most chaotic friend, describing the scene to someone who wasn't there",
+    "act like you're the last person standing at a party and you're explaining to the host why you shouldn't have to go home yet",
+    "deliver everything like you're a lawyer defending a client whose only crime was having a great time",
+    "narrate like you're leaving a voicemail at 1am that starts with 'okay so hear me out'",
+    "speak like you're explaining to a cop why you're out here at this hour and it's all a big misunderstanding",
+    "narrate like you're the friend who has to be talked out of a terrible idea and you're currently losing that argument",
+    "speak like you're negotiating your way out of paying a tab you can't actually cover",
+    "speak like you just woke up somewhere you don't recognize and you're piecing the night back together out loud"
+  ]
+}

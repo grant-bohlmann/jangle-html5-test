@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "pool_id": "group_actions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "group_actions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "clap once",
+        "stand up and sit back down",
+        "snap your fingers",
+        "slap your knees",
+        "point at the ceiling",
+        "make your best surprised face",
+        "put both thumbs up",
+        "put both hands on your head",
+        "tap your head twice",
+        "cross your arms",
+        "stick your tongue out",
+        "say 'cheers' out loud",
+        "do a chef's kiss",
+        "salute",
+        "shrug dramatically",
+        "give a thumbs down",
+        "point at the person to your left",
+        "high five the person next to you",
+        "put your index finger on your lips",
+        "nod slowly once"
+      ]
+    },
+    {
+      "pool_id": "group_actions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "wink at someone in the group as seductively as possible",
+        "blow a kiss at someone in the group",
+        "smolder at whoever's next to you",
+        "give the hottest hair flip you've got",
+        "flex",
+        "bite your lip",
+        "give your best bedroom eyes",
+        "strike your sexiest pose",
+        "growl like you mean it",
+        "trace a finger slowly down your own arm"
+      ]
+    },
+    {
+      "pool_id": "group_actions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "tilt your head back and howl",
+        "mime chugging something",
+        "bang your fists like you're demanding food",
+        "do your best 'last call' face",
+        "slam an imaginary shot glass down",
+        "stumble sideways like the floor just tilted",
+        "pound your chest like you just won a chugging contest",
+        "raise the roof like the bass just dropped",
+        "point finger guns at the nearest empty cup",
+        "throw your hands up like the bar just called last call"
+      ]
+    }
+  ]
+}

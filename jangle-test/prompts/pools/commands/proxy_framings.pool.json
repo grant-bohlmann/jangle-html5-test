@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "pool_id": "proxy_framings",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "proxy_framings_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Choose wisely.",
+        "Hope they like you.",
+        "Loyalty has a price.",
+        "Find out who your friends are.",
+        "Some debts get paid immediately.",
+        "Someone owes you now.",
+        "Friendship, tested.",
+        "Trust is a gamble.",
+        "That's what friends are for, apparently.",
+        "A favor with strings attached.",
+        "This is why you keep score.",
+        "The house always collects.",
+        "Pick your allies carefully next time.",
+        "That's one way to find out."
+      ]
+    }
+  ]
+}

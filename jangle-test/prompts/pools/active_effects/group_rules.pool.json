@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "pool_id": "group_rules",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "Nobody uses first names. Last names, nicknames, and titles are fine",
+    "Nobody starts a sentence with 'so' or 'well'",
+    "Nobody says 'um,' 'uh,' 'like,' or 'you know'",
+    "Nobody verbally agrees with anything. Nod, thumbs up, or stay quiet",
+    "Nobody interrupts. Wait for a full stop before you talk",
+    "Nobody repeats a word or phrase someone else just used",
+    "Nobody whispers. All communication must be at normal speaking volume or louder",
+    "Everyone speaks at half volume",
+    "Nobody uses contractions. Say 'do not' not 'don't,' 'I am' not 'I'm'",
+    "No swearing",
+    "No laughing out loud. Silent reactions only",
+    "Nobody gives a one-word answer. At least three words or it counts as a breach",
+    "Nobody makes a declarative statement. Everything must be a question or a non-answer",
+    "Everyone counts to three silently before speaking",
+    "Nobody says 'I don't know.' Commit to an actual answer",
+    "Nobody checks their own phone",
+    "Nobody laughs at their own joke",
+    "Nobody touches their face",
+    "Nobody fidgets. Tapping, leg bouncing, and pen clicking all count",
+    "No hand gestures while speaking. Hands stay still",
+    "When you speak, make eye contact with the person you're talking to. Look away and that's a breach",
+    "The phone passes with two hands only. One hand counts as a breach",
+    "Nobody crosses their arms"
+  ]
+}

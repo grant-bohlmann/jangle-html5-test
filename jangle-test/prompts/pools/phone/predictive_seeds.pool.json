@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pool_id": "predictive_seeds",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "predictive_seeds_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "I need",
+        "Why did I",
+        "I'm sorry for",
+        "I wish",
+        "I can't believe",
+        "I promise",
+        "I can't stop",
+        "I really want",
+        "I keep thinking about",
+        "The worst part is",
+        "I told myself I wouldn't",
+        "The reason I'm late",
+        "I should probably",
+        "I hate it when",
+        "My biggest problem",
+        "I just remembered",
+        "I'm pretty sure",
+        "You're not going to believe",
+        "The most embarrassing thing"
+      ]
+    },
+    {
+      "pool_id": "predictive_seeds_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "I secretly",
+        "My ex",
+        "Tonight I want",
+        "The last time we",
+        "I've been thinking about you",
+        "I kind of have a crush on",
+        "Don't tell anyone but I",
+        "I never told you that I",
+        "The truth is I",
+        "Late night I always",
+        "If nobody was watching I would",
+        "My biggest fantasy",
+        "I can't stop thinking about"
+      ]
+    },
+    {
+      "pool_id": "predictive_seeds_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Last night I",
+        "I was drunk when",
+        "I should not have",
+        "After the shots I",
+        "The pregame plan was",
+        "I woke up and",
+        "My head hurts because",
+        "I called in sick because",
+        "I didn't mean to",
+        "The group chat said",
+        "I regret nothing except",
+        "By 2am I"
+      ]
+    }
+  ]
+}

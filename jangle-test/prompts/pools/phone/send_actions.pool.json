@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "pool_id": "send_actions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "send_actions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "send a voice note to your group chat saying 'I love you all' as dramatically as possible",
+        "post a story on Instagram or Snapchat of you doing any dance. Do it right now",
+        "call your most recent missed call back and tell them you butt-dialed them",
+        "let the person on your left change your wallpaper to whatever they want. It stays for the rest of the night",
+        "FaceTime or video call someone from your contacts. If they answer, say 'wrong number, sorry' and hang up",
+        "text 'omg I can't believe it' to your best friend with no context and show the group their response",
+        "send a GIF to the group chat right now. The group votes if it lands",
+        "text someone '👀' with no context and show the group their response",
+        "text 'Hey, are you awake?' to someone not in this room",
+        "call your mom on speaker and tell her you love her",
+        "text 'I need to tell you something' to someone not in this room and show the group their response",
+        "let the player to your right record a voice memo on your phone saying anything. It stays for the rest of the week",
+        "record yourself singing the chorus of the last song you listened to and send it to a friend",
+        "let whoever's sitting next to you post anything to your Instagram story. It stays up for at least an hour",
+        "open your keyboard and use whatever the top 5 emoji suggestions are in a single text to someone",
+        "let the person across from you scroll through your Spotify Liked Songs and defend whatever they land on",
+        "show the group your most recently used sticker and let them vote. Send the winner to someone not in this room",
+        "let the person on your left pick any contact. Send them a selfie right now",
+        "let the person to your right unfollow one person on any of your social media accounts",
+        "let the player across from you pick any emoji. Search your texts for it and read the first message that comes up",
+        "let whoever's sitting next to you AirDrop you anything and set it as your wallpaper for the rest of the night",
+        "let the person on your left pick a camera filter. Take a selfie with it and post it to your group chat"
+      ]
+    },
+    {
+      "pool_id": "send_actions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "let the person on your left send one text to anyone in your contacts. You can't delete it for 10 minutes",
+        "let the player to your right scroll through your camera roll for 10 seconds and explain whatever photo they land on",
+        "let whoever's sitting next to you go live on any of your social media accounts for 10 seconds",
+        "let the person across from you scroll your saved Instagram posts for 15 seconds and explain whatever they pick",
+        "let the player on your left look through your Instagram following list for 10 seconds and explain whoever they pick",
+        "let the person to your right pick any video in your camera roll and play it for the group",
+        "let whoever's next to you pick any conversation in your messages and read the last 3 messages from it",
+        "text 'I had a dream about you last night' to someone not in this room",
+        "text your crush or partner 'I need to ask you something later' with no follow-up",
+        "send a heart emoji to whoever the group picks"
+      ]
+    },
+    {
+      "pool_id": "send_actions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "text your ex 'hey' and show the group the sent message",
+        "let the person on your left type any search into your browser bar and show everyone the results",
+        "open your camera roll and show the group your most embarrassing photo from the last 30 days",
+        "text the last person you canceled plans on and tell them you miss them",
+        "open your most recent Uber or Lyft ride and read the driver rating you left out loud",
+        "pull up your Snapchat or Instagram story from the last time you were out and play it for the group"
+      ]
+    }
+  ]
+}

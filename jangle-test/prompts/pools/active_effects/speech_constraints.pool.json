@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "pool_id": "speech_constraints",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "you can only speak in questions",
+    "you may only whisper",
+    "refer to yourself only in third person. No 'I' or 'me'",
+    "no 'um,' 'uh,' 'like,' or 'you know'",
+    "every sentence must end in a rhyme",
+    "one word per response. That's it",
+    "answer every question with a question",
+    "you can only respond with yes or no",
+    "never answer a question directly. Use a metaphor, a story, or a subject change",
+    "every sentence you speak must be accompanied by made-up sign language",
+    "speak only in a robot monotone. No inflection, no emotion",
+    "end every sentence with a send-off like 'and that's that' or 'moving on'",
+    "everything you say must be in the form of a news headline",
+    "speak only in rhyming couplets. Both lines must rhyme",
+    "narrate your own actions in the third person as you do them"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "pool_id": "title_names",
+  "type": "text",
+  "tags": [
+    "Party"
+  ],
+  "pool_enabled": true,
+  "entries": [
+    "Champion of the Jungle",
+    "Vine Lord",
+    "Keeper of the Canopy",
+    "Alpha of the Watering Hole",
+    "Monarch of the Mud Pit",
+    "The Silverback",
+    "Duke of the Undergrowth",
+    "Guardian of the Grove",
+    "Baron of the Banana Hoard",
+    "Chief of the Treetops",
+    "The Loudest Howler",
+    "Sultan of the Swamp",
+    "Warden of the Wetlands",
+    "The Vine Swinger",
+    "Emperor of the Underbrush",
+    "Ruler of the Riverbank",
+    "The Jungle's Chosen One",
+    "Prince or Princess of the Palm Trees"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "pool_id": "social_openers",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "every time you speak to someone, open with a roast. Keep it playful",
+    "every time you speak to someone, open with a genuine compliment",
+    "every time you speak to someone, open with a question",
+    "every time you speak to someone, open with a fun fact. Make it up if you have to",
+    "every time you speak to someone, open with a word of encouragement",
+    "every time you address the group, begin with 'Friends,' like you're about to give a speech",
+    "every time you speak to someone, open with an apology for interrupting, even if you weren't interrupting",
+    "every time you speak to someone, open with a dramatic pause of at least two seconds",
+    "every time you speak to someone, greet them by title. Make up a title for each person if needed",
+    "every time you speak to someone, begin with 'I've been thinking about you and...'"
+  ]
+}

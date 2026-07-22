@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "phone.predictive.v1",
+      "category_id": "phone",
+      "subcategory_id": "predictive",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], type '[predictive_seeds]' and let autocomplete take over. Read it out loud or take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "phone.predictive_ai.v1",
+      "category_id": "phone",
+      "subcategory_id": "predictive_ai",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], open whichever AI you use most and have it finish '[predictive_seeds]' the way you'd text it. Read it out loud or take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "phone.search.v1",
+      "category_id": "phone",
+      "subcategory_id": "search",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], search your messages for '[search_words]'. Read the most recent result out loud or take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "phone.metric.v1",
+      "category_id": "phone",
+      "subcategory_id": "metric",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[metadata_metrics] takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "phone.reveal.v1",
+      "category_id": "phone",
+      "subcategory_id": "reveal",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], show the group your [reveal_surfaces]. Refuse and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "phone.send.v1",
+      "category_id": "phone",
+      "subcategory_id": "send",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], [send_actions]. Refuse and take [Penalty, 3]."
+      }
+    },
+    {
+      "shell_id": "phone.contacts.v1",
+      "category_id": "phone",
+      "subcategory_id": "contacts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], open your contacts and [contacts_tasks]. Chicken out and take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "phone.caught.v1",
+      "category_id": "phone",
+      "subcategory_id": "caught",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Anyone [phone_caught] takes [Penalty, max]."
+      }
+    },
+    {
+      "shell_id": "phone.condition.v1",
+      "category_id": "phone",
+      "subcategory_id": "condition",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever [phone_conditions] takes [Penalty, 2-3]."
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "pool_id": "accents",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "accents_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a British accent",
+        "a stereotypical southern accent",
+        "a stereotypical New York accent",
+        "a stereotypical Boston accent",
+        "an Australian accent",
+        "a pirate accent",
+        "a Russian accent",
+        "an Irish accent",
+        "a surfer accent",
+        "a valley girl accent",
+        "a French accent",
+        "an Italian accent",
+        "a Transylvanian vampire voice",
+        "a sinister movie villain voice"
+      ]
+    },
+    {
+      "pool_id": "accents_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a phone sex operator voice",
+        "a seductive whisper",
+        "an exaggerated ASMR voice",
+        "a smooth James Bond voice",
+        "a slow, breathy romance novel narrator voice",
+        "a confident, low-key flirty bar voice",
+        "a smoldering telenovela lover voice",
+        "a husky after-midnight radio host voice"
+      ]
+    },
+    {
+      "pool_id": "accents_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a drunk British accent",
+        "a drunk Australian accent",
+        "a drunk pirate accent",
+        "a drunk Russian accent",
+        "a drunk southern accent",
+        "a drunk Boston accent",
+        "a drunk Irish accent"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "pool_id": "mandatory_openers",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "Absolutely,",
+    "Speaking as someone who's never wrong,",
+    "I must say,",
+    "Technically speaking,",
+    "To be fair,",
+    "Ancient wisdom says...",
+    "In my professional opinion,",
+    "Not to be dramatic, but",
+    "Contrary to popular belief,",
+    "At the risk of sounding controversial,",
+    "If I'm being completely honest,",
+    "Statistically speaking,",
+    "As it turns out,",
+    "For what it's worth,",
+    "With the utmost respect,",
+    "Well, actually,"
+  ]
+}

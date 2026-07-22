@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pool_id": "stunts",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "stunts_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "do a cartwheel",
+        "spin around 5 times then walk in a straight line",
+        "jump and try to touch the ceiling",
+        "walk backwards across the room with your eyes closed",
+        "do 10 push-ups",
+        "hop across the room on one foot",
+        "do a forward roll",
+        "balance a shoe on your head and walk across the room"
+      ]
+    },
+    {
+      "pool_id": "stunts_silly",
+      "type": "text",
+      "tags": [
+        "Silly"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "moonwalk across the room",
+        "do your best worm on the floor",
+        "do a dramatic slow-motion run across the room",
+        "go as low as you can into the splits"
+      ]
+    },
+    {
+      "pool_id": "stunts_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "walk heel-to-toe down a line for 10 steps, turn on one foot, and walk back",
+        "stand on one leg, raise the other 6 inches off the floor, and count to 30 out loud",
+        "tilt your head back, close your eyes, and touch each index finger to your nose",
+        "close your eyes and touch your finger to your nose 5 times as fast as you can",
+        "recite the alphabet backwards from Z out loud with no mistakes",
+        "say the alphabet starting from a letter the group picks, and no singing it",
+        "eyes closed, head tilted back, call out when you think 30 seconds have passed",
+        "demonstrate your drunkest dance move",
+        "show the group exactly how you walk after one too many",
+        "mime chugging an entire drink as dramatically as you can",
+        "do your best impression of the drunkest person you know",
+        "get into a keg-stand position with two players holding your legs and hold it"
+      ]
+    },
+    {
+      "pool_id": "stunts_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "do your sexiest walk across the room",
+        "give the player on your left a 10-second lap dance",
+        "twerk on a willing player's lap for 10 seconds",
+        "give a willing player a slow neck and shoulder massage for 15 seconds",
+        "do a striptease and lose one layer of clothing",
+        "dirty-dance with a player of your choice for 15 seconds",
+        "demonstrate your signature bedroom move on a pillow",
+        "crawl to a willing player and give them your most seductive look",
+        "do a body roll into a willing player's lap",
+        "let the group pick someone for you to give a 10-second lap dance"
+      ]
+    }
+  ]
+}

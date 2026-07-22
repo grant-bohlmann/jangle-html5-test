@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "pool_id": "most_likely_positive",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "most_likely_positive_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "be famous one day",
+        "win an award someday",
+        "end up running the place",
+        "have a wildly successful career",
+        "buy a house first",
+        "go viral for something good",
+        "be the best parent someday",
+        "retire early",
+        "get married first",
+        "find their soulmate",
+        "be a millionaire by 35",
+        "make it out of this town",
+        "turn a side hustle into a real business",
+        "write a book one day",
+        "start a charity",
+        "win a Nobel Prize somehow",
+        "make their parents the proudest",
+        "travel to every continent",
+        "be on the cover of a magazine",
+        "give the best toast at a wedding",
+        "have the most epic glow-up",
+        "adopt a bunch of kids and love every second of it",
+        "be the one everyone calls in a crisis",
+        "be the best kisser",
+        "still be hot at 50"
+      ]
+    },
+    {
+      "pool_id": "most_likely_positive_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "be amazing in bed",
+        "have the best hookup story in the room",
+        "ooze confidence in the bedroom",
+        "have the most satisfied partner",
+        "get hit on the most tonight",
+        "be someone's best one-night stand",
+        "turn a dance floor into a hookup",
+        "give the most unforgettable first kiss",
+        "be the best at dirty talk",
+        "send the best sexts",
+        "have the most exes still hoping for a text back",
+        "have a friends-with-benefits situation turn into something real",
+        "have the best morning-after energy",
+        "make a stranger's whole night at the bar",
+        "have someone drive across town for them at 2am",
+        "have a partner who can't keep their hands to themselves in public",
+        "have the best chemistry with a total stranger",
+        "have a partner brag about them to everyone",
+        "have the most convincing bedroom eyes",
+        "leave a first date already planning the second",
+        "have someone fall for them in one night",
+        "be the best rebound anyone ever had",
+        "know exactly what to say to close the deal",
+        "turn a friendship into the best relationship of someone's life",
+        "get the most attention walking into a room",
+        "have the most people who'd drop everything for a late-night text",
+        "give the best relationship advice despite a messy love life",
+        "have their name saved under a heart emoji in someone's phone"
+      ]
+    },
+    {
+      "pool_id": "most_likely_positive_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "win a drinking contest",
+        "out-drink everyone here",
+        "throw the best party",
+        "still be partying at 3am",
+        "be everyone's favorite drinking buddy",
+        "never get a hangover no matter how much they drink",
+        "know every bartender in town by name",
+        "convince everyone to do one more round",
+        "have the craziest bachelor or bachelorette party",
+        "turn a Tuesday into the best night of the year",
+        "have the best time of anyone in this room tonight",
+        "make every pregame legendary",
+        "be the last one standing every single time",
+        "talk their way into a round of free shots",
+        "have the best blackout story of all time",
+        "rally the hardest after everyone else calls it a night",
+        "be the reason a normal night turns into a bar crawl",
+        "get an entire bar singing karaoke",
+        "start the best chant of the night",
+        "have a story that starts with 'so we ended up in Vegas'",
+        "still look great in every blurry photo from the night",
+        "have the best recovery breakfast game the morning after",
+        "turn a boring bar into the best part of the night",
+        "befriend the entire bar within an hour",
+        "have the most photos nobody remembers taking",
+        "sweet-talk a bouncer into letting the group skip the line",
+        "have the most rounds bought for them in one night",
+        "be the last name anyone remembers before the night goes blank"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_jobs",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "jobs that no longer exist",
+    "jobs you wanted as a kid",
+    "jobs that pay surprisingly well",
+    "jobs everyone respects but no one wants",
+    "the worst jobs imaginable",
+    "jobs that require weird hours",
+    "jobs with the worst uniforms",
+    "jobs that seem glamorous but aren't",
+    "jobs that exist only in movies",
+    "side hustles people try",
+    "jobs people lie about having",
+    "jobs people do in their 20s to survive",
+    "famous jobs in the White House",
+    "types of doctors",
+    "jobs that come with a company car",
+    "jobs that require a lot of patience",
+    "jobs you could do from a beach",
+    "jobs that involve being outside all day",
+    "high-paying jobs that nobody talks about",
+    "jobs that didn't exist ten years ago"
+  ]
+}

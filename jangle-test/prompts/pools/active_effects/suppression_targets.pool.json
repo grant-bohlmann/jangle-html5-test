@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "pool_id": "suppression_targets",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "no smiling",
+    "dead serious. No change in expression, no laughing, no smiling",
+    "maintain a completely straight face while reading any prompt out loud",
+    "no visible reaction, face or voice, to anything",
+    "no laughing, no grinning, no snorting. Any audible reaction counts as a break",
+    "keep a neutral expression even when others are laughing. Breathe normally"
+  ]
+}

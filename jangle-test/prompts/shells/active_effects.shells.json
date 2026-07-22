@@ -1,0 +1,790 @@
+{
+  "schema_version": 1,
+  "shells": [
+
+    {
+      "shell_id": "activefx.voice_persona.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you are [personas] until further notice. Speak in your normal voice and take [Penalty, 2] per slip."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you are no longer [personas]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.voice_accent.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], pick up a [accents] accent right now and keep it until further notice. Slip back to normal and take [Penalty, 2] per slip."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can drop the accent."
+      }
+    },
+
+    {
+      "shell_id": "activefx.voice_animal.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you only communicate in the sounds [animals] makes until further notice. Use actual words and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can use real words again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.speech_constraint.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [speech_constraints]. Slip and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can speak freely again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.voice_agree_first.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], start every sentence with '[mandatory_openers]' until further notice. Skip it and take [Penalty, 2]."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], you can drop the '[mandatory_openers]' opener."
+      }
+    },
+
+    {
+      "shell_id": "activefx.body_virus.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [body_effects]. Slip and take [Penalty, 2] per offense."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "[Player A], you can move normally again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.social_restrict.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [social_restrictions]. Slip and take [Penalty, 2] per offense."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], that restriction's off."
+      }
+    },
+
+    {
+      "shell_id": "activefx.social_opener.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [social_openers]. Skip it and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can skip the opener now."
+      }
+    },
+
+    {
+      "shell_id": "activefx.social_name_title.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "The group gets to give [Player A] a title right now. [Player A], you must answer to it until further notice. Use your real name instead and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], your real name works again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.rule_word_ban.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "Nobody says '[banned_words]' until further notice. Say it and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "'[banned_words]' is fair game again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.rule_name_ban.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A]'s name is off-limits until further notice. Say it and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A]'s name is fair game again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.rule_speech_rule.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "New rule, until further notice. [group_rules]. Any slip costs [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Everyone talks normally again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.rule_topic_ban.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "Nobody brings up [topic] until further notice. Mention it and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[topic] is back on the table."
+      }
+    },
+
+    {
+      "shell_id": "activefx.rule_word_quota.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], work '[trigger_words]' into conversation at least once per prompt until further notice. Finish a prompt without saying it and take [Penalty, 2]."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], you can drop the '[trigger_words]' quota."
+      }
+    },
+
+    {
+      "shell_id": "activefx.ritual_before_penalty.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "Before anyone takes a penalty until further notice, everyone must [activefx_rituals] first. Skip the ritual and the penalty doubles."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Penalties go straight through again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.ritual_before_speaking.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone must snap before they start speaking until further notice. Skip it and take [Penalty, 1]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "No more snapping before you speak."
+      }
+    },
+
+    {
+      "shell_id": "activefx.ritual_name_phrase.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every time someone says your name until further notice, respond immediately with '[activefx_catchphrases]'. Fail to respond and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can stop shouting '[activefx_catchphrases]' at your name."
+      }
+    },
+
+    {
+      "shell_id": "activefx.ritual_air_quotes.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every time you make a claim about yourself until further notice, do air quotes around the key word. Miss it and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can drop the air quotes."
+      }
+    },
+
+    {
+      "shell_id": "activefx.penalty_ceremony.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every penalty you take until further notice, you must [penalty_ceremonies] first. Skip it and the penalty doubles."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], no more ceremony before your penalties."
+      }
+    },
+
+    {
+      "shell_id": "activefx.endurance_suppress.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [suppression_targets]. Everyone else, make it hard. Break and take [Penalty, 2]."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "[Player A], you can let go now."
+      }
+    },
+
+    {
+      "shell_id": "activefx.group_suppress.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "New rule, until further notice. [group_rules]. Anyone who breaks it makes the whole group take [Penalty, 1]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "That rule's lifted, everyone."
+      }
+    },
+
+    {
+      "shell_id": "activefx.group_hand_head.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone keeps one hand on their head until further notice. Whoever's hand drops makes the whole group take [Penalty, 1]."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "Hands off your heads, everyone."
+      }
+    },
+
+    {
+      "shell_id": "activefx.slip_race.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone gets the same target word, '[trigger_words]'. First to work it into conversation naturally wins, and everyone else takes [Penalty, 2]. Get called out mid-attempt and you take [Penalty, 2]. Nobody lands it in 5 minutes? Everyone takes [Penalty, 1]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Time's up on the word race."
+      }
+    },
+
+    {
+      "shell_id": "activefx.catch_the_habit.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], secretly pick a verbal tic and work it into everything you say. First person to correctly call it out picks someone to take [Penalty, 2]. If nobody's named it when this effect ends, you take [Penalty, 2]."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "Time's up, [Player A]. Reveal the tic, and if nobody caught it, take [Penalty, 2]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.catch_the_lie.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], at some point before this effect ends, you'll tell one lie in conversation. Nobody knows when. Caught? You take [Penalty, 2]. Wrong accusation? The accuser takes [Penalty, 2]. Nobody catches it before the effect ends? You hand out [Penalty, 2]."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "Time's up, [Player A]. Own the lie, and if it slid past everyone, hand out [Penalty, 2]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_double.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every penalty you take until further notice is doubled. The rest of the group stays normal."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], your penalties are back to normal size."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_half.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every penalty you take until further notice is halved, rounded up."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], your penalties count in full again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_double_give.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every penalty you give out until further notice is doubled."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], your penalties go back to normal size."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_pass_through.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], any penalty targeting you until further notice automatically passes to the person on your left. They take it instead."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], your penalties are yours again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_shared.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], you're linked until further notice. Any penalty either of you takes, you both take."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A] and [Player B], your penalties are your own again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_next_hits_all.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "The next penalty any player takes spreads to the whole group. Everyone takes [Penalty, 1] the first time someone gets hit. After that, normal rules resume."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Penalties stay with whoever earns them now."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_penalty_lottery.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Until further notice, every penalty anyone takes gets added to a pot. When the effect ends, one person is chosen at random and takes the whole pot at once."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "The pot's closed. Pick a name at random, that person takes the whole thing."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_minimum_bid.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], any penalty you give out until further notice must be at least [Penalty, 3], no matter what the prompt says."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], give out whatever the prompt says again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.transfer_curse.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you're cursed until further notice. Every penalty you take is doubled. The moment you [transfer_triggers], the curse transfers to them. Make it happen fast."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "The curse burns out. Whoever's holding it is back to normal penalties."
+      }
+    },
+
+    {
+      "shell_id": "activefx.transfer_hot_potato.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you're holding the hot potato. To pass it, [transfer_triggers]. Whoever falls for it takes [Penalty, 1] and becomes the new holder. Holding it when the effect ends costs [Penalty, 4]."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "Time's up. Whoever's holding the potato takes [Penalty, 4]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.escalate_constraint.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [escalating_constraints]. First slip costs [Penalty, 1]. Second costs [Penalty, 2]. Third costs [Penalty, 3]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], the constraint's off."
+      }
+    },
+
+    {
+      "shell_id": "activefx.stacker_bank.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every penalty you take until further notice is banked. You don't pay it now. When the effect ends, you take it all at once."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], tally up your bank and take it all now."
+      }
+    },
+
+    {
+      "shell_id": "activefx.group_double_all.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "All penalties are doubled until further notice."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Penalties are back to normal for everyone."
+      }
+    },
+
+    {
+      "shell_id": "activefx.group_min_penalty.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "Every penalty until further notice is at least [Penalty, 3], no matter what."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Penalties go back to whatever the prompt says."
+      }
+    },
+
+    {
+      "shell_id": "activefx.duo_accent.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], you're both speaking in a [accents] accent until further notice. Either of you slips and you both take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A] and [Player B], you can drop the accent."
+      }
+    },
+
+    {
+      "shell_id": "activefx.duo_opposites.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you speak only [activefx_opposite_styles.a]. [Player B], you speak only [activefx_opposite_styles.b]. Either of you slips and you both take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A] and [Player B], you can talk normally again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.duo_linked_laugh.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], if either of you laughs until further notice, you both take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A] and [Player B], laugh all you want now."
+      }
+    },
+
+    {
+      "shell_id": "activefx.duo_echo.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], [Player B] will echo the last word of every sentence you say until further notice. If [Player B] misses an echo, you both take [Penalty, 1]."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "[Player B], you're done echoing [Player A]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.table_persona.v2",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone takes on a [personas] persona until further notice. Drop it and take [Penalty, 2]."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "Everyone, you're no longer [personas]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.table_accent.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone picks up a [accents] accent until further notice. Drop it and take [Penalty, 2]."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "Everyone, drop the accent."
+      }
+    },
+
+    {
+      "shell_id": "activefx.coop_mirror.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], mirror everything [Player B] does physically until further notice. If the group thinks you've fallen out of sync, you take [Penalty, 2]."
+      },
+      "life_tier": "Short",
+      "closer": {
+        "default": "[Player A], you can stop mirroring [Player B]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.anchor_follows_b.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], every penalty [Player B] takes until further notice, you take too. You're anchored to them."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], you're cut loose from [Player B]."
+      }
+    },
+
+    {
+      "shell_id": "activefx.expiry_pay_on_out.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you're immune until further notice. When the effect ends, you take [Penalty, max] for the immunity."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], immunity's up. Take [Penalty, max] for the free ride."
+      }
+    },
+
+    {
+      "shell_id": "activefx.expiry_save_or_pay.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [speech_constraints]. Make it to the end without a single slip and you hand out [Penalty, 2] to anyone you choose. Slip even once? You take [Penalty, 3] right then, and the effect ends."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you made it clean. Hand out [Penalty, 2] to whoever you want."
+      }
+    },
+
+    {
+      "shell_id": "activefx.immune_specific.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], until further notice, [specific_immunities]. Everything else still counts."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], everything counts again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.group_escalate.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "New rule, until further notice. [group_rules]. First breach costs [Penalty, 1]. Second costs [Penalty, 2]. Third costs [Penalty, 3]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "That rule's off, everyone."
+      }
+    },
+
+    {
+      "shell_id": "activefx.spicy_directed.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": ["Spicy"],
+      "shell_text": {
+        "default": "[Player A], until further notice, [spicy_directed_rules]. Drop the act and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can drop the act now."
+      }
+    },
+
+    {
+      "shell_id": "activefx.degen_narration.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": ["Degen"],
+      "shell_text": {
+        "default": "[Player A], until further notice, [degen_narration_rules]. Drop the voice and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you're done narrating."
+      }
+    },
+
+    {
+      "shell_id": "activefx.degen_drink_rule.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": ["Degen"],
+      "shell_text": {
+        "default": "[Player A], until further notice, [degen_drink_rules]. Break it and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], drink however you want again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.group_buffalo.v1",
+      "category_id": "active_effects",
+      "players": { "min": 2 },
+      "tags": ["Degen"],
+      "shell_text": {
+        "default": "Buffalo rules until further notice. Drinks stay in your non-dominant hand. Get caught holding yours in your dominant hand and take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "Buffalo's off, drink with either hand."
+      }
+    },
+
+    {
+      "shell_id": "activefx.last_word_always.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you must have the last word in every exchange until further notice. If someone speaks after you without you getting another word in, take [Penalty, 2]."
+      },
+      "life_tier": "Medium",
+      "closer": {
+        "default": "[Player A], you can let someone else have the last word now."
+      }
+    }
+
+  ]
+}

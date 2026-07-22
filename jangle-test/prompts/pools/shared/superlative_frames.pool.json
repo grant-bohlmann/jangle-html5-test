@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "pool_id": "superlative_frames",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "most likely to",
+    "least likely to",
+    "first to",
+    "last to",
+    "most likely never to",
+    "best at",
+    "worst at",
+    "most afraid of",
+    "most obsessed with",
+    "least impressed by",
+    "most guilty of",
+    "most in denial about",
+    "most likely to cry over"
+  ]
+}

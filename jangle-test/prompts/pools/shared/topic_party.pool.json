@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_party",
+  "type": "text",
+  "tags": ["Degen"],
+  "pool_enabled": true,
+  "entries": [
+    "things you always do before a night out",
+    "reasons a pregame goes too long",
+    "signs a party is about to get out of hand",
+    "things people do when they're waiting for an Uber at 2am",
+    "foods that are perfect when you're hungover",
+    "things you find in your pockets the morning after",
+    "types of drunk people at every party",
+    "things that always happen at a house party",
+    "things you do at a wedding reception when you've had too many",
+    "morning-after regrets everyone has had",
+    "party planning disasters",
+    "ways a night out ends that you didn't plan",
+    "things people say to avoid leaving the bar",
+    "late-night food spots everyone knows",
+    "things you text your friends when you're out",
+    "types of nights out that always go sideways",
+    "things people do to keep the party going",
+    "party themes that always get out of control",
+    "things people lose during a night out",
+    "signs you went too hard last night",
+    "things people order at the bar when they can't decide",
+    "rules of a good pregame"
+  ]
+}

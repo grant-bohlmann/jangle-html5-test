@@ -1,0 +1,638 @@
+{
+  "schema_version": 1,
+  "pool_id": "wyr_pairs",
+  "type": "pair",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "wyr_party",
+      "type": "pair",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        { "a": "give up your phone for a week", "b": "give up your car for a month" },
+        { "a": "always be 10 minutes early", "b": "always be 10 minutes late" },
+        { "a": "only eat your favorite meal forever", "b": "never eat your favorite meal again" },
+        { "a": "know when you're going to die", "b": "know how you're going to die" },
+        { "a": "always be too hot", "b": "always be too cold" },
+        { "a": "lose every photo you've ever taken or been in", "b": "lose every memory of your childhood before age 12" },
+        { "a": "always have to whisper", "b": "always have to shout" },
+        { "a": "never be able to use social media again", "b": "never be able to listen to music again" },
+        { "a": "always know when someone is lying to you", "b": "always be able to tell when someone likes you" },
+        { "a": "give up coffee forever", "b": "give up alcohol forever" },
+        { "a": "live somewhere freezing but with great friends nearby", "b": "live somewhere perfect but know nobody" },
+        { "a": "win a $1,000,000 prize but have to share it equally with everyone you know", "b": "win $100,000 and keep every cent" },
+        { "a": "be the funniest person in any room", "b": "be the most attractive person in any room" },
+        { "a": "have your most embarrassing memory erased", "b": "have your happiest memory play on repeat whenever you want" },
+        { "a": "work a job you love for half the pay", "b": "work a job you hate for double the pay" },
+        { "a": "always eat alone but eat whatever you want", "b": "always eat with others but never choose the restaurant" },
+        { "a": "get one extra vacation week but have to take it alone", "b": "take no extra vacation but always travel with your favorite people" },
+        { "a": "lose your sense of taste for a year", "b": "lose your sense of smell for a year" },
+        { "a": "never be able to use GPS again", "b": "never be able to use a streaming service again" },
+        { "a": "be famous for one year then completely forgotten", "b": "be quietly respected in your field for your entire life" },
+        { "a": "have your salary publicly posted everywhere", "b": "have your credit score publicly posted everywhere" },
+        { "a": "have to move to a new city every year for the rest of your life", "b": "never move from wherever you live now" },
+        { "a": "always be the smartest person in the room but no one believes you", "b": "always be believed immediately but actually be wrong half the time" },
+        { "a": "wake up tomorrow ten years older", "b": "wake up tomorrow ten years younger" },
+        { "a": "always arrive somewhere knowing one embarrassing thing about everyone there", "b": "always arrive somewhere knowing exactly how the night will end for everyone there" },
+        { "a": "have unlimited free food but only from one restaurant forever", "b": "eat whatever you want but cook every single meal yourself forever" },
+        { "a": "be able to pause time but never fast forward", "b": "be able to fast forward through anything but never pause" },
+        { "a": "never have a bad night of sleep again but dream intensely every night", "b": "sleep perfectly but never dream at all" },
+        { "a": "give up your birthday forever", "b": "have to celebrate your birthday publicly every year regardless of your mood" },
+        { "a": "have your phone completely wiped with no backup", "b": "have your laptop completely wiped with no backup" },
+        { "a": "always know exactly what people think of you", "b": "never have any idea what people think of you" },
+        { "a": "have the best social life of anyone you know but live in a permanent pigsty", "b": "have a spotless home but go home alone every night" },
+        { "a": "work fully remote forever with no office option", "b": "work fully in-office forever with no remote option" },
+        { "a": "know the exact calorie count of everything you eat as you eat it", "b": "never know what is in any food before you eat it" },
+        { "a": "have a photographic memory for everything you read", "b": "remember every face and name of every person you've ever met" },
+        { "a": "have strangers always recognize you but never be able to place why", "b": "have everyone you meet immediately forget you by the next day" },
+        { "a": "find $200 in your coat pocket every single Monday morning", "b": "never wait in a line again for the rest of your life" },
+        { "a": "always be the one who plans everything in your friend group", "b": "always be the one who shows up and never has to plan anything" },
+        { "a": "always get a first-class upgrade on every flight you ever book", "b": "never pay for a meal at a restaurant again" },
+        { "a": "lose the ability to swear", "b": "have to whisper every time you get excited" },
+        { "a": "get a raise every year but never be able to switch jobs", "b": "freely change jobs whenever you want but your salary resets every time" },
+        { "a": "always fly economy in a middle seat no matter what you book", "b": "always be randomly selected for extra security screening every time you go through an airport" },
+        { "a": "have every hotel stay automatically upgraded to a suite", "b": "have every flight automatically bumped to first class no matter what ticket you bought" },
+        { "a": "have your most recent Google search read aloud when you walk into a room", "b": "have your most recent text conversation appear on a billboard in your city" },
+        { "a": "have 10 extra hours in every weekend", "b": "never feel tired or need recovery after a bad night of sleep" },
+        { "a": "only be able to communicate by voice note for the rest of your life", "b": "only be able to communicate by text for the rest of your life" },
+        { "a": "speak every language fluently", "b": "play every instrument you pick up at an expert level" },
+        { "a": "have the ability to speed-read anything in seconds", "b": "never forget anything you hear in a conversation" },
+        { "a": "have your commute take 5 minutes forever but can never change where you live", "b": "live wherever you want but commute takes 90 minutes each way forever" },
+        { "a": "be able to fall asleep within 60 seconds anywhere", "b": "never feel hungover regardless of how much you drink" },
+        { "a": "never get a cold or the flu again", "b": "never have a headache again" },
+        { "a": "have your alarm always go off at the exact right moment in your sleep cycle", "b": "have your coffee always be the perfect temperature when you pick it up" },
+        { "a": "have someone write all your emails and texts in your voice forever", "b": "have someone else make every minor decision for you but you can override once a day" },
+        { "a": "never have to do laundry again", "b": "never have to do dishes again" },
+        { "a": "always wake up knowing exactly what you want to do that day", "b": "always go to bed knowing you made the best use of your day" },
+        { "a": "have unlimited storage on every device you ever own", "b": "have your phone battery never drop below 20%" },
+        { "a": "never feel awkward after an uncomfortable silence", "b": "always know the right time to leave a party" },
+        { "a": "have a personal assistant for 2 hours every Monday", "b": "have a chef cook you one custom meal every Sunday" },
+        { "a": "always find the right word when you need it in conversation", "b": "always sound confident even when you're not" },
+        { "a": "always have the best seat in any theater, stadium, or venue", "b": "always have the best table at any restaurant with no wait" },
+        { "a": "never lose anything you own ever again", "b": "always find your size in stock when you go shopping" },
+        { "a": "have your most embarrassing photo automatically deleted before anyone else sees it", "b": "have your worst text automatically corrected before you send it" },
+        { "a": "get paid for every hour you spend commuting", "b": "have every work meeting automatically turned into an email if it could have been" },
+        { "a": "never sunburn again", "b": "never have a mosquito bite you again" },
+        { "a": "have everyone who ever wronged you eventually apologize to you", "b": "forget every bad thing that has ever happened to you" },
+        { "a": "fight one horse-sized duck", "b": "fight a hundred duck-sized horses" },
+        { "a": "fight one horse-sized cat", "b": "fight a hundred cat-sized lions" },
+        { "a": "fight a gorilla with your bare hands", "b": "fight a swarm of a thousand bees" },
+        { "a": "fight one guy who actually knows karate", "b": "fight five guys who have no clue what they're doing" },
+        { "a": "be able to fly", "b": "be invisible" },
+        { "a": "be able to teleport anywhere", "b": "be able to read minds" },
+        { "a": "have super strength", "b": "have super speed" },
+        { "a": "be able to talk to animals", "b": "be able to speak every human language" },
+        { "a": "be able to freeze time", "b": "be able to rewind time" },
+        { "a": "have hands for feet", "b": "have feet for hands" },
+        { "a": "sweat maple syrup", "b": "cry glitter" },
+        { "a": "have a permanent clown nose", "b": "have a unibrow you can never shave" },
+        { "a": "have fingers as long as your legs", "b": "have legs as short as your fingers" },
+        { "a": "always smell faintly like a wet dog", "b": "always have a single eyelash in your eye" },
+        { "a": "taste soap in everything sweet", "b": "taste pennies in everything salty" },
+        { "a": "have a sneeze that never quite comes out", "b": "have a yawn that never finishes" },
+        { "a": "be stuck in the world of the last movie you watched", "b": "be stuck in the world of the last game you played" },
+        { "a": "live 100 years in the past", "b": "live 100 years in the future" },
+        { "a": "have a pet dragon the size of a cat", "b": "have a pet dinosaur the size of a dog" },
+        { "a": "live in a world with magic but no internet", "b": "live in the world exactly as it is" },
+        { "a": "have every song you hear stuck in your head for a week", "b": "have every movie you watch spoiled first" },
+        { "a": "always blurt out exactly what you're thinking", "b": "never be able to speak in groups larger than two" },
+        { "a": "fight one bear-sized rat", "b": "fight a hundred rat-sized bears" },
+        { "a": "fight one angry goose", "b": "fight three raccoons at the same time" },
+        { "a": "fight a shark in a pool", "b": "fight an eagle in a phone booth" },
+        { "a": "fight one silent, extremely calm giant", "b": "fight ten screaming toddlers" },
+        { "a": "breathe underwater", "b": "always land on your feet no matter how far you fall" },
+        { "a": "have super hearing", "b": "have x-ray vision" },
+        { "a": "be able to shrink to the size of a mouse at will", "b": "be able to grow to the size of a house at will" },
+        { "a": "be able to hover and glide at rooftop height as fast as you can run", "b": "be able to sprint 60 miles an hour in short bursts" },
+        { "a": "have night vision", "b": "be able to hear a conversation from a block away whenever you focus" },
+        { "a": "have the power to instantly sober up anyone", "b": "have the power to instantly put anyone to sleep" },
+        { "a": "have everything you touch turn slightly damp", "b": "have everything you touch turn slightly sticky" },
+        { "a": "hiccup loudly once every minute for the rest of your life", "b": "sneeze violently once every hour for the rest of your life" },
+        { "a": "have your shadow move a few seconds before you do", "b": "have your reflection copy you a few seconds late" },
+        { "a": "grow a full beard overnight that regrows the moment you shave it", "b": "have your hair grow a foot every time you get it cut" },
+        { "a": "have your voice randomly echo twice whenever you're excited", "b": "have your voice randomly drop an octave whenever you're nervous" },
+        { "a": "leave a trail of glitter everywhere you walk outdoors", "b": "leave a trail of tiny bubbles everywhere you walk indoors" },
+        { "a": "have your stomach growl loud enough for a room to hear whenever you're hungry", "b": "have your knees audibly crack with every single step" },
+        { "a": "be immune to bug bites but always covered in ants at picnics", "b": "be immune to sunburn but always slightly damp for no reason" },
+        { "a": "have a pet-sized dragon that breathes bubbles instead of fire", "b": "have a pet-sized griffin that molts feathers all over your house" },
+        { "a": "be able to swap bodies with any animal for one hour a day", "b": "be able to shrink any object to pocket size for one hour a day" },
+        { "a": "live in a world where gravity is half as strong", "b": "live in a world where a day lasts 30 hours" },
+        { "a": "be able to visit any point in your own past as a silent observer", "b": "be able to see one minute into your own future at all times" },
+        { "a": "wake up every day in a random decade of your own life", "b": "wake up every day in a random room of your childhood home" },
+        { "a": "swap places with your reflection for a day once a year", "b": "swap places with a stranger who looks exactly like you once a year" },
+        { "a": "have everything you eat taste like whatever you ate right before it", "b": "have everything you drink taste faintly like birthday cake" },
+        { "a": "only be able to speak in movie quotes", "b": "only be able to speak in song lyrics" },
+        { "a": "only be able to communicate through interpretive dance for a day", "b": "only be able to communicate through charades for a day" },
+        { "a": "have every argument you're in end with both people laughing", "b": "have every awkward silence end with someone starting a round of applause" },
+        { "a": "be followed everywhere by a spotlight", "b": "be followed everywhere by a small personal raincloud" },
+        { "a": "have a parrot that repeats the last thing you said, loudly, at random times", "b": "have a cat that stares directly at you the entire time you eat" },
+        { "a": "be trailed by a marching band whenever you enter a room", "b": "be trailed by applause sound effects whenever you leave a room" },
+        { "a": "have a tiny cloud of gnats that only shows up when you're nervous", "b": "have a squeaky floorboard sound follow your every step" },
+        { "a": "be legally required to narrate your own actions out loud", "b": "be legally required to give a weather report before every conversation" },
+        { "a": "have hiccups that sound like a duck quacking", "b": "have a laugh that sounds exactly like a dial-up modem" },
+        { "a": "wake up every morning with a random temporary superpower that lasts one hour", "b": "wake up every morning fluent in a random language that fades by noon" },
+        { "a": "have every selfie you take always come out looking flattering", "b": "have every group photo you're in be the one where everyone looks great" },
+        { "a": "be able to skip any line by pretending to be royalty for a day", "b": "be able to get free dessert anywhere by claiming it's your birthday" },
+        { "a": "have a theme song that plays whenever you walk into a party", "b": "have a laugh track play whenever you say something you think is funny" },
+        { "a": "be able to understand what babies are actually saying", "b": "be able to understand what your pet is actually thinking" },
+        { "a": "be able to skip every commercial ever, forever", "b": "be able to skip the opening credits of every show, forever" },
+        { "a": "be able to talk your way out of any parking ticket", "b": "be able to talk your way into any sold-out event" },
+        { "a": "have a permanent five second delay before you can lie", "b": "have your face turn slightly red every time you exaggerate" },
+        { "a": "grow an inch taller every time you tell the truth in an argument", "b": "grow an inch shorter every time you win an argument you were wrong about" },
+        { "a": "be able to pause any movie in real life for exactly 10 seconds once a day", "b": "be able to rewind the last 10 seconds of real life once a day" },
+        { "a": "have a tiny umbrella that only rains on people who annoy you", "b": "have a tiny fan that only blows confetti when you're proud of yourself" },
+        { "a": "be able to breathe fire but only enough to light a candle", "b": "be able to fly but only two feet off the ground" },
+        { "a": "have wings that only work when no one is watching", "b": "have super strength that only works when you're calm" },
+        { "a": "be invincible but only while completely silent", "b": "be invisible but only while standing perfectly still" }
+      ]
+    },
+    {
+      "pool_id": "wyr_spicy",
+      "type": "pair",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        {
+          "a": "kiss a stranger on the street",
+          "b": "be kissed by someone you're not attracted to"
+        },
+        {
+          "a": "find out your ex has moved on completely",
+          "b": "find out your ex is still not over you"
+        },
+        {
+          "a": "date someone your friends hate",
+          "b": "date someone your family loves but you're lukewarm on"
+        },
+        {
+          "a": "have amazing chemistry but terrible timing",
+          "b": "have perfect timing but only okay chemistry"
+        },
+        {
+          "a": "know every person who has ever had a crush on you",
+          "b": "have every person you've had a crush on know it"
+        },
+        {
+          "a": "be with someone who's a 10 in bed but a 5 as a partner",
+          "b": "be with someone who's a 10 as a partner but a 5 in bed"
+        },
+        {
+          "a": "have your most recent hookup story told to your parents",
+          "b": "have your worst first date story told on a podcast"
+        },
+        {
+          "a": "always be the one who loves more",
+          "b": "always be the one who is loved more"
+        },
+        {
+          "a": "fall for someone who will never love you back",
+          "b": "be loved deeply by someone you can never feel the same way about"
+        },
+        {
+          "a": "only date people shorter than you",
+          "b": "only date people younger than you"
+        },
+        {
+          "a": "have a one-night stand that everyone finds out about",
+          "b": "be in a secret relationship for a year"
+        },
+        {
+          "a": "always make the first move",
+          "b": "never be allowed to make the first move"
+        },
+        {
+          "a": "have perfect physical attraction but nothing to talk about",
+          "b": "have an incredible connection but no physical spark"
+        },
+        {
+          "a": "date someone who posts about your relationship constantly",
+          "b": "date someone who refuses to acknowledge you on social media"
+        },
+        {
+          "a": "find out your partner has been sleeping with someone else",
+          "b": "find out your partner has been venting about you to their ex"
+        },
+        {
+          "a": "have your best sexual experience with a stranger you'll never see again",
+          "b": "have your worst sexual experience with someone you'll see every week"
+        },
+        {
+          "a": "be terrible at flirting but amazing at relationships",
+          "b": "be amazing at flirting but terrible at relationships"
+        },
+        {
+          "a": "know exactly when someone is attracted to you",
+          "b": "know exactly when someone has stopped being attracted to you"
+        },
+        {
+          "a": "get ghosted after a great first date",
+          "b": "go on a painful second date after a great first one"
+        },
+        {
+          "a": "match with your dream person but never work up the nerve to message them",
+          "b": "send the perfect opening line and get left on read"
+        },
+        {
+          "a": "have your search history from the last week read aloud",
+          "b": "have your body count revealed to everyone in this room"
+        },
+        {
+          "a": "sleep with someone and find out they're your new coworker the next day",
+          "b": "develop real feelings for someone and find out they have a partner"
+        },
+        {
+          "a": "go on 10 dates with no spark and then give up",
+          "b": "fall hard on the first date with someone who isn't ready"
+        },
+        {
+          "a": "only be able to date people you meet in real life",
+          "b": "only be able to date people you meet on apps"
+        },
+        {
+          "a": "be attractive to everyone but your type",
+          "b": "be attractive to exactly your type but no one else"
+        },
+        {
+          "a": "be in a perfectly good relationship with zero passion",
+          "b": "be obsessively in love with no stability"
+        },
+        {
+          "a": "fall hard for someone who turns out to be nothing like you thought",
+          "b": "have someone fall hard for a version of you that isn't really you"
+        },
+        {
+          "a": "have your most explicit fantasy revealed to everyone in this room",
+          "b": "have your full list of physical preferences revealed to everyone in this room"
+        },
+        {
+          "a": "always be the one who pulls away first",
+          "b": "always be the one who holds on too long"
+        },
+        {
+          "a": "be ridiculously good-looking but terrible in bed",
+          "b": "be average-looking but genuinely unforgettable in bed"
+        },
+        {
+          "a": "date someone who is physically perfect but completely ignores you in public",
+          "b": "date someone average-looking who makes you feel like the only person in any room"
+        },
+        {
+          "a": "have an ex reach out the night before you start something new",
+          "b": "have a new person go cold the moment things get real"
+        },
+        {
+          "a": "spend a year only dating casually with no commitment allowed",
+          "b": "spend a year completely off the market and fully focused on yourself"
+        },
+        {
+          "a": "wake up next to someone and have no idea how it happened",
+          "b": "want something to happen and have it never happen despite perfect circumstances"
+        },
+        {
+          "a": "know every person who has fantasized about you",
+          "b": "know exactly what your current partner says about you to their friends"
+        },
+        {
+          "a": "have great sex that means nothing",
+          "b": "have deeply emotional intimacy with no physical side"
+        },
+        {
+          "a": "be someone's rebound who catches real feelings",
+          "b": "use someone as a rebound and realize you actually want them"
+        },
+        {
+          "a": "have your best friend develop feelings for you",
+          "b": "develop feelings for your best friend and have them not feel the same"
+        },
+        {
+          "a": "hook up with someone in your friend group and keep it secret",
+          "b": "hook up with someone in your friend group and have everyone find out"
+        },
+        {
+          "a": "end a good relationship for someone who never commits",
+          "b": "stay in a relationship you've outgrown because it's comfortable"
+        },
+        {
+          "a": "be irresistible to everyone for one day a month",
+          "b": "be mildly attractive to everyone every single day"
+        },
+        {
+          "a": "have every date be perfect but forget it completely by morning",
+          "b": "have every date be a disaster you remember in perfect detail forever"
+        },
+        {
+          "a": "be able to make anyone laugh but never anyone blush",
+          "b": "be able to make anyone blush but never anyone laugh"
+        },
+        {
+          "a": "be mistaken for a celebrity everyone finds attractive, but never the one you'd pick",
+          "b": "be told you look exactly like someone's ex every single time you meet them"
+        },
+        {
+          "a": "be irresistible in a crowded room but invisible one-on-one",
+          "b": "be magnetic one-on-one but overlooked in any crowd"
+        },
+        {
+          "a": "have a soulmate who lives on the other side of the world",
+          "b": "have three near-perfect matches who all live nearby but never quite work out"
+        },
+        {
+          "a": "fall in love at first sight every single time you meet someone new",
+          "b": "never once feel a spark, even with someone perfect for you"
+        },
+        {
+          "a": "have every crush know you like them instantly",
+          "b": "never be able to tell if anyone likes you back"
+        },
+        {
+          "a": "be everyone's type on paper but nobody's type in person",
+          "b": "be nobody's type on paper but everyone's type in person"
+        },
+        {
+          "a": "be cursed to always fall for the person least available in any room",
+          "b": "be cursed to always be chased by the person you're least interested in"
+        },
+        {
+          "a": "have every first date go perfectly but every relationship fizzle out within a month",
+          "b": "have every first date be awkward but every relationship that survives it last for years"
+        },
+        {
+          "a": "be able to instantly know someone's relationship history",
+          "b": "be able to instantly know what someone's exes say about them"
+        },
+        {
+          "a": "be unable to date anyone shorter than you",
+          "b": "be unable to date anyone funnier than you"
+        },
+        {
+          "a": "be a legendary kisser everyone talks about but a nervous wreck on dates",
+          "b": "be a confident, easy dater but a famously bad kisser"
+        },
+        {
+          "a": "be able to end any date the second it goes badly, no explanation needed",
+          "b": "be able to guarantee a second date every time, even when there's no spark"
+        },
+        {
+          "a": "only be attracted to people who are terrible for you",
+          "b": "only attract people who are perfect for you, but you're terrible for them"
+        },
+        {
+          "a": "have every relationship start with fireworks and fade fast",
+          "b": "have every relationship start slow and quietly become the love of your life"
+        },
+        {
+          "a": "be able to tell within a minute if a date has a future",
+          "b": "be able to tell within a minute if a date is lying about anything"
+        }
+      ]
+    },
+    {
+      "pool_id": "wyr_degen",
+      "type": "pair",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        {
+          "a": "be dared to take 5 shots in one night by your group",
+          "b": "have the group assign you 5 dares over the course of a night"
+        },
+        {
+          "a": "be blackout drunk at your work holiday party",
+          "b": "be blackout drunk at your best friend's wedding"
+        },
+        {
+          "a": "never drink again",
+          "b": "never smoke weed again"
+        },
+        {
+          "a": "be the drunkest person at every party for a year",
+          "b": "be completely sober at every party for a year"
+        },
+        {
+          "a": "drunk text your boss",
+          "b": "drunk call your parents"
+        },
+        {
+          "a": "bar crawl alone every Friday for a month",
+          "b": "stay in and do nothing every weekend for a month"
+        },
+        {
+          "a": "let your friends pick your next tattoo with no veto power",
+          "b": "shave your head and have it be your profile photo for a year"
+        },
+        {
+          "a": "eat something disgusting for $50",
+          "b": "turn down $50 and eat nothing for the next 12 hours"
+        },
+        {
+          "a": "spend a night in a jail cell for something embarrassing",
+          "b": "spend a night explaining that story on live television"
+        },
+        {
+          "a": "have your most chaotic night ever happen again exactly as it did",
+          "b": "have your most chaotic night ever erased from your memory"
+        },
+        {
+          "a": "do karaoke stone cold sober",
+          "b": "give a speech at a stranger's wedding after 6 drinks"
+        },
+        {
+          "a": "let the group dare you to do anything for $100",
+          "b": "pay $100 to skip the dare"
+        },
+        {
+          "a": "wake up in a city you don't recognize after a night out",
+          "b": "wake up knowing exactly what happened but wishing you didn't"
+        },
+        {
+          "a": "give an embarrassing toast at a party that gets recorded and passed around",
+          "b": "owe everyone at a party $20 and have no way to pay up"
+        },
+        {
+          "a": "go out every night for two weeks with no sleep-ins",
+          "b": "stay sober for two weeks but have unlimited snacks and no obligations"
+        },
+        {
+          "a": "be the designated driver for an entire month",
+          "b": "be banned from your favorite bar for an entire month"
+        },
+        {
+          "a": "lose your wallet on a night out",
+          "b": "lose your phone on a night out"
+        },
+        {
+          "a": "crash at a stranger's house after a party",
+          "b": "walk home alone at 3am in the wrong shoes"
+        },
+        {
+          "a": "spend $500 at a casino and go home with nothing",
+          "b": "win $500 at a casino but lose it all on the way out"
+        },
+        {
+          "a": "wake up with a new tattoo you don't remember getting",
+          "b": "wake up having clearly made a speech at some point last night"
+        },
+        {
+          "a": "be the one who cries at every party",
+          "b": "be the one who starts a fight at every party"
+        },
+        {
+          "a": "wake up knowing you finished every stranger's drink at the bar last night",
+          "b": "wake up knowing you ate every leftover in the building after a party"
+        },
+        {
+          "a": "do every dare the group comes up with for a week",
+          "b": "take a penalty every time you say no to a dare for a week"
+        },
+        {
+          "a": "go on a week-long trip with your most unpredictable friend",
+          "b": "go on a week-long trip alone with unlimited budget but no itinerary"
+        },
+        {
+          "a": "never be able to turn down a free shot again",
+          "b": "always have to match whatever the person next to you is having"
+        },
+        {
+          "a": "be the last person standing at every party for a year",
+          "b": "always be the first one to go home for a year"
+        },
+        {
+          "a": "have your most embarrassing bar story retold without your permission",
+          "b": "have your most chaotic sent messages screenshotted and shared"
+        },
+        {
+          "a": "smoke weed for the first time in front of your coworkers",
+          "b": "show up high to a family dinner"
+        },
+        {
+          "a": "have a video of you failing a dare go viral",
+          "b": "take a shot of a mystery condiment on a dare and find out what it was afterward"
+        },
+        {
+          "a": "spend a whole night out without touching your phone",
+          "b": "spend a whole night out only talking to strangers"
+        },
+        {
+          "a": "wake up to 47 notifications from a group chat you don't remember joining",
+          "b": "wake up to a voice memo from yourself that you can't explain"
+        },
+        {
+          "a": "have the worst hangover of your life but remember everything",
+          "b": "feel totally fine the next day but remember absolutely nothing"
+        },
+        {
+          "a": "get cut off by a bartender in front of the whole bar",
+          "b": "be personally escorted out by security in front of everyone you know"
+        },
+        {
+          "a": "lose a bet and have to buy everyone here a round",
+          "b": "win a bet but have to be sober for a week"
+        },
+        {
+          "a": "have your most chaotic group chat read aloud at a party you hosted",
+          "b": "have your Saturday night camera roll projected on a screen at a party"
+        },
+        {
+          "a": "only be able to drink out of a shoe for a year",
+          "b": "only ever be allowed to order the bartender's worst idea"
+        },
+        {
+          "a": "have every hangover last two full days but remember every detail",
+          "b": "never be hungover again but black out completely every time you go out"
+        },
+        {
+          "a": "take a penalty every time someone says your name tonight",
+          "b": "take a penalty every time you say someone else's name tonight"
+        },
+        {
+          "a": "have your tolerance quadruple but your hangovers get exponentially worse",
+          "b": "never get drunk again but never feel the fun part either"
+        },
+        {
+          "a": "be legally required to cheers every drink you ever order",
+          "b": "be legally required to finish every drink someone else abandons at a party"
+        },
+        {
+          "a": "have every night out end with a mystery bruise and no memory of it",
+          "b": "have every night out end with a full memory of exactly how embarrassing you were"
+        },
+        {
+          "a": "be the friend who always gets everyone home safe but never remembers the fun parts",
+          "b": "be the friend who has the best stories but can never confirm if they're true"
+        },
+        {
+          "a": "have your worst drunk decision from every night out narrated by a sports commentator the next day",
+          "b": "have your best drunk decision from every night out immediately forgotten by everyone but you"
+        },
+        {
+          "a": "be cursed to always order the most expensive thing at the bar by accident",
+          "b": "be cursed to always spill your drink within ten minutes of getting it"
+        },
+        {
+          "a": "have every round you buy get immediately spilled by someone else",
+          "b": "have every round someone buys you arrive at the worst possible moment"
+        },
+        {
+          "a": "be unable to whisper once you've had two drinks",
+          "b": "be unable to walk in a straight line once you've had one drink, sober or not"
+        },
+        {
+          "a": "have a curse where every bar you enter is instantly out of your favorite drink",
+          "b": "have a curse where every tab you open mysteriously grows by $40 by the end of the night"
+        },
+        {
+          "a": "be doomed to always befriend the most chaotic stranger at every party",
+          "b": "be doomed to always end up as someone's designated therapist at every party"
+        },
+        {
+          "a": "have a permanent buzz that never turns into a hangover but never gets stronger either",
+          "b": "have one perfect night a year where you feel invincible, followed by the worst hangover of your life"
+        },
+        {
+          "a": "be unable to order anything except shots for the rest of your life",
+          "b": "be unable to order anything except the drink your worst ex always got"
+        },
+        {
+          "a": "wake up every rough morning to find you already ordered yourself breakfast delivery",
+          "b": "wake up every rough morning to find you already apologized to everyone in a group chat"
+        },
+        {
+          "a": "have every party you attend end with you asleep in a strange but harmless place",
+          "b": "have every party you attend end with you wide awake giving an unplanned toast"
+        },
+        {
+          "a": "be doomed to always lose at every drinking game you play, forever",
+          "b": "be doomed to always be the one who has to explain the rules of every drinking game, forever"
+        },
+        {
+          "a": "be banned from ever ordering a cocktail with a fun name again",
+          "b": "be forced to only ever order drinks with fun names, no matter what they taste like"
+        },
+        {
+          "a": "have your hangxiety last exactly one intense hour every time",
+          "b": "have your hangxiety last a mild, nagging two days every time"
+        },
+        {
+          "a": "wake up every wild night with glitter somewhere you can't explain",
+          "b": "wake up every wild night with a receipt for something you don't remember buying"
+        },
+        {
+          "a": "be unable to remember the name of any bar you've ever been kicked out of",
+          "b": "be unable to forget the name of every person who has ever seen you at your worst"
+        },
+        {
+          "a": "have a shot glass that refills itself once a night, no warning",
+          "b": "have a tab that clears itself once a month, no warning"
+        }
+      ]
+    }
+  ]
+}

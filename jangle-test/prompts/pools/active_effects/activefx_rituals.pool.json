@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_rituals",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "bow their head",
+    "say 'I accept my fate'",
+    "knock twice on the nearest solid surface",
+    "stand and salute",
+    "clap once together",
+    "give a thumbs up",
+    "place their hand over their heart",
+    "make eye contact with the person to their left",
+    "say the loser's name out loud before they take the penalty",
+    "snap once in unison",
+    "tap their own chest twice",
+    "raise one hand briefly like they're being sworn in"
+  ]
+}

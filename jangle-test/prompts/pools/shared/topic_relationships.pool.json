@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_relationships",
+  "type": "text",
+  "tags": ["Spicy"],
+  "pool_enabled": true,
+  "entries": [
+    "green flags you ignore anyway",
+    "things people say to avoid commitment",
+    "things exes have in common",
+    "things couples argue about most",
+    "ways people know they're falling for someone",
+    "things people do when they're orbiting an ex",
+    "the most common relationship dealbreakers",
+    "ways people have broken up with someone",
+    "things people say after a breakup",
+    "types of situationships",
+    "things people send at 2am to their ex",
+    "reasons people get back together after breaking up",
+    "things couples compete over",
+    "things people overshare too early in a relationship",
+    "questions you should ask before getting serious",
+    "things that end a long-distance relationship",
+    "relationship milestones no one agrees on the order of",
+    "things friends say when you're in a bad relationship",
+    "ways people accidentally confess feelings",
+    "things that are romantic in movies but weird in real life",
+    "things people change about themselves for a partner",
+    "types of talking stages"
+  ]
+}

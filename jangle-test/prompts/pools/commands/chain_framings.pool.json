@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pool_id": "chain_framings",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "chain_framings_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Pay it forward.",
+        "Consequences travel fast.",
+        "The chain does not forget.",
+        "Bad decisions spread.",
+        "Nobody asked for this except gravity.",
+        "Gravity does the rest.",
+        "Momentum is undefeated.",
+        "It was always going to land on someone.",
+        "The math checks out eventually.",
+        "Nobody gets to opt out of this one.",
+        "Fair is a strong word.",
+        "The chain reaction was never going to skip a link."
+      ]
+    }
+  ]
+}

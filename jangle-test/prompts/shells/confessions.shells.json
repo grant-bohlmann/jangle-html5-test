@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "confessions.confess.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], confess [confession_prompts]. Refuse and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "confessions.tell_group.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], tell the group [confession_prompts]. Stay quiet and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "confessions.question.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], what's [confession_prompts]? Confess or take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "confessions.spill.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], spill [confession_prompts]. No story and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "confessions.have_you_ever.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], have you ever [nhie_actions]? Confess or take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "confessions.describe.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], describe [describe_prompts]. No answer and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "confessions.tally.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], name [tally_confessions.a]. Take [Penalty, 1] for each one [tally_confessions.b]."
+      }
+    },
+    {
+      "shell_id": "confessions.solidarity.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], confess [confession_prompts]. Anyone who has done the same takes [Penalty, 1] with you. Confess alone and take [Penalty, 3] instead."
+      }
+    },
+    {
+      "shell_id": "confessions.one_truth_one_lie.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], tell us one truth and one lie. Don't say which is which. The group gets one guess. If they are right, you take [Penalty, 2]. If not, everyone in the group takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "confessions.pick_your_audience.v1",
+      "category_id": "confessions",
+      "players": { "min": 4 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], confess [confession_prompts]. But you only have to confess to one person in this group. Refuse and take [Penalty, max]."
+      }
+    },
+    {
+      "shell_id": "confessions.pick_your_poison.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], open up about [confession_topics]. You choose how much you give. Keep it vague for [Penalty, 3], get personal for [Penalty, 2], or the full story for [Penalty, 1]. Pass entirely and take [Penalty, max]."
+      }
+    },
+    {
+      "shell_id": "confessions.top_it.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], confess [confession_prompts]. The next person must top it. Anyone who can't top the previous one takes [Penalty, max]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "confessions.on_behalf.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], confess something on behalf of [Player B]. You pick what it is. [Player B] confirms or denies. If [Player B] denies it, you both take [Penalty, 3]."
+      }
+    },
+    {
+      "shell_id": "confessions.choose_your_confessor.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you get to assign this confession. Pick anyone here. They must confess [assigned_confessions] or take [Penalty, 5-6]."
+      }
+    },
+    {
+      "shell_id": "confessions.blind_confess.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player B] gives [Player A] one word. [Player A] has 10 seconds to confess something on that topic. Refuse or can't think of anything, take [Penalty, 4-5]."
+      }
+    },
+    {
+      "shell_id": "confessions.pass_the_burn.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], confess [confession_prompts], or pass it to [Player B] and take [Penalty, 2]. [Player B] confesses or takes [Penalty, 4]."
+      }
+    },
+    {
+      "shell_id": "confessions.go_deep.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], go deep on [confession_topics]. Keep it tame and nobody pays. Get personal and everyone else takes [Penalty, 1]. Go truly deep and everyone else takes [Penalty, 3]. Pass and take [Penalty, 1] yourself."
+      }
+    },
+    {
+      "shell_id": "confessions.seen_that_coming.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], think of [confession_prompts]. [Player B] has to guess what it is. Nail it and [Player A] takes [Penalty, 2]. Miss and [Player B] takes [Penalty, 1]."
+      }
+    }
+  ]
+}

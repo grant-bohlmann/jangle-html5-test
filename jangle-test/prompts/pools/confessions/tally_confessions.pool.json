@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pool_id": "tally_confessions",
+  "type": "pair",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "tally_confessions_party",
+      "type": "pair",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        { "a": "three of your friends' partners", "b": "you give it six months with" },
+        { "a": "three people you've unfollowed", "b": "you still check on anyway" },
+        { "a": "three promises you've made to yourself", "b": "you've already broken this year" },
+        { "a": "three apps on your phone", "b": "you'd delete before handing it to someone" },
+        { "a": "three purchases in your bank history", "b": "you'd have to explain" },
+        { "a": "three contacts in your phone", "b": "saved under a fake name" },
+        { "a": "three foods in your fridge right now", "b": "you'd be embarrassed to explain buying" },
+        { "a": "three accounts you follow", "b": "you have zero real reason to still follow" },
+        { "a": "three excuses you've used this year", "b": "you completely made up" },
+        { "a": "three subscriptions you're still paying for", "b": "you completely forgot you had" },
+        { "a": "three things in your closet", "b": "you've never worn since buying" },
+        { "a": "three people in your phone", "b": "you'd panic if they texted right now" },
+        { "a": "three orders on your food delivery app", "b": "you'd never admit to ordering sober" }
+      ]
+    },
+    {
+      "pool_id": "tally_confessions_spicy",
+      "type": "pair",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        { "a": "the last three people you've slept with", "b": "you regret" },
+        { "a": "three exes", "b": "you'd get back with after two drinks" },
+        { "a": "the last three people you've kissed", "b": "you shouldn't have" },
+        { "a": "three people you've hooked up with", "b": "you never told your friends about" },
+        { "a": "three people you've seriously dated", "b": "you broke up with" },
+        { "a": "three people you've turned down", "b": "you kind of wish you hadn't" },
+        { "a": "three things about your sex life", "b": "you've never told anyone here" },
+        { "a": "three kinks", "b": "you've tried" },
+        { "a": "three things on your sexual bucket list", "b": "you've never told a partner" },
+        { "a": "three of your biggest turn-ons", "b": "that would surprise this group" },
+        { "a": "three people you've dated", "b": "that was really just a situationship" },
+        { "a": "three sex dreams you've had", "b": "about someone you know" },
+        { "a": "three things you regularly do in bed", "b": "you secretly don't enjoy" },
+        { "a": "three of your exes", "b": "you'd still sleep with" },
+        { "a": "three sexual firsts you've had", "b": "you'd redo differently" },
+        { "a": "three of your exes", "b": "who was better in bed than as a partner" },
+        { "a": "three of the most adventurous places you've hooked up", "b": "you'd do again" },
+        { "a": "three people in your phone you'd hook up with but haven't", "b": "who's completely off-limits" }
+      ]
+    },
+    {
+      "pool_id": "tally_confessions_degen",
+      "type": "pair",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        { "a": "your previous three nights out", "b": "you don't remember ending" },
+        { "a": "three of the decisions you made last time you were drunk", "b": "you'd honestly make again sober" },
+        { "a": "the last three people you went home with", "b": "you'd rather forget" },
+        { "a": "three places you've gotten way too drunk", "b": "you've been kicked out of" },
+        { "a": "the last three drunk texts you sent", "b": "you'd give anything to unsend" },
+        { "a": "three of the most reckless things you've done drunk", "b": "that could've gone really wrong" },
+        { "a": "three things you've done for a free drink", "b": "you're not proud of" },
+        { "a": "three substances or combinations you've tried", "b": "you don't want to touch again" },
+        { "a": "the last three places you've thrown up", "b": "that wasn't a toilet" },
+        { "a": "three of the most illegal things you've done", "b": "you never got caught for" },
+        { "a": "three fights or arguments you've started drunk", "b": "that was entirely your fault" },
+        { "a": "three things you've broken or lost on a night out", "b": "you never got back" },
+        { "a": "three things you've eaten at 3am", "b": "you'd be ashamed to admit" },
+        { "a": "the last three parties you went to", "b": "you weren't actually invited to" },
+        { "a": "three dares you've done drunk", "b": "you'd never do sober" },
+        { "a": "three times you've shown up somewhere hungover", "b": "you had to fake your way through" }
+      ]
+    }
+  ]
+}

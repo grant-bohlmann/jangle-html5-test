@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "pool_id": "superlative_positive",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "superlative_positive_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Who would survive the longest in a zombie apocalypse?",
+        "Who would be the best parent?",
+        "Who gives the best advice?",
+        "Who would win The Hunger Games?",
+        "Who would be the best wingman?",
+        "Who would be the most fun to party with?",
+        "Who would be the best person to go to for relationship advice?",
+        "Who has the best smile?",
+        "Who would be the most fun to go on vacation with?",
+        "Who would be the best at keeping a secret?",
+        "Who has the best hair?",
+        "Who has the best style?",
+        "Who would be the best at karaoke?",
+        "Who has the best personality?",
+        "Who would be the best hype person?",
+        "Who gives off main character energy?",
+        "Who's most likely to win a talent show?",
+        "Who has the best voice?",
+        "Who would be the best person to be stranded with?",
+        "Who would win in a cooking competition?",
+        "Who has the most contagious energy?",
+        "Who gives off CEO vibes?",
+        "Who would win in a video game tournament?",
+        "Who has the best laugh?",
+        "Who's the most chill?",
+        "Who gives off genius vibes?",
+        "Who gives off therapist vibes?",
+        "Who would win in a trivia night?",
+        "Who's the most down-to-earth?",
+        "Who has the best vibe?",
+        "Who would be the best wedding planner?",
+        "Who's the funniest?",
+        "Who gives off undercover agent vibes?",
+        "Who would win in a spelling bee?",
+        "Who has the most interesting life?",
+        "Who would be the best event coordinator?",
+        "Who gives off responsible adult vibes?",
+        "Who would win in an eating contest?",
+        "Who would survive the longest on a deserted island?",
+        "Who gives off lawyer vibes?",
+        "Who's the most spontaneous?",
+        "Who's the most optimistic?",
+        "Who's the most loyal friend?"
+      ]
+    },
+    {
+      "pool_id": "superlative_positive_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Who would be the best at flirting?",
+        "Who has the best ass?",
+        "Who has the best body?",
+        "Who would be the best at giving massages?",
+        "Who in this room is probably the best in bed?",
+        "Who would be the most fun to make out with?",
+        "Who gives off the best sexual confidence?",
+        "Who has the most naturally seductive voice?",
+        "Who would send the best flirty text?",
+        "Who would be the best at dirty talk?",
+        "Who would be the best kisser?",
+        "Who would leave the best hickey?",
+        "Who has the most convincing bedroom eyes?",
+        "Who would be the hardest to say no to?",
+        "Who would be the best at seducing a total stranger?"
+      ]
+    },
+    {
+      "pool_id": "superlative_positive_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Who would be the best drinking game partner?",
+        "Who gives off the best pregame energy?",
+        "Who would out-drink the entire room?",
+        "Who would be the hardest to drag out the door at closing time?",
+        "Who would win a shotgun competition?",
+        "Who's the best at rallying the group when the night is dying?",
+        "Who would be the best at talking their way out of trouble?",
+        "Who would make the best partner in crime?",
+        "Who could sweet-talk their way into any venue?",
+        "Who would be the most likely to end up on a bar somehow?",
+        "Who has the best stories from a night that went completely off-script?",
+        "Who would be the most fun person to get into trouble with?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "pool_id": "contacts_tasks",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "contacts_tasks_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "call the 5th person on the list and put them on speaker",
+        "show your Favorites and explain who each one is",
+        "call the first contact whose name starts with 'J' and put them on speaker",
+        "find a contact whose name starts with the same letter as yours, call them, say 'Name twins!' then hang up",
+        "find a contact you've never texted and send them a compliment right now",
+        "pull up your Emergency Contacts and read who you have listed"
+      ]
+    },
+    {
+      "pool_id": "contacts_tasks_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "scroll through until you find someone saved under a nickname or emoji and explain who they really are",
+        "find the most recent person you added and show the group how you have them saved",
+        "find your most recent ex and show the group what name you saved them under",
+        "open recent calls and read out the name of whoever you called after midnight this week",
+        "find someone you'd be embarrassed to call right now and show the group their contact photo",
+        "find the contact you've texted most in the last week and show the group only the name"
+      ]
+    },
+    {
+      "pool_id": "contacts_tasks_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "find whoever you last drunk-texted and show the group the conversation",
+        "find your most recently blocked contact and tell the group why",
+        "scroll to the bottom of your contacts and find the oldest number you've never called",
+        "find a contact you saved at a bar or party and can't remember who it is",
+        "find the contact with the most questionable name you saved for them and read it out"
+      ]
+    }
+  ]
+}

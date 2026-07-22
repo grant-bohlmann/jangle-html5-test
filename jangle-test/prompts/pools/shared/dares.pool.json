@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "pool_id": "dares",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "dares_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "text your mom a single question mark",
+        "call the last person you texted and just say 'I need to talk' and then hang up",
+        "do your best evil laugh for 5 seconds",
+        "say something nice about the person to your right as if you're accepting an award on their behalf",
+        "tell the group your most embarrassing childhood nickname",
+        "give a 30-second motivational speech about literally nothing",
+        "do an impression of the person across from you right now",
+        "recite the alphabet backward starting from Z, no singing it",
+        "stare at the person to your left without blinking until they look away",
+        "tell the group the last thing you searched on your phone",
+        "describe the person to your right using only adjectives you'd use for a dog",
+        "speak in the worst British accent you can manage for the next round",
+        "assign everyone in the room a spirit animal and announce it",
+        "tell the group what you'd title your memoir right now",
+        "freestyle rap your name and where you're from for 10 seconds",
+        "say one thing out loud that you've never told this group before",
+        "do your best impersonation of a news anchor delivering terrible news",
+        "rank everyone here by who you think would survive a zombie apocalypse, last to first",
+        "read your most recent voice note out loud in a dramatic voice",
+        "announce your biggest pet peeve and look directly at whoever you think is most guilty"
+      ]
+    },
+    {
+      "pool_id": "dares_silly",
+      "type": "text",
+      "tags": ["Silly", "Party"],
+      "pool_enabled": true,
+      "entries": [
+        "narrate your next 30 seconds like a nature documentary",
+        "do your best impression of a golden retriever seeing its owner come home",
+        "hold a completely straight face while everyone tries to make you laugh for 15 seconds",
+        "mime brushing your teeth as dramatically as possible",
+        "do your best impression of a Roomba stuck in a corner",
+        "sing the next thing you say instead of saying it",
+        "describe what you did today as if you were testifying in court",
+        "do your best impression of a robot trying to understand human emotion",
+        "say 'banana' in the most suspicious voice you can muster every time someone talks for the next round",
+        "walk like you're on a fashion runway to the nearest wall and back"
+      ]
+    },
+    {
+      "pool_id": "dares_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "describe your ideal type to the group in as much detail as possible",
+        "tell the group the most attractive thing about the person across from you",
+        "rate everyone in the group on flirting ability out of 10, out loud",
+        "give the person on your left the most genuine compliment you can about their appearance",
+        "reveal who in this group you'd go on a date with if you had to pick one",
+        "tell the group the last time someone made you genuinely blush",
+        "describe your most successful flirting move without admitting it worked",
+        "admit the most attractive quality you have that you never bring up",
+        "tell the group one thing you find unexpectedly attractive that most people wouldn't admit to",
+        "reveal who in this room has the best energy and what specifically you mean by that"
+      ]
+    },
+    {
+      "pool_id": "dares_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "confess the most irresponsible financial decision you made in the last year",
+        "admit the latest you've ever stayed up on a night you had something important the next day",
+        "tell the group the wildest thing you've done on a dare before this one",
+        "describe the worst hangover you've ever had in one sentence",
+        "admit the most questionable thing you've eaten straight from the fridge in the last week",
+        "reveal your go-to excuse for canceling plans when you just don't want to go",
+        "confess the longest you've ever gone without showering, be honest",
+        "tell the group the most degenerate thing on your recent browser history",
+        "admit which person here you'd call for bail money and why",
+        "describe your most chaotic night out in exactly three words"
+      ]
+    }
+  ]
+}

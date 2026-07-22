@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_childhood",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "Saturday morning cartoons",
+    "toys from the 90s",
+    "childhood snacks that no longer exist",
+    "shows on Nickelodeon you watched as a kid",
+    "Disney Channel original movies",
+    "games you played at recess",
+    "things kids did before smartphones",
+    "trampoline park moves everyone attempted",
+    "books from school everyone had to read",
+    "school lunch items everyone remembers",
+    "things that got you sent to the principal's office",
+    "after-school activities parents forced you into",
+    "things you were scared of as a kid",
+    "old fast food toys everyone collected",
+    "cartoons that aged poorly",
+    "video games you grew up playing",
+    "words kids made up that only made sense in your house",
+    "childhood injuries from stupid decisions",
+    "things you begged your parents for",
+    "halloween costume ideas everyone had",
+    "ways kids entertained themselves on a long car ride",
+    "things you believed as a kid that turned out to be wrong",
+    "crayon colors everyone fought over"
+  ]
+}

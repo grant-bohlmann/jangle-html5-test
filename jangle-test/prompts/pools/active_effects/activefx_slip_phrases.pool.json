@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_slip_phrases",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "circle back on that",
+    "at the end of the day, here we are",
+    "I'm not going to sugarcoat this",
+    "take that with a grain of salt",
+    "I didn't come here to play games",
+    "read the room",
+    "let's table that discussion",
+    "that's neither here nor there",
+    "objection, your honor",
+    "I rest my case",
+    "not my first rodeo",
+    "if I may be so bold",
+    "with the greatest of respect",
+    "I'm just saying what everyone's thinking",
+    "let the record show"
+  ]
+}

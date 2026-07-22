@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "pool_id": "sync_large",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "sync_large_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a barnyard animal",
+        "a zoo animal",
+        "a fast food chain",
+        "a pizza topping",
+        "an ice cream flavor",
+        "a soda brand",
+        "a breakfast food",
+        "a board game",
+        "a superhero everyone knows",
+        "a pasta shape",
+        "a dog breed",
+        "a sandwich everyone knows",
+        "a fruit you'd find at the grocery store",
+        "a vegetable you'd put on a salad",
+        "a sport played at the Olympics",
+        "a country in Europe",
+        "a US state",
+        "a car brand",
+        "a candy bar",
+        "a chip brand",
+        "a cereal everyone grew up with",
+        "a coffee order",
+        "a Disney movie everyone knows",
+        "a Disney princess",
+        "a holiday on the calendar",
+        "a flavor of soda at a fountain machine",
+        "a kitchen appliance",
+        "a piece of furniture in a living room",
+        "a piece of clothing",
+        "a thing you'd pack for the beach",
+        "a topping at a frozen yogurt bar",
+        "a flower you could name off the top of your head",
+        "a famous landmark everyone would recognize",
+        "a musical instrument in a band",
+        "a job a little kid says they want",
+        "a color of crayon in the box",
+        "a streaming service",
+        "a social media app",
+        "an emoji everyone uses",
+        "a horror movie villain everyone knows",
+        "a pro sports team in your country",
+        "a thing you'd find in a junk drawer",
+        "a bird you might see in a backyard",
+        "a tool in a basic toolbox",
+        "a flavor of gum",
+        "a burger topping",
+        "a taco topping",
+        "a thing you'd grill at a cookout",
+        "a Mario Kart item"
+      ]
+    },
+    {
+      "pool_id": "sync_large_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a classic turn-on",
+        "a thing that instantly kills the mood",
+        "a celebrity people call a heartthrob",
+        "a smooth move on a first date",
+        "a spot for a couple's getaway",
+        "a red flag in a dating profile",
+        "an ice breaker on a dating app",
+        "a compliment that works every time"
+      ]
+    },
+    {
+      "pool_id": "sync_large_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a college party staple",
+        "a thing people regret doing wasted",
+        "a bad idea at 2am",
+        "a sign you've had too much",
+        "a thing you'd find at a frat party",
+        "a walk of shame essential",
+        "a lie you'd tell your parents about last night",
+        "a thing that ends up missing after a party"
+      ]
+    }
+  ]
+}

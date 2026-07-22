@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "pool_id": "body_tricks",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "body_tricks_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "touch your toes without bending your knees",
+        "pat your head and rub your belly at the same time",
+        "snap your fingers on both hands at once",
+        "whistle right now",
+        "wink with each eye one at a time",
+        "cross your eyes and hold it for 5 seconds",
+        "do 5 jumping jacks in perfect sync as a group"
+      ]
+    },
+    {
+      "pool_id": "body_tricks_silly",
+      "type": "text",
+      "tags": [
+        "Silly"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "lick your elbow",
+        "wiggle your ears",
+        "raise one eyebrow at a time",
+        "roll your tongue into a tube",
+        "touch your nose with your tongue",
+        "do the Vulcan salute with both hands",
+        "flare your nostrils on command",
+        "wiggle just your pinky toe"
+      ]
+    }
+  ]
+}

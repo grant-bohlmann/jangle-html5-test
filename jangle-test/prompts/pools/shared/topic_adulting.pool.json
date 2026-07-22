@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_adulting",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "bills everyone dreads",
+    "chores people avoid the longest",
+    "things you pretend to understand as an adult",
+    "things no one teaches you in school",
+    "things adults buy that feel like a defeat",
+    "excuses people give for not going to the gym",
+    "things that are exciting now that were boring as a kid",
+    "things that break as soon as you own a house",
+    "reasons people cancel plans last minute",
+    "things adults do that would confuse their teenage self",
+    "things in your fridge that are definitely expired",
+    "reasons people avoid calling their bank",
+    "adult purchases that hit different",
+    "things everyone says they'll do when they have more time",
+    "sounds your body makes now that it didn't before",
+    "things adults get unreasonably excited about",
+    "things that get harder as you get older",
+    "feelings you only have as an adult",
+    "things you own that you've never actually used",
+    "reasons people stay at a job they hate"
+  ]
+}

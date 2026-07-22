@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "pool_id": "coop_tasks_sabotage",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "count to 20, alternating, without losing track",
+    "stare into each other's eyes for 30 seconds without laughing",
+    "pat your heads and rub your stomachs at the same time",
+    "recite the alphabet backward, alternating letters",
+    "keep a straight face while describing your morning routine",
+    "spell a five-letter word, alternating one letter each, without messing up the order",
+    "hold hands and stay completely still for 20 seconds",
+    "alternate tapping your right knee and left knee on a beat for 20 seconds",
+    "balance your phones on your heads at the same time without dropping them",
+    "whisper a ten-word sentence back and forth until you've each said it three times",
+    "stand up and sit down on a silent count of three",
+    "complete a handshake you've never planned before, in total silence"
+  ]
+}

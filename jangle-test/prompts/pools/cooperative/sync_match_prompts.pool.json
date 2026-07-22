@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "pool_id": "sync_match_prompts",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    "sync_small",
+    "sync_mid"
+  ]
+}

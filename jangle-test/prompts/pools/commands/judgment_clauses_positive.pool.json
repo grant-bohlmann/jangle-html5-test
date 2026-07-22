@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "pool_id": "judgment_clauses_positive",
+  "type": "text",
+  "tags": [
+    "Party"
+  ],
+  "pool_enabled": true,
+  "entries": [
+    "would bail you out of jail with no questions asked",
+    "would give the best wedding toast",
+    "would survive the longest in the wild",
+    "you'd want on a road trip",
+    "you'd trust to plan your birthday",
+    "gives the best advice at 2am",
+    "would take the blame for you",
+    "you'd call first with good news",
+    "would share their fries without being asked",
+    "could talk their way out of any speeding ticket",
+    "keeps the group chat alive",
+    "would help you move without complaining",
+    "remembers everyone's birthday",
+    "would visit you in the hospital first",
+    "would drop everything to help you at 3am",
+    "you'd trust with your house key",
+    "gives the best hugs",
+    "would talk you off the ledge before a bad decision",
+    "always shows up on time",
+    "you'd want in your corner during an argument",
+    "would split the last slice fairly",
+    "makes everyone feel included",
+    "you'd trust to babysit your dog",
+    "always has snacks when you need them",
+    "would tell you if you had spinach in your teeth",
+    "you'd want negotiating on your behalf",
+    "would drive you to the airport at 5am",
+    "gives the most thoughtful gifts"
+  ]
+}

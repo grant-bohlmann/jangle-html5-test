@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_music",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "music genres",
+    "instruments in a rock band",
+    "famous guitar players",
+    "country music artists",
+    "classic rock bands",
+    "boy bands from the 90s and 2000s",
+    "female solo artists",
+    "hip-hop producers",
+    "jazz instruments",
+    "songs everyone knows the words to",
+    "albums everyone owns or has owned",
+    "things that happen at a concert",
+    "famous music labels",
+    "music streaming apps",
+    "things a musician puts in their tour rider",
+    "famous musical duos",
+    "songs you hear at every wedding",
+    "songs that were banned on the radio",
+    "things you do at a music festival",
+    "types of microphones",
+    "famous drum solos",
+    "songs that defined a generation",
+    "types of music venues",
+    "things people do at karaoke"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "categories": [
+    {
+      "category_id": "wordgames",
+      "display_name": "Word Games",
+      "description": "Turn-based mental challenges where players name words fitting a constraint.",
+      "tier": "A",
+      "tags": [],
+      "category_enabled": true,
+      "subcategories": [
+        { "subcategory_id": "categories",  "display_name": "Categories" },
+        { "subcategory_id": "letter_game", "display_name": "Letter Game" },
+        { "subcategory_id": "chain_game",  "display_name": "Chain Game" },
+        { "subcategory_id": "rhyme",       "display_name": "Rhyme" },
+        { "subcategory_id": "duel",        "display_name": "Duel" }
+      ]
+    },
+    {
+      "category_id": "nhie",
+      "display_name": "Never Have I Ever",
+      "description": "Players reveal whether they've done something. Guilt is the point.",
+      "tier": "A",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "wyr",
+      "display_name": "Would You Rather",
+      "description": "Players choose between two uncomfortable options. Both sides lose.",
+      "tier": "A",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "voting",
+      "display_name": "Voting",
+      "description": "The group nominates, points, or votes. Someone always ends up in the hot seat.",
+      "tier": "A",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "commands",
+      "display_name": "Commands",
+      "description": "A directive fires. Someone takes, gives, or gets picked. No vote, no debate.",
+      "tier": "B",
+      "tags": [],
+      "category_enabled": true,
+      "subcategories": [
+        { "subcategory_id": "filters",   "display_name": "Filter It" },
+        { "subcategory_id": "facts",     "display_name": "Cold Facts" },
+        { "subcategory_id": "targeting", "display_name": "Named Target" },
+        { "subcategory_id": "chains",    "display_name": "Chain Reaction" },
+        { "subcategory_id": "deals",     "display_name": "The Deal" },
+        { "subcategory_id": "gambles",   "display_name": "Long Odds" },
+        { "subcategory_id": "duels",     "display_name": "Face Off" },
+        { "subcategory_id": "powers",    "display_name": "Power Play" },
+        { "subcategory_id": "gags",      "display_name": "No Reason" }
+      ]
+    },
+    {
+      "category_id": "confessions",
+      "display_name": "Confessions",
+      "description": "One player is put on the spot and must confess, answer, or pay.",
+      "tier": "B",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "phone",
+      "display_name": "Phone & Tech",
+      "description": "The phone hits the table and becomes the group's confessional. Whatever's on it is fair game.",
+      "tier": "B",
+      "tags": [],
+      "category_enabled": true,
+      "subcategories": [
+        { "subcategory_id": "predictive",    "display_name": "Predictive Text" },
+        { "subcategory_id": "predictive_ai", "display_name": "Ask the AI" },
+        { "subcategory_id": "search",        "display_name": "Search Your Texts" },
+        { "subcategory_id": "metric",        "display_name": "Phone Stats" },
+        { "subcategory_id": "reveal",        "display_name": "Show & Tell" },
+        { "subcategory_id": "send",          "display_name": "Send It" },
+        { "subcategory_id": "contacts",      "display_name": "Contacts" },
+        { "subcategory_id": "condition",     "display_name": "Phone Habits" },
+        { "subcategory_id": "caught",        "display_name": "Caught Out" }
+      ]
+    },
+    {
+      "category_id": "physical",
+      "display_name": "Physical Challenges",
+      "description": "Players hold poses, attempt stunts, or go head-to-head. Body on the line.",
+      "tier": "B",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "mimicry",
+      "display_name": "Mimicry",
+      "description": "Players impersonate, imitate, and perform on the spot. Commit to the bit or pay up.",
+      "tier": "A",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "cooperative",
+      "display_name": "Cooperative",
+      "description": "Players are on the same side against the game. You win together or you drink together.",
+      "tier": "B",
+      "tags": [],
+      "category_enabled": true
+    },
+    {
+      "category_id": "active_effects",
+      "display_name": "Active Effects",
+      "description": "A rule drops on the group and sticks until the engine lifts it. Break the effect and pay the price.",
+      "tier": "B",
+      "tags": [],
+      "category_enabled": true
+    }
+  ]
+}

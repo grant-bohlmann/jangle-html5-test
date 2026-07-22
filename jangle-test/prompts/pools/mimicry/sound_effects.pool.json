@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "pool_id": "sound_effects",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "sound_effects_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "an F1 car",
+        "a motorcycle revving",
+        "an ambulance siren",
+        "a smoke alarm",
+        "a car that won't start",
+        "a door creaking in a scary movie",
+        "a baby crying",
+        "a rooster",
+        "a thunderstorm",
+        "a microwave beeping",
+        "a helicopter",
+        "a chainsaw",
+        "a crowd cheering",
+        "a train horn",
+        "fireworks",
+        "a referee whistle",
+        "nails on a chalkboard"
+      ]
+    },
+    {
+      "pool_id": "sound_effects_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a bed squeaking through the wall",
+        "a headboard banging against the wall",
+        "a spank",
+        "a whip crack",
+        "dramatic over-the-top moaning",
+        "heavy panting",
+        "a zipper being pulled down slowly"
+      ]
+    },
+    {
+      "pool_id": "sound_effects_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a beer can cracking open",
+        "a bottle popping",
+        "a person chugging",
+        "someone throwing up",
+        "a loud belch",
+        "a bong rip",
+        "a glass shattering on the floor"
+      ]
+    }
+  ]
+}

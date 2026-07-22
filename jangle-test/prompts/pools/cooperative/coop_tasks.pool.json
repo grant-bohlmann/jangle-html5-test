@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pool_id": "coop_tasks",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "coop_tasks_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "name five things you'd find in every grandma's house",
+        "give each person in the group a superhero name based on their personality",
+        "come up with a theme song for this group in five words",
+        "alternate saying the months of the year in reverse order",
+        "describe this group using only food words",
+        "name one thing every single person here has in common",
+        "alternate saying words that rhyme with 'night' without pausing or repeating",
+        "name a celebrity for every letter in the word 'party'",
+        "come up with a band name for this group",
+        "name something in this room for every color of the rainbow",
+        "come up with a fake holiday that this exact group would celebrate",
+        "name 5 US states that start with a vowel",
+        "name a song from every decade since the 1950s",
+        "name five things you'd find in a junk drawer"
+      ]
+    },
+    {
+      "pool_id": "coop_tasks_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "name five things people do to flirt without saying a word",
+        "come up with three nicknames you'd give someone you're into",
+        "describe the perfect date night in exactly five words",
+        "name a movie where the sexual tension is the whole plot",
+        "come up with a fake perfume name that sounds seductive",
+        "name one thing every person in this group does that's secretly attractive"
+      ]
+    },
+    {
+      "pool_id": "coop_tasks_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "name five red flags you'd ignore at 2am",
+        "come up with a bar name that sounds classy but serves nothing classy",
+        "list three things that only sound like a good idea when you're drunk",
+        "name five shots people always regret",
+        "describe last call at a dive bar using only three words each",
+        "come up with a group toast that would embarrass at least one person here",
+        "name five decisions this group has collectively made that aged terribly",
+        "list three unwritten rules of a house party that everyone knows",
+        "take turns naming the stages of a bad night out in order",
+        "name a song everyone knows every word to after a few rounds"
+      ]
+    }
+  ]
+}

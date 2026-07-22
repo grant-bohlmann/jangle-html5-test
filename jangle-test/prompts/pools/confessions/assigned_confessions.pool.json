@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "pool_id": "assigned_confessions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "assigned_confessions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "the most embarrassing thing they've done this year",
+        "their most controversial opinion about someone in this room",
+        "the biggest lie they've told this group",
+        "the pettiest thing they've ever done to someone here",
+        "something they've been talking about behind someone's back",
+        "the worst rumor they've ever spread",
+        "a secret they've been sitting on that this group deserves to hear",
+        "the most embarrassing thing someone in this room has personally witnessed them do",
+        "the real reason they were late or bailed on something recently",
+        "something they've been faking to impress this group"
+      ]
+    },
+    {
+      "pool_id": "assigned_confessions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "who in this room they'd consider if they were both single",
+        "the boldest move they've ever made on someone they were into",
+        "a secret opinion they have about someone's relationship in this group",
+        "the worst text they've ever sent someone they were into",
+        "something they've done with someone here that no one else knows about",
+        "the real reason their last relationship actually ended",
+        "a romantic red flag they ignored because they liked the attention",
+        "the most embarrassing thing they've ever done to get someone's number"
+      ]
+    },
+    {
+      "pool_id": "assigned_confessions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "the most reckless thing they've done at a party this group was at",
+        "something they did last time they were drunk that no one has brought up since",
+        "the most money they've blown on a single night out",
+        "something they broke or ruined that they never fully owned up to",
+        "the real story behind their worst hangover this group witnessed",
+        "the most out of character thing they've done after one too many",
+        "something they got away with by blaming someone else in this room",
+        "the sketchiest thing they've done to get free drinks or entry somewhere"
+      ]
+    }
+  ]
+}

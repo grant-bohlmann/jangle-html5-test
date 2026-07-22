@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_internet",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "apps on everyone's phone",
+    "things people do when they're bored online",
+    "ways people waste time on their phone",
+    "things people post on Instagram",
+    "things you find in someone's camera roll",
+    "types of email spam you get",
+    "things people Google at 3am",
+    "types of YouTube channels",
+    "subreddits everyone has been down a rabbit hole on",
+    "things people do before they post a selfie",
+    "types of group chats",
+    "things people lie about on LinkedIn",
+    "things people argue about in the comments",
+    "games you play on your phone when you're bored",
+    "things that crash an app or website",
+    "types of online shopping habits",
+    "things people put in their dating app bio",
+    "browser tabs everyone has open right now",
+    "notification types that stress people out",
+    "things people do right after waking up on their phone",
+    "password habits everyone has",
+    "things people screenshot and never look at again",
+    "types of spam calls"
+  ]
+}

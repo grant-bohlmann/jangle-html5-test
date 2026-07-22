@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "pool_id": "unique_pick_categories",
+  "type": "text",
+  "tags": [
+    "Party"
+  ],
+  "pool_enabled": true,
+  "entries": [
+    "A color.",
+    "A fast food chain.",
+    "An app on your phone.",
+    "A number between 1 and 20.",
+    "A pizza topping.",
+    "An animal.",
+    "A celebrity.",
+    "A cereal.",
+    "A board game.",
+    "An emoji.",
+    "An excuse for canceling plans.",
+    "A city you'd move to.",
+    "A movie genre.",
+    "An ice cream flavor.",
+    "A superhero.",
+    "A holiday.",
+    "A vacation spot.",
+    "A kitchen appliance.",
+    "A sport.",
+    "A decade."
+  ]
+}

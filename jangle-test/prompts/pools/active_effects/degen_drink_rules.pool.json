@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "pool_id": "degen_drink_rules",
+  "type": "text",
+  "tags": ["Degen"],
+  "pool_enabled": true,
+  "entries": [
+    "your own drink is off-limits. Every sip comes from someone else's, with their blessing",
+    "you drink with your pinky out, every single time, no exceptions",
+    "you must announce what you're drinking before every sip like you're trying to talk a bartender into one more round",
+    "you hold eye contact with someone the entire time you're mid-sip",
+    "every sip is a shot, mentally. Treat it like the worst decision you're about to make",
+    "you can't just drink. You have to sell it like the best decision you've made all night",
+    "every sip gets a sound effect. Gasp, sigh, whatever sells it",
+    "you drink like someone's about to cut you off and you're getting this one in first",
+    "you can't set your drink down between sips. It stays in your hand the whole time"
+  ]
+}

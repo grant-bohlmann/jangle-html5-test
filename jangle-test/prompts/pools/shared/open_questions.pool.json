@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "pool_id": "open_questions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "open_questions_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "What's your most-used emoji right now?",
+        "What's the last song you had stuck in your head?",
+        "What's your go-to order at a fast food place?",
+        "What show are you currently watching?",
+        "What's the last thing you bought that you actually use every day?",
+        "What's your lock screen right now?",
+        "What's your most-listened-to artist this year?",
+        "What's the last movie you saw that you'd actually recommend?",
+        "What's something you've been putting off for at least a month?",
+        "What's the first app you open in the morning?",
+        "What's the weirdest thing you've searched this week?",
+        "What's your current go-to comfort food?",
+        "What's the last thing that made you laugh out loud by yourself?",
+        "What's the most tabs you currently have open on your phone?",
+        "What's the one thing you always forget to pack when you travel?",
+        "What's the last compliment someone gave you that genuinely stuck?",
+        "What's your biggest unpaid priority right now?",
+        "What's the first thing you do when you get home?"
+      ]
+    },
+    {
+      "pool_id": "open_questions_silly",
+      "type": "text",
+      "tags": ["Silly", "Party"],
+      "pool_enabled": true,
+      "entries": [
+        "If you had to eat the same meal every day for a year what would it be?",
+        "What animal best represents your energy at 9am on a Monday?",
+        "What's the weirdest food combination you secretly love?",
+        "If your life had a theme song right now what would it be?",
+        "What's a noise you make that you'd be embarrassed for strangers to hear?",
+        "What's the most childish thing you still unironically enjoy?",
+        "If you were a condiment which one would you be and why?",
+        "What's the most useless skill you're genuinely good at?"
+      ]
+    },
+    {
+      "pool_id": "open_questions_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "What's the most attractive non-physical quality someone can have?",
+        "What's a green flag you look for on a first date that most people overlook?",
+        "What's something you find attractive that most people wouldn't admit to?",
+        "What's the most romantic gesture someone has ever done for you?",
+        "What's the worst opener you've ever gotten on a dating app?",
+        "What's your most embarrassing text sent to someone you were into?",
+        "What's the fastest you've ever caught feelings for someone?",
+        "What do you actually look for in a partner that you'd never put on a dating profile?"
+      ]
+    },
+    {
+      "pool_id": "open_questions_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "What's your most embarrassing drunk purchase?",
+        "What's the latest you've ever stayed out on a weeknight?",
+        "What's the most irresponsible reason you've ever called in sick?",
+        "What's the worst decision you've made that started with 'one more'?",
+        "What's the most questionable thing you've eaten at 2am?",
+        "What's your worst hangover story in one sentence?"
+      ]
+    }
+  ]
+}

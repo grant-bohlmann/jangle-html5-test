@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "physical.hold.v1",
+      "category_id": "physical",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], [physical_poses]. Hold it for [Timer, 15-30]. Break early and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "physical.hold_reward.v1",
+      "category_id": "physical",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], [physical_poses]. Last the full [Timer, 15-30] and hand out [Penalty, 2]. Break early and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "physical.stunt.v1",
+      "category_id": "physical",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], [stunts]. Fail and take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "physical.group_trick.v1",
+      "category_id": "physical",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone try to [body_tricks]. Anyone who can't takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "physical.duel_hold.v1",
+      "category_id": "physical",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], [physical_poses]. First to drop takes [Penalty, 3-5]."
+      }
+    }
+  ]
+}

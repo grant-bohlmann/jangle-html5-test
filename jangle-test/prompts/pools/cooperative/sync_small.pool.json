@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pool_id": "sync_small",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "sync_small_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a primary color",
+        "a card suit",
+        "a season",
+        "a number 1 to 5",
+        "a vowel",
+        "a cardinal direction",
+        "a state of matter",
+        "a basic taste",
+        "a color of a traffic light",
+        "an Avenger from the first movie",
+        "a Teenage Mutant Ninja Turtle",
+        "a Spice Girl",
+        "a Power Ranger by color",
+        "a type of medal at the Olympics",
+        "a sense humans have",
+        "a member of the original Beatles",
+        "a face card in a deck",
+        "a great lake",
+        "an ocean"
+      ]
+    },
+    {
+      "pool_id": "sync_small_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a spot people love to be kissed",
+        "a body part you check out first",
+        "a word for kissing",
+        "a flirty emoji you'd text a crush",
+        "a piece of clothing you'd lose first",
+        "a cheesy nickname for a partner",
+        "a name you'd give a stripper",
+        "a classic safe word"
+      ]
+    },
+    {
+      "pool_id": "sync_small_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a hard liquor",
+        "a brand of energy drink",
+        "a tequila brand",
+        "a vodka brand",
+        "a whiskey brand",
+        "a rum brand",
+        "a term for throwing up from drinking",
+        "a thing you'd chug at a tailgate"
+      ]
+    }
+  ]
+}

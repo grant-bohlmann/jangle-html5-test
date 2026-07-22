@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_slip_gestures",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "freeze completely for a moment mid-sentence, then carry on like nothing happened",
+    "loudly crack your knuckles",
+    "do a full arm stretch and yawn at the same time",
+    "give a slow, deliberate thumbs up to someone in the group",
+    "pat your own head twice",
+    "give a one-person round of applause for yourself, quietly",
+    "mime drinking from a cup that isn't there",
+    "pretend to read something on your palm",
+    "slowly push an imaginary pair of glasses up your nose",
+    "turn to face away from the group for exactly three seconds, then turn back",
+    "tap the floor twice with your foot deliberately",
+    "hold up a single finger as though you have an important point to make, then say nothing for three seconds"
+  ]
+}

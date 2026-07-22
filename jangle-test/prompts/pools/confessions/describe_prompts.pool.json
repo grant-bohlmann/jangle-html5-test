@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "pool_id": "describe_prompts",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "describe_prompts_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "the worst date you've ever been on in one sentence",
+        "the most humiliating thing that's happened to you in public in one sentence",
+        "your morning routine in three words",
+        "your last relationship in three words",
+        "the person you had the biggest crush on in three words",
+        "the worst job you've ever had in one sentence",
+        "your situationship in three words",
+        "the most embarrassing thing you did this year in one sentence",
+        "your worst habit in three words",
+        "the last time you got in trouble in one sentence",
+        "your love life right now in three words",
+        "the most awkward family dinner you've ever been to in one sentence",
+        "your personality at 2am in three words",
+        "the worst trip you've ever taken in one sentence",
+        "your texting style in three words",
+        "your friend group in three words",
+        "the most awkward conversation you've had this month in one sentence",
+        "your current financial situation in three words",
+        "the worst advice you've ever given someone in one sentence",
+        "your go-to excuse for getting out of plans in three words",
+        "the most childish thing you still do in one sentence",
+        "your sense of humor in three words",
+        "the most impulsive purchase you've ever made in one sentence",
+        "your dating history in three words",
+        "the last time you embarrassed yourself in front of someone you liked in one sentence"
+      ]
+    },
+    {
+      "pool_id": "describe_prompts_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "your type in bed in three words",
+        "your best hookup in one sentence",
+        "your worst hookup in one sentence",
+        "what you're looking for right now in three words",
+        "your approach to first dates in three words",
+        "the most embarrassing thing that's happened during a hookup in one sentence",
+        "your flirting style in three words",
+        "your biggest romantic regret in one sentence",
+        "your most chaotic relationship in three words",
+        "the last person you had feelings for in three words",
+        "what your exes would say about you in three words",
+        "the most confusing romantic situation you've been in in one sentence"
+      ]
+    },
+    {
+      "pool_id": "describe_prompts_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "your worst night out in one sentence",
+        "your most embarrassing drunk moment in one sentence",
+        "your relationship with your bank account after a night out in three words",
+        "the worst decision you've made after midnight in one sentence",
+        "your hangover recovery strategy in three words",
+        "the most chaotic thing you've done at a party in one sentence",
+        "your night-out alter ego in three words",
+        "the last time you woke up somewhere unexpected in one sentence",
+        "your tolerance level right now in three words",
+        "the most reckless thing you've done for fun in one sentence"
+      ]
+    }
+  ]
+}

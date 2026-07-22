@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "cooperative.sync_match.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], on three, both name [sync_match_prompts]. Match and you're safe. Different answers and you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.sync_dont_match.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], on three, both name [sync_dodge_prompts]. Say the same thing and you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.sync_group_small.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3, "max": 4 },
+      "tags": [],
+      "shell_text": {
+        "default": "On three, everyone shout [sync_mid]. If nobody matches, everyone takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.sync_group_large.v1",
+      "category_id": "cooperative",
+      "players": { "min": 5 },
+      "tags": [],
+      "shell_text": {
+        "default": "On three, everyone shout [sync_large]. If nobody matches, everyone takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.mind_meld.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], on three, both blurt a word. No match? On the next three, both blurt a word that links the last two. Keep going until you land the same word. Hit 5 rounds without matching and you take [Penalty, 3]."
+      }
+    },
+    {
+      "shell_id": "cooperative.mind_meld_quick.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], on three, both blurt the first word [wavelength_seeds] brings to mind. No match? Go again on three. Miss twice and you take [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.coop_task.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], together you must [coop_tasks]. Pull it off and you're both safe. Fail and you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.coop_task_timed.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], you have [Timer, 30] to [coop_tasks_timed] together. Beat the clock and you're both safe. Run out and you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.coop_sabotage.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], together you must [coop_tasks_sabotage]. Everyone else, try to break their focus, no touching. Pull it off and everyone else takes [Penalty, 2]. Fail and you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.group_count.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "As a group, count out loud to 20. No order, no plan, one number per person at a time. If two people speak at once, everyone takes [Penalty, 2] and starts over."
+      }
+    },
+    {
+      "shell_id": "cooperative.mirror.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you lead. [Player B], mirror everything [Player A] does for [Timer, 20]. If [Player B] falls out of sync, both take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.echo.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], make a sound and a move. Everyone echoes it back together. If the echo falls apart, everyone takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.contraband.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone has to hold a conversation about [topic] for [Timer, 30] without saying \"[banned_words]\". If anyone slips, everyone takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.synced_action.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "On three, everyone [group_actions] at the exact same time. If you don't all hit it together, everyone takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.blind_lead.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], close your eyes. [Player B], talk [Player A] through [blind_lead_tasks] using only your voice. Nail it and you're both safe. Mess it up and you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "cooperative.password.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], get [Player B] to say [password_words] using one-word clues only, no part of the answer. Crack it in [Timer, 30] and everyone else takes [Penalty, 2]. Run out and you take [Penalty, 1]."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "pool_id": "theatrical_lines",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "theatrical_lines_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "I have made terrible choices and I stand by all of them.",
+        "The jungle took everything from me. Tonight I take it back.",
+        "You were all thinking it. I just had the courage to say it.",
+        "I didn't come here to make friends. I came here to hydrate.",
+        "History will remember what happened here tonight.",
+        "Somewhere out there, my ex is telling this exact story wrong.",
+        "One day this will all be a podcast.",
+        "My therapist warned me about nights like this.",
+        "This is my villain origin story.",
+        "Tell my group chat I loved them.",
+        "I would have gotten away with it, too.",
+        "Every group has a weak link. I have made my peace with being ours.",
+        "No one believes me, but I used to be responsible.",
+        "This isn't a cry for help. This is a victory lap.",
+        "I didn't choose the chaos. The chaos chose me.",
+        "Let it be known that I saw this coming and said nothing.",
+        "I have never been more certain of anything in my life, and I am certain of nothing.",
+        "Somewhere, a younger version of me is disappointed. The rest of me is thriving.",
+        "I regret nothing. I remember very little. Both are fine.",
+        "Future me is going to have some questions."
+      ]
+    },
+    {
+      "pool_id": "theatrical_lines_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "Somewhere, someone is still thinking about the way I said goodnight.",
+        "I have never once regretted an eyebrow raise.",
+        "They didn't stand a chance and neither did I.",
+        "I came here looking for trouble, and trouble found me first.",
+        "Nobody warned them what happens when I get comfortable."
+      ]
+    }
+  ]
+}

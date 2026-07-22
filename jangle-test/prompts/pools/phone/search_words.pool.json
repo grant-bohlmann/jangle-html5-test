@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "pool_id": "search_words",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "search_words_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "sorry",
+        "please",
+        "haha",
+        "lol",
+        "😭",
+        "???",
+        "I hate",
+        "embarrassing",
+        "$",
+        "toilet paper",
+        "can you believe",
+        "literally",
+        "nope",
+        "wait what",
+        "honestly",
+        "I'm dying",
+        "no way"
+      ]
+    },
+    {
+      "pool_id": "search_words_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "love you",
+        "miss you",
+        "come over",
+        "hot",
+        "naked",
+        "🍑",
+        "🍆",
+        "🔥",
+        "😈",
+        "🙈",
+        "hookup",
+        "one night stand",
+        "sneaky link",
+        "wyd",
+        "suck",
+        "ex",
+        "delete this",
+        "don't tell anyone",
+        "walk of shame",
+        "mistake"
+      ]
+    },
+    {
+      "pool_id": "search_words_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "drunk",
+        "wasted",
+        "blackout",
+        "hangover",
+        "shots",
+        "pregame",
+        "afterparty",
+        "vodka",
+        "tequila",
+        "whiskey",
+        "bad decision",
+        "never again",
+        "shouldn't have",
+        "regret",
+        "omw",
+        "fuck"
+      ]
+    }
+  ]
+}

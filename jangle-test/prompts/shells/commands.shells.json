@@ -1,0 +1,695 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "commands.assign_trait.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], give [Penalty, 2-3] to whoever's most likely to [most_likely_to_traits]."
+      }
+    },
+    {
+      "shell_id": "commands.assign_judgment.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], give [Penalty, 2-3] to whoever you think [judgment_clauses]."
+      }
+    },
+    {
+      "shell_id": "commands.condition_takes.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever [filter_conditions] takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "commands.condition_assigns.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever [filter_conditions] picks someone to take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "commands.speed_last.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "The last person to [speed_actions] takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "commands.directed_split.v1",
+      "category_id": "commands",
+      "subcategory_id": "gags",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], give [Penalty, 2] to the person on your left and [Penalty, 2] to the person on your right. [split_flavors]"
+      }
+    },
+    {
+      "shell_id": "commands.directed_proxy.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], pick someone to take [Penalty, 4] for you. If they refuse, you take [Penalty, max]. [proxy_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.point_chain.v1",
+      "category_id": "commands",
+      "subcategory_id": "chains",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], point at someone. They take [Penalty, 2], then point at someone else who takes [Penalty, 1]. [chain_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.group_condition.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone who [group_triggers] takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.duo_gag.v1",
+      "category_id": "commands",
+      "subcategory_id": "gags",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "Bad news, [Player A] and [Player B]. You both take [Penalty, 3]. [duo_punchlines]"
+      }
+    },
+    {
+      "shell_id": "commands.would_you_dare.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], pick someone. They have to [wyd_actions] or take [Penalty, max]."
+      }
+    },
+    {
+      "shell_id": "commands.double_filter.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever [filter_conditions] and also [group_triggers] takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.honor_system.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone who [shared_conditions] takes [Penalty, 1]. The group decides if you're telling the truth."
+      }
+    },
+    {
+      "shell_id": "commands.exclusion_shield.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone takes [Penalty, 1]. Except whoever [filter_conditions]. They're off the hook."
+      }
+    },
+    {
+      "shell_id": "commands.group_veto.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone takes [Penalty, 1]. You can appeal, but it takes a unanimous group vote to get out of it."
+      }
+    },
+    {
+      "shell_id": "commands.hands_race.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Last person to put both hands flat on the table takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.silence_trap.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "First person to speak after this prompt is read takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.initial_match.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "If any two people here share a first initial, both take [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.vowel_bonus.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "If your name starts with a vowel, take [Penalty, 1]. If it ends with one too, take [Penalty, 1] more."
+      }
+    },
+    {
+      "shell_id": "commands.birthday_soonest.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever has a birthday coming up soonest takes [Penalty, 1]. You can check your phones."
+      }
+    },
+    {
+      "shell_id": "commands.birth_month_match.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "If anyone here shares a birth month with someone else, both take [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.zodiac_element.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "If your sign is [astro_elements], take [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.generosity_tax.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever paid for something for the group most recently takes [Penalty, 1]. Generosity gets punished here."
+      }
+    },
+    {
+      "shell_id": "commands.newest_friend.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever has known [Player A] the shortest amount of time takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.known_longest.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever has known [Player A] the longest gives out [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.karma_flip.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever has given out the most penalties tonight takes [Penalty, 2]. Karma catches up."
+      }
+    },
+    {
+      "shell_id": "commands.pain_pays.v1",
+      "category_id": "commands",
+      "subcategory_id": "facts",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Whoever has taken the most penalties tonight gives out [Penalty, max]. Pain has its rewards."
+      }
+    },
+    {
+      "shell_id": "commands.judgment_positive.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], point to the person who [judgment_clauses_positive]. They give out [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.ranking_line.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], rank everyone from most to least likely to [most_likely_to_traits]. Whoever lands last gives out [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.proxy_neighbor.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], pick someone. The person on their left takes [Penalty, 2]. [proxy_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.exempt_power.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone takes [Penalty, 1]. [Player A], pick one person who doesn't. That person gives out [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.blame_redirect.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] takes [Penalty, 2]. Unless the person on their left [filter_conditions]. Then it's theirs instead."
+      }
+    },
+    {
+      "shell_id": "commands.seat_roulette.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], pick a number from 1 to 6. Count that many seats to your left. That seat takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.blind_point.v1",
+      "category_id": "commands",
+      "subcategory_id": "targeting",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], close your eyes, spin your finger, and point. Whoever you land on takes [Penalty, 2]. [proxy_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.cascade_up.v1",
+      "category_id": "commands",
+      "subcategory_id": "chains",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], take [Penalty, 1]. Now give [Penalty, 2] to someone. They give [Penalty, 3] to anyone. It ends there."
+      }
+    },
+    {
+      "shell_id": "commands.power_pass.v1",
+      "category_id": "commands",
+      "subcategory_id": "chains",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], give out [Penalty, 2] or pass the power left. Every pass doubles it. Whoever finally uses it can't pass."
+      }
+    },
+    {
+      "shell_id": "commands.repeat_point.v1",
+      "category_id": "commands",
+      "subcategory_id": "chains",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], point at someone. They point at someone else. Keep it moving. First person pointed at twice takes [Penalty, 2]. [chain_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.group_blast.v1",
+      "category_id": "commands",
+      "subcategory_id": "chains",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone takes [Penalty, 1]. No reason. [chain_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.ten_second_split.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], split [Penalty, 3] however you agree. You have 10 seconds. If you can't agree, you both take the full thing."
+      }
+    },
+    {
+      "shell_id": "commands.talk_it_down.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you're starting at [Penalty, max]. Every true thing about yourself the group accepts knocks off [Penalty, 1]. Three claims, max."
+      }
+    },
+    {
+      "shell_id": "commands.penalty_budget.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you have [Penalty, 5] to hand out however you want. All of it has to go."
+      }
+    },
+    {
+      "shell_id": "commands.iou.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], skip your next penalty. But you owe [Player B] [Penalty, 2] whenever they call it in tonight."
+      }
+    },
+    {
+      "shell_id": "commands.pardon_tax.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], cancel one penalty you've already taken tonight. Everyone else takes [Penalty, 1] for letting it slide."
+      }
+    },
+    {
+      "shell_id": "commands.know_them_out.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] takes [Penalty, 2]. Say one true thing about [Player B] that the group agrees with in 5 seconds, and [Player B] takes it instead."
+      }
+    },
+    {
+      "shell_id": "commands.whisper_deal.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], whisper a deal to [Player B]. They shake on it and you're both safe. They refuse and you take [Penalty, 1] while they take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.odd_one_out.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you and your two neighbors. First two of you to team up decide which one takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.gracious_gift.v1",
+      "category_id": "commands",
+      "subcategory_id": "deals",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "The group is offering [Player A] a gift. Accept [Penalty, 1] graciously and everyone thanks you warmly. Decline and take [Penalty, max] instead."
+      }
+    },
+    {
+      "shell_id": "commands.double_or_nothing.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], take [Penalty, 2] now, or flip a coin. Heads, you're safe. Tails, [Penalty, max]."
+      }
+    },
+    {
+      "shell_id": "commands.high_low.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone hold up 1 to 10 fingers on the count of 3. Highest takes [Penalty, 1]. Lowest gives out [Penalty, 1]. Ties split it."
+      }
+    },
+    {
+      "shell_id": "commands.pocket_archaeology.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone put one thing from your pocket or bag on the table. Whoever's item is oldest gives out [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.majority_rules.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone answer at the same time. [binary_choices] Majority takes [Penalty, 1]. Minority gives out [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.mind_reader.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], predict [Player B]'s answer. [binary_choices] Get it right and [Player B] takes [Penalty, 2]. Get it wrong and it's yours."
+      }
+    },
+    {
+      "shell_id": "commands.match_trap.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone silently pick a number 1 to 5. Reveal at the same time. Most common number takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.snowflake.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[unique_pick_categories]. Everyone name one, all at the same time on 3. Anyone who matches someone else takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.oracle.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], name a target. If they take any penalty in the next three prompts, you give out [Penalty, 3]. If they don't, you take [Penalty, 3]."
+      }
+    },
+    {
+      "shell_id": "commands.next_one_doubles.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "The next person to take any penalty takes [Penalty, 1] extra on top of it."
+      }
+    },
+    {
+      "shell_id": "commands.staredown.v1",
+      "category_id": "commands",
+      "subcategory_id": "duels",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], lock eyes. First to laugh or look away takes [Penalty, 2]. [duo_punchlines]"
+      }
+    },
+    {
+      "shell_id": "commands.rps.v1",
+      "category_id": "commands",
+      "subcategory_id": "duels",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], rock paper scissors, best of one. Loser takes [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.silent_swap.v1",
+      "category_id": "commands",
+      "subcategory_id": "duels",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], swap seats without speaking or laughing. Either of you slips and you both take [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.sincerity.v1",
+      "category_id": "commands",
+      "subcategory_id": "duels",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], say something genuinely nice about [Player B]. The group votes sincere or faking it. Sincere, [Player B] takes [Penalty, 1]. Faking, you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.agree_or_else.v1",
+      "category_id": "commands",
+      "subcategory_id": "duels",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], agree on something, anything, in 10 seconds. Can't and you both take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.crown.v1",
+      "category_id": "commands",
+      "subcategory_id": "powers",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you're now [title_names]. You may hand your next penalty to anyone, once. Use it and the title's gone."
+      }
+    },
+    {
+      "shell_id": "commands.bodyguard.v1",
+      "category_id": "commands",
+      "subcategory_id": "powers",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], name someone. On the next prompt, anything aimed at you hits them instead. [proxy_framings]"
+      }
+    },
+    {
+      "shell_id": "commands.allies.v1",
+      "category_id": "commands",
+      "subcategory_id": "powers",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], you're allies for the next two prompts. Either of you takes a penalty, you both do."
+      }
+    },
+    {
+      "shell_id": "commands.drama_class.v1",
+      "category_id": "commands",
+      "subcategory_id": "powers",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], deliver this line like you mean it. '[theatrical_lines]' Anyone who laughs takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "commands.secret_pact.v1",
+      "category_id": "commands",
+      "subcategory_id": "powers",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], name someone here you share a secret with. They take [Penalty, 1]. If they deny it, you both take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "commands.neighborhood.v1",
+      "category_id": "commands",
+      "subcategory_id": "gags",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], you and the people on both sides of you each take [Penalty, 1]. [split_flavors]"
+      }
+    },
+    {
+      "shell_id": "commands.all_but_one.v1",
+      "category_id": "commands",
+      "subcategory_id": "gags",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone takes [Penalty, 1] except the person to [Player A]'s right. [split_flavors]"
+      }
+    },
+    {
+      "shell_id": "commands.humble_brag.v1",
+      "category_id": "commands",
+      "subcategory_id": "gags",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Everyone rate yourself 1 to 5 on [self_rating_dimensions]. Reveal at the same time. Lowest rating takes [Penalty, 1]."
+      }
+    }
+  ]
+}

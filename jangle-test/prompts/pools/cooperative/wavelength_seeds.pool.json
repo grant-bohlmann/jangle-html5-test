@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "pool_id": "wavelength_seeds",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "wavelength_seeds_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "the beach",
+        "a first day of school",
+        "Sunday morning",
+        "a road trip",
+        "New Year's Eve",
+        "a job interview",
+        "your childhood bedroom",
+        "a pool party",
+        "the dentist",
+        "a best friend's wedding",
+        "Friday night",
+        "a power outage",
+        "the last day of summer",
+        "getting lost",
+        "a family dinner",
+        "moving to a new city",
+        "a long flight",
+        "the first warm day of spring",
+        "getting a text that just says 'we need to talk'",
+        "a blind date",
+        "waiting in line",
+        "a sleepover",
+        "a hot shower after a bad day",
+        "the last song at a concert"
+      ]
+    },
+    {
+      "pool_id": "wavelength_seeds_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a one-night stand",
+        "a hotel room",
+        "a first kiss",
+        "slow dancing",
+        "a back massage",
+        "the morning after",
+        "a late-night text",
+        "skinny dipping",
+        "making the first move",
+        "butterflies"
+      ]
+    },
+    {
+      "pool_id": "wavelength_seeds_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a night you don't fully remember",
+        "waking up in the wrong place",
+        "the group chat at 3am",
+        "last call",
+        "the pregame that lasted too long",
+        "a round nobody ordered",
+        "two-day hangover",
+        "the worst idea that seemed great at midnight",
+        "the bar tab reveal",
+        "coming home after sunrise"
+      ]
+    }
+  ]
+}

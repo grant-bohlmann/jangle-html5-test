@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "pool_id": "self_rating_dimensions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "self_rating_dimensions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "as a driver",
+        "as a cook",
+        "as a friend",
+        "at your job",
+        "at karaoke",
+        "as a dancer",
+        "as a texter",
+        "as a roommate",
+        "as a host",
+        "at keeping secrets",
+        "at giving advice",
+        "in an argument",
+        "as a gift giver",
+        "at parking",
+        "as a liar",
+        "at being on time",
+        "at taking criticism",
+        "at handling your alcohol",
+        "at reading social cues",
+        "at apologizing",
+        "at saving money",
+        "as a storyteller"
+      ]
+    },
+    {
+      "pool_id": "self_rating_dimensions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "in bed",
+        "as a kisser",
+        "at flirting",
+        "at dirty talk",
+        "at sexting",
+        "as a partner in the bedroom",
+        "at seducing a stranger",
+        "at giving a lap dance",
+        "at oral",
+        "at physical chemistry",
+        "at maintaining eye contact in bed",
+        "at giving hickeys"
+      ]
+    },
+    {
+      "pool_id": "self_rating_dimensions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "at blacking out and still functioning",
+        "at convincing people to do one more round",
+        "at making questionable decisions and owning them",
+        "at keeping it together when you're wasted",
+        "at rallying when you hit a wall",
+        "at starting chaos on a night out",
+        "at talking your way into trouble",
+        "at recovering the morning after"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "pool_id": "prefixes",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "re-",
+    "pre-",
+    "mis-",
+    "un-",
+    "over-",
+    "dis-",
+    "sub-",
+    "anti-",
+    "out-",
+    "super-",
+    "non-",
+    "mid-",
+    "up-",
+    "in-",
+    "de-",
+    "inter-",
+    "trans-",
+    "semi-",
+    "multi-",
+    "micro-",
+    "auto-",
+    "co-",
+    "under-",
+    "post-"
+  ]
+}

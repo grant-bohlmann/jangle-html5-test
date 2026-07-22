@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_catchphrases",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "I'll allow it",
+    "That's on me",
+    "Facts",
+    "Not today",
+    "Present",
+    "As expected",
+    "Guilty",
+    "You rang?",
+    "Noted",
+    "Understood",
+    "Moving on",
+    "Fair enough",
+    "I've been summoned",
+    "At your service",
+    "Say my name again"
+  ]
+}

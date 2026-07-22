@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "nhie.group_reveal.v1",
+      "category_id": "nhie",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Never have I ever [nhie_actions]. Anyone who has, take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "nhie.target.v1",
+      "category_id": "nhie",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A], never have I ever [nhie_actions]. If you have, take [Penalty, 2-3]. If not, everyone else takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "nhie.two_person_reveal.v1",
+      "category_id": "nhie",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] and [Player B], never have I ever [nhie_actions]. Reveal at the same time. If you both have, take [Penalty, 2-3]. If only one of you has, that person takes [Penalty, max]."
+      }
+    }
+  ]
+}

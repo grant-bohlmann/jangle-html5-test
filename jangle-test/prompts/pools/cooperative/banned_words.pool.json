@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "pool_id": "banned_words",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "like",
+    "literally",
+    "basically",
+    "honestly",
+    "actually",
+    "right",
+    "good",
+    "yes",
+    "no",
+    "okay",
+    "sure",
+    "because",
+    "really",
+    "just",
+    "kind of",
+    "sort of",
+    "you know",
+    "I mean",
+    "that",
+    "thing",
+    "stuff"
+  ]
+}

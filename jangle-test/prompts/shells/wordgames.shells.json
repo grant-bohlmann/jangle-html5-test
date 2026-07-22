@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "shells": [
+    {
+      "shell_id": "wordgames.categories.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "categories",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[topic]. If you freeze or repeat, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.categories_knockout.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "categories",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[topic]. If you freeze or repeat, take [Penalty, 1] and you're out. Last one standing wins. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.common_letter.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "letter_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Name a [broad_topics] that starts with '[common_letters]'. If you repeat or can't think of one, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.uncommon_letter.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "letter_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Name any word that starts with '[uncommon_letters]'. If you repeat or make up a word, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.word_chain.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "chain_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Word chain (fire truck → truck stop → stop sign). Start with '[chain_starters]'. If you freeze or break the chain, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.word_stack.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "chain_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Word stack. Each player repeats the phrase, then adds one word to extend the sentence. If you mess up or break the sentence, take [Penalty, 2-3]. [Player A], start with '[stack_starters]...'."
+      }
+    },
+    {
+      "shell_id": "wordgames.rhyme.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "rhyme",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Words that rhyme with '[rhyme_starters]'. If you repeat or hesitate, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.duel.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "duel",
+      "players": { "min": 2 },
+      "tags": [],
+      "shell_text": {
+        "default": "[Player A] vs [Player B], [topic]. Take turns naming one. First to repeat or freeze takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "wordgames.prefix.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "letter_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Words that start with '[prefixes]'. If you freeze or make up a word, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.suffix.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "letter_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "Words that end with '[suffixes]'. If you freeze or make up a word, take [Penalty, 2-3]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "wordgames.alphabet.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "letter_game",
+      "players": { "min": 3 },
+      "tags": [],
+      "shell_text": {
+        "default": "[alphabet_topics], A to Z. Each player names one starting with the next letter. If you repeat or can't think of one, take [Penalty, 2-3]. [Player A] starts with A."
+      }
+    }
+  ]
+}

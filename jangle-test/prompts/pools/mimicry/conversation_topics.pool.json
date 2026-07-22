@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pool_id": "conversation_topics",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "conversation_topics_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "the weather",
+        "whether hot dogs are sandwiches",
+        "the best way to load a dishwasher",
+        "the building they are in is currently on fire",
+        "whether aliens are real",
+        "work or school",
+        "their plans for the weekend",
+        "who's the better driver",
+        "whether pineapple belongs on pizza",
+        "whether cereal counts as soup",
+        "being stuck in an elevator together",
+        "how their first date is going",
+        "their mutual dislike of someone at the party",
+        "why they're both late to something important",
+        "whether they should get a pet together",
+        "something trivial they've been arguing about for weeks",
+        "being lost with no GPS and no idea where they are",
+        "their very strong opinion on the right way to make a sandwich"
+      ]
+    },
+    {
+      "pool_id": "conversation_topics_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "whether they should finally act on the tension between them",
+        "their one-night stand from last weekend",
+        "why they keep ending up at the same parties",
+        "their complicated situationship",
+        "whether they'd ever try a friends-with-benefits arrangement",
+        "someone in the room they both find attractive"
+      ]
+    },
+    {
+      "pool_id": "conversation_topics_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "why they should do one more round",
+        "the worst decision they made last weekend",
+        "how to talk their way out of paying the tab",
+        "whether to stay out or call it a night",
+        "their plan for getting home after way too many drinks",
+        "whose fault it is that the night went sideways"
+      ]
+    }
+  ]
+}

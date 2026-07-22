@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "pool_id": "hot_takes",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "hot_takes_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "Pineapple belongs on pizza",
+        "Breakfast food is better than dinner food",
+        "Dogs are overrated as pets",
+        "Texting is better than calling",
+        "The movie is almost always worse than the book",
+        "Mornings are better than nights",
+        "Cold weather is objectively better than hot weather",
+        "Dessert before dinner is the correct move",
+        "A good nap beats a night out every time",
+        "The friend who plans everything is the worst friend to have",
+        "Window seats are inferior to aisle seats on a plane",
+        "Social media has made people less interesting",
+        "Birthdays are overrated after 21",
+        "Small talk is a skill worth developing",
+        "Being on time is a form of respect and anyone who is late is being rude",
+        "Camping is not a vacation",
+        "Group chats do more harm than good",
+        "Grocery shopping is actually relaxing when you do it alone"
+      ]
+    },
+    {
+      "pool_id": "hot_takes_silly",
+      "type": "text",
+      "tags": ["Silly", "Party"],
+      "pool_enabled": true,
+      "entries": [
+        "Cats are plotting something and we all know it",
+        "Cereal is a soup",
+        "Escalators are always faster than stairs even if you walk the stairs",
+        "Wearing socks to bed is completely normal and anyone who disagrees is wrong",
+        "A hot dog is a sandwich",
+        "The moon is overrated as a landmark",
+        "Adults who are afraid of the dark have a point",
+        "Ketchup on scrambled eggs is a legitimate choice"
+      ]
+    },
+    {
+      "pool_id": "hot_takes_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "Attraction fades and compatibility is what actually matters",
+        "Most people stay in relationships longer than they should",
+        "Being a good kisser tells you everything you need to know",
+        "Flirting is a skill and most people are bad at it",
+        "You can tell within 10 minutes of a first date whether it's going anywhere",
+        "Situationships are just relationships people are afraid to commit to",
+        "Most breakups happen at least a year too late",
+        "Physical attraction matters more in a long-term relationship than people admit"
+      ]
+    },
+    {
+      "pool_id": "hot_takes_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "Drunk decisions reveal your true priorities",
+        "Staying in on a Friday night is always the worse choice",
+        "The best conversations happen after midnight",
+        "People who don't drink at parties are always the most boring ones there",
+        "The hangover is worth it at least half the time",
+        "Anyone who orders water at a bar is judging everyone else at that bar"
+      ]
+    }
+  ]
+}

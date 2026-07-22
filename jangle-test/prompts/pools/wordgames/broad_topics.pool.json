@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "pool_id": "broad_topics",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "food",
+    "color",
+    "country",
+    "animal",
+    "city",
+    "sport",
+    "superhero",
+    "thing you'd find at a party",
+    "car brand",
+    "famous person",
+    "movie",
+    "TV show",
+    "cartoon character",
+    "video game",
+    "boy's name",
+    "girl's name",
+    "brand",
+    "drink",
+    "job",
+    "restaurant"
+  ]
+}

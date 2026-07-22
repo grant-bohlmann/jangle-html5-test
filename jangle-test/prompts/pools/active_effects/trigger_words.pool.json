@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "pool_id": "trigger_words",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "nevertheless",
+    "allegedly",
+    "technically",
+    "with all due respect",
+    "hypothetically",
+    "candidly",
+    "objectively speaking",
+    "ironically enough",
+    "by definition",
+    "apparently",
+    "honestly",
+    "incidentally",
+    "coincidentally",
+    "oddly enough",
+    "unironically",
+    "anecdotally speaking",
+    "epistemologically",
+    "phenomenologically"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "pool_id": "phone_conditions",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "phone_conditions_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "has accidentally liked an old photo while scrolling someone's profile",
+        "has a password they've used for over five years",
+        "has a voicemail they still haven't listened to",
+        "has more than three apps they've never opened",
+        "has a group chat they've been ignoring for over a week",
+        "has a contact saved as a nickname they'd be embarrassed to explain",
+        "has over 500 photos in their camera roll they've never sorted through",
+        "has a note in their Notes app that makes no sense out of context",
+        "has an app on their phone they'd rather nobody ask about",
+        "has their location sharing turned off for at least one person",
+        "most recently changed their profile picture",
+        "most recently called someone instead of texting"
+      ]
+    },
+    {
+      "pool_id": "phone_conditions_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "is currently texting someone nobody in this group knows about",
+        "has matched with someone they know in real life on a dating app",
+        "has used a dating app in the last month",
+        "has a dirty text thread they haven't deleted",
+        "has sent a 'you up?' text",
+        "has looked up an ex's new partner on social media"
+      ]
+    },
+    {
+      "pool_id": "phone_conditions_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "has texted their ex in the last month",
+        "has blocked and unblocked the same person more than once",
+        "has sent a risky text and immediately switched to airplane mode"
+      ]
+    },
+    {
+      "pool_id": "phone_conditions_silly",
+      "type": "text",
+      "tags": [
+        "Silly",
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "has a notification they've been ignoring for over a week",
+        "has a sticker on their phone case",
+        "has their phone on silent",
+        "has tabs open in their browser they haven't looked at in weeks",
+        "has a phone background that's a selfie",
+        "has a screenshot saved on their phone they hope nobody sees",
+        "has a phone with no case",
+        "has their phone in another room right now",
+        "has their phone in Low Power or Battery Saver mode",
+        "has Do Not Disturb or a Focus mode turned on",
+        "has their screen brightness turned all the way up",
+        "has 99+ notifications piled up on a single app",
+        "has more than 25 browser tabs open",
+        "took the most selfies this week"
+      ]
+    }
+  ]
+}

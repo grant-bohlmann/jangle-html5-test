@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_slip_lyrics",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "baby don't hurt me",
+    "I will survive",
+    "you can't always get what you want",
+    "don't stop believin'",
+    "we are the champions",
+    "living on a prayer",
+    "somebody that I used to know",
+    "is this the real life",
+    "you shake my nerves and you rattle my brain",
+    "hit me baby one more time",
+    "I got you babe",
+    "under pressure"
+  ]
+}

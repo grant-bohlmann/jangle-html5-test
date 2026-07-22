@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "pool_id": "blind_lead_tasks",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "picking up a specific object nearby",
+    "touching every shoulder around the group in order",
+    "stacking three objects on top of each other",
+    "pointing at every player once without repeating",
+    "placing an object inside another object",
+    "pouring a drink without spilling",
+    "arranging three objects from left to right by size",
+    "finding and opening an app on the phone",
+    "giving a high five to every person in the group",
+    "walking to the nearest door without bumping into anything",
+    "finding a specific person in the group by touch alone",
+    "putting a hat on a specific person's head",
+    "setting a cup down without knocking anything over",
+    "finding their own phone in a pile of everyone's phones",
+    "walking in a straight line for 10 steps",
+    "handing a specific item to a specific person",
+    "finding a specific piece of furniture and touching it"
+  ]
+}

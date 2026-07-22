@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "pool_id": "topic_travel",
+  "type": "text",
+  "tags": ["Party"],
+  "pool_enabled": true,
+  "entries": [
+    "countries in Europe",
+    "countries in Asia",
+    "capital cities",
+    "US states everyone wants to visit",
+    "famous tourist landmarks",
+    "tropical vacation destinations",
+    "ski resorts",
+    "cruise destinations",
+    "national parks in the US",
+    "cities with great nightlife",
+    "things you overpack for a trip",
+    "things that always go wrong on vacation",
+    "things you do on a road trip",
+    "types of travel bags",
+    "budget airlines",
+    "things you find in a hotel room",
+    "things people do at an airport",
+    "foreign foods people try on vacation",
+    "cities with famous food scenes",
+    "places everyone wants to go before they die",
+    "things people say after a bad flight",
+    "beach vacation must-haves",
+    "cities with iconic skylines",
+    "reasons a trip gets cancelled"
+  ]
+}

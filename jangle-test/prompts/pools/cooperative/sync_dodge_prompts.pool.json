@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "pool_id": "sync_dodge_prompts",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    "sync_mid",
+    "sync_large"
+  ]
+}

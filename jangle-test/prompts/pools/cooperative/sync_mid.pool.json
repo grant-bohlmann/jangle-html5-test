@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "pool_id": "sync_mid",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "sync_mid_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a number 1 to 10",
+        "a day of the week",
+        "a month of the year",
+        "a chess piece",
+        "a planet in the solar system",
+        "a continent",
+        "a part of the face",
+        "a sport played with a ball",
+        "a color of the rainbow",
+        "a zodiac sign",
+        "a flavor of Skittles",
+        "a piece of a place setting at dinner",
+        "a position on a baseball field",
+        "a finger on one hand",
+        "a way to score points in football",
+        "a string on a guitar",
+        "a shape",
+        "a phase of the moon"
+      ]
+    },
+    {
+      "pool_id": "sync_mid_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a sex position everyone's heard of",
+        "a type of lingerie",
+        "a place people sneak off to hook up",
+        "a pickup line everyone knows",
+        "a romantic first-date spot",
+        "a setting for a steamy night in",
+        "a kink that comes up in conversation",
+        "a part of a couple's date night"
+      ]
+    },
+    {
+      "pool_id": "sync_mid_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "a beer brand everyone knows",
+        "a classic drinking game",
+        "a chaser for a shot",
+        "a hangover cure",
+        "a type of shot you'd order",
+        "a mixer for vodka",
+        "a flavor of cheap vodka",
+        "a place a night out ends up",
+        "a greasy food you crave when wasted",
+        "a drunk-text you'd regret sending"
+      ]
+    }
+  ]
+}

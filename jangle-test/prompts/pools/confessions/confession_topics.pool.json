@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "pool_id": "confession_topics",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "confession_topics_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "your family",
+        "your finances",
+        "your worst job",
+        "your childhood",
+        "your friendships",
+        "your biggest insecurity",
+        "your work life",
+        "your social media habits",
+        "your relationship with your siblings",
+        "your most embarrassing year",
+        "your friend group's dynamic",
+        "your relationship with your parents"
+      ]
+    },
+    {
+      "pool_id": "confession_topics_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "your dating history",
+        "your ex",
+        "your type",
+        "your hookup history",
+        "your biggest romantic regret",
+        "your love life right now",
+        "your worst breakup",
+        "your standards",
+        "your flirting habits",
+        "your situationship",
+        "your bedroom habits",
+        "your longest dry spell"
+      ]
+    },
+    {
+      "pool_id": "confession_topics_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "your relationship with alcohol",
+        "your wildest trip",
+        "your most reckless phase",
+        "your worst decision drunk",
+        "your night-out reputation",
+        "your relationship with your bank account",
+        "your worst hangover era",
+        "your history with bad decisions",
+        "your most chaotic friend group",
+        "your track record with bouncers"
+      ]
+    }
+  ]
+}
