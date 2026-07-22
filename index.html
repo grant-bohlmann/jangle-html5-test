@@ -19,16 +19,31 @@
 
         <!-- Custom PreStyle code is injected here -->
 
-        <!-- High-DPI bootstrap: on retina screens, redirect once to append a dprx<N> URL
-             parameter (N = devicePixelRatio * 100). The GML fit in obj_jangle_controller
-             reads it and sizes the canvas backing store at device resolution; the pinning
-             script at the end of <body> keeps the canvas CSS size at logical pixels. -->
+        <!-- High-DPI: scale the LAYOUT VIEWPORT down by devicePixelRatio so 1 CSS px == 1
+             device px. window.innerWidth (GM's browser_width) then reports device resolution,
+             the GML fit sizes the canvas 1:1 with what's on screen, and touch coordinates
+             match canvas pixels exactly.
+
+             Why not upscale the canvas backing store past the CSS viewport (the previous
+             dprx-redirect approach)? The GM runner's touch/pointer mapping reads
+             event.clientX in CSS px and transforms it against view-port bounds in CANVAS px
+             with no scale correction — every tap landed at 1/dpr of its intended position
+             and all buttons went dead on retina phones.
+
+             Add ?flat=1 to the URL to disable this (renders at CSS resolution: blurry but
+             a known-safe fallback if a device misbehaves). -->
         <script>
             (function () {
                 var dpr = window.devicePixelRatio || 1;
-                if (dpr > 1 && window.location.search.indexOf('dprx') === -1) {
-                    var q = window.location.search ? window.location.search + '&' : '?';
-                    window.location.replace(window.location.pathname + q + 'dprx' + Math.round(dpr * 100) + '=1' + window.location.hash);
+                if (dpr > 1 && window.location.search.indexOf('flat') === -1) {
+                    var s = 1 / dpr;
+                    var vp = document.querySelector('meta[name="viewport"]');
+                    vp.setAttribute('content', 'width=device-width, initial-scale=' + s
+                        + ', minimum-scale=' + s + ', maximum-scale=' + s
+                        + ', user-scalable=no, viewport-fit=cover');
+                    // GM's DOM overlays (e.g. the get_string_async name-entry dialog) are
+                    // authored in CSS px and would render 1/dpr size — counter-scale them.
+                    document.documentElement.style.setProperty('--gm-ui-scale', dpr);
                 }
             })();
         </script>
@@ -86,6 +101,13 @@
                 color:#00ff00;
                 border-radius: 15px;
                 box-shadow: #101010 20px 20px 40px;
+                /* Counter-scale GM's DOM dialogs under the high-DPI scaled viewport
+                   (no-op when --gm-ui-scale is unset, i.e. dpr 1 or ?flat=1). */
+                transform: scale(var(--gm-ui-scale, 1));
+                transform-origin: center center;
+            }
+            div.gm4html5_login input[type="text"] {
+                font-size: 16px; /* >=16px stops iOS Safari's focus auto-zoom */
             }
             div.gm4html5_cancel_button {
                 float: right;
@@ -138,41 +160,14 @@
 
         <!-- Run the game code -->
         <!-- DEPLOY NOTE: bump the cachebust value on EVERY deploy, or mobile Safari will keep
-             serving the previous PreGame.js from cache. -->
-        <script type="text/javascript" src="jangle-test/PreGame.js?cachebust=2026072101"></script>
+             serving the previous PreGame.js from cache. Also re-run
+             tools/prompt-bundle/build_bundle.py before exporting if any prompt content changed. -->
+        <script type="text/javascript" src="jangle-test/PreGame.js?cachebust=2026072201"></script>
 
         <!-- Builtin injector for injecting runner path -->
 
 
         <script>window.onload = GameMaker_Init;</script>
-
-        <!-- High-DPI canvas pinning: when the game has sized the canvas backing store past
-             the visible viewport (i.e. the GML fit applied its dpr upscale), display the
-             canvas at (backing store / dpr) CSS pixels. If the game never upscales — dpr 1
-             screens, native builds, or the dprx parameter not reaching GML — the backing
-             store always fits the viewport and this stays a no-op. -->
-        <script>
-            (function () {
-                function pin() {
-                    var c = document.getElementById('canvas');
-                    if (c) {
-                        var dpr = window.devicePixelRatio || 1;
-                        var upscaled = (c.width > window.innerWidth + 1) || (c.height > window.innerHeight + 1);
-                        if (dpr > 1 && upscaled) {
-                            var w = Math.round(c.width / dpr) + 'px';
-                            var h = Math.round(c.height / dpr) + 'px';
-                            if (c.style.width !== w) { c.style.width = w; }
-                            if (c.style.height !== h) { c.style.height = h; }
-                        } else if (c.style.width !== '') {
-                            c.style.width = '';
-                            c.style.height = '';
-                        }
-                    }
-                    window.requestAnimationFrame(pin);
-                }
-                window.requestAnimationFrame(pin);
-            })();
-        </script>
 
         <!-- Builtin injector for injecting google analytics code -->
 
