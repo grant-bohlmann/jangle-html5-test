@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "pool_id": "everyone_framings",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "everyone_framings_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "No reason necessary.",
+        "Don't ask.",
+        "Just because.",
+        "The reason is classified.",
+        "Nothing personal.",
+        "Rules are rules.",
+        "Everybody eats.",
+        "Misery loves company.",
+        "Equality, finally.",
+        "Nobody is special tonight.",
+        "Everyone means everyone.",
+        "Yes, you too.",
+        "Objections noted and ignored.",
+        "Take it up with management.",
+        "Call it a group tax.",
+        "Preventative maintenance.",
+        "Democracy in action.",
+        "That's the whole prompt.",
+        "Statistically, you all had it coming.",
+        "The game is in a mood.",
+        "Group punishment builds character.",
+        "Consider yourselves acknowledged."
+      ]
+    }
+  ]
+}

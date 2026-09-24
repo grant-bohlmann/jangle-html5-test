@@ -6,6 +6,9 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], on three, both name [sync_match_prompts]. Match and you're safe. Different answers and you take [Penalty, 2]."
       }
@@ -15,6 +18,9 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], on three, both name [sync_dodge_prompts]. Say the same thing and you take [Penalty, 2]."
       }
@@ -24,6 +30,9 @@
       "category_id": "cooperative",
       "players": { "min": 3, "max": 4 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "On three, everyone shout [sync_mid]. If nobody matches, everyone takes [Penalty, 1]."
       }
@@ -33,6 +42,9 @@
       "category_id": "cooperative",
       "players": { "min": 5 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "On three, everyone shout [sync_large]. If nobody matches, everyone takes [Penalty, 1]."
       }
@@ -42,6 +54,9 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Extended",
+      "play_scaling": "fixed",
+      "play_volatile": true,
       "shell_text": {
         "default": "[Player A] and [Player B], on three, both blurt a word. No match? On the next three, both blurt a word that links the last two. Keep going until you land the same word. Hit 5 rounds without matching and you take [Penalty, 3]."
       }
@@ -51,6 +66,9 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], on three, both blurt the first word [wavelength_seeds] brings to mind. No match? Go again on three. Miss twice and you take [Penalty, 1]."
       }
@@ -60,6 +78,9 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], together you must [coop_tasks]. Pull it off and you're both safe. Fail and you take [Penalty, 2]."
       }
@@ -69,15 +90,22 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], you have [Timer, 30] to [coop_tasks_timed] together. Beat the clock and you're both safe. Run out and you take [Penalty, 2]."
-      }
+      },
+      "timer": "token"
     },
     {
       "shell_id": "cooperative.coop_sabotage.v1",
       "category_id": "cooperative",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], together you must [coop_tasks_sabotage]. Everyone else, try to break their focus, no touching. Pull it off and everyone else takes [Penalty, 2]. Fail and you take [Penalty, 2]."
       }
@@ -87,6 +115,9 @@
       "category_id": "cooperative",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Long",
+      "play_scaling": "rounds",
+      "play_volatile": true,
       "shell_text": {
         "default": "As a group, count out loud to 20. No order, no plan, one number per person at a time. If two people speak at once, everyone takes [Penalty, 2] and starts over."
       }
@@ -96,15 +127,22 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], you lead. [Player B], mirror everything [Player A] does for [Timer, 20]. If [Player B] falls out of sync, both take [Penalty, 2]."
-      }
+      },
+      "timer": "token"
     },
     {
       "shell_id": "cooperative.echo.v1",
       "category_id": "cooperative",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Long",
+      "play_scaling": "linear",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], make a sound and a move. Everyone echoes it back together. If the echo falls apart, everyone takes [Penalty, 1]."
       }
@@ -114,15 +152,22 @@
       "category_id": "cooperative",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
       "shell_text": {
         "default": "Everyone has to hold a conversation about [topic] for [Timer, 30] without saying \"[banned_words]\". If anyone slips, everyone takes [Penalty, 1]."
-      }
+      },
+      "timer": "token"
     },
     {
       "shell_id": "cooperative.synced_action.v1",
       "category_id": "cooperative",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "linear",
+      "play_volatile": false,
       "shell_text": {
         "default": "On three, everyone [group_actions] at the exact same time. If you don't all hit it together, everyone takes [Penalty, 1]."
       }
@@ -132,6 +177,9 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], close your eyes. [Player B], talk [Player A] through [blind_lead_tasks] using only your voice. Nail it and you're both safe. Mess it up and you take [Penalty, 2]."
       }
@@ -141,8 +189,64 @@
       "category_id": "cooperative",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], get [Player B] to say [password_words] using one-word clues only, no part of the answer. Crack it in [Timer, 30] and everyone else takes [Penalty, 2]. Run out and you take [Penalty, 1]."
+        "default": "[Player A], check your secret and get [Player B] to say it using one-word clues only, no part of the answer. Crack it in [Timer, 30] and everyone else takes [Penalty, 2]. Run out and you take [Penalty, 1]."
+      },
+      "secret_text": {
+        "default": "[Player A], get [Player B] to say '[password_words]'. One-word clues only, no part of the answer."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "cooperative.hold_together.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": ["Physical"],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A] and [Player B], [coop_poses]. Hold it for [Timer, 15-30]. Either of you drops and you both take [Penalty, 2-3]."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "cooperative.match_trap.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "On three, everyone throw out 1 to 5 fingers, no talking. Everyone who threw the most common number takes [Penalty, 1]. If nobody matched, you're all safe."
+      }
+    },
+    {
+      "shell_id": "cooperative.number_spread.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "On three, everyone throw out 1 to 10 fingers, no talking. The whole group needs to land close. If the highest and the lowest are more than 3 apart, everyone takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "cooperative.whisper_deal.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], whisper a deal to [Player B]. If they refuse to shake on it, you both take [Penalty, 3]."
       }
     }
   ]

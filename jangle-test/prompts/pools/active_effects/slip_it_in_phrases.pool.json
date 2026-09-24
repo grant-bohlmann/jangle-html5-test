@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "pool_id": "slip_it_in_phrases",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "slip_it_in_phrases_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "I have zero self-control around anyone who's bad for me.",
+        "I don't kiss and tell, but this group has earned one story.",
+        "My ex still texts me late at night, and I still answer.",
+        "Two of my exes have hooked up with each other.",
+        "I know exactly which text to send to get invited over.",
+        "My just-friends voice gets a lot more convincing after midnight.",
+        "I flirt first, ask permission later, and it's worked every time.",
+        "I've slept with someone the week after meeting them, more than once.",
+        "Ask me about my situationship. It's a whole story.",
+        "I've never regretted anyone I went home with.",
+        "I hooked up with a roommate once and we still live together.",
+        "Someone in this room already has my number, and knows it.",
+        "I slept with someone on a setup date and never called back.",
+        "One good line is usually all it takes to close me.",
+        "I don't chase. I just make it impossible to forget me.",
+        "We agreed never to talk about the hot tub again.",
+        "I've got a number I'm not proud of, and it's rising.",
+        "Somebody who isn't my partner still calls me baby.",
+        "I don't do exes as friends. I do them as warnings.",
+        "I've never made long distance work. Temptation's the reason."
+      ]
+    },
+    {
+      "pool_id": "slip_it_in_phrases_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "I've thrown up in a cab and still made it to brunch.",
+        "I blacked out and bought a round for the whole bar.",
+        "I have a guy who gets us into places that are closed.",
+        "That bouncer has physically carried me out twice, and we're friendly now.",
+        "I got banned from a bar for climbing on the actual bar.",
+        "I skipped a bar tab once and changed bars for a year.",
+        "I got cut off once and argued my way to one more.",
+        "My last round of shots ended with me in a stranger's car.",
+        "There's a photo of me asleep in a stranger's front yard.",
+        "I've woken up wearing an outfit that wasn't mine.",
+        "I know my limit and I've never once respected it.",
+        "That's not the first bar I've been asked to leave.",
+        "I got escorted out of a bar and came right back.",
+        "I bailed someone out of jail last weekend. They still owe me.",
+        "My phone ended up in the freezer once. No memory of why.",
+        "Something got broken at the after-party and everyone blamed me.",
+        "I ate an edible before a flight and don't remember landing.",
+        "I got kicked out of an Uber for being sick in it.",
+        "I shoplifted a candy bar once just to see if I could.",
+        "Somebody still has my jacket from a night I don't remember."
+      ]
+    }
+  ]
+}

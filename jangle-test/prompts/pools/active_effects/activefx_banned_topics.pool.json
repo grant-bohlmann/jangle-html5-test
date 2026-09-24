@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_banned_topics",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "activefx_banned_topics_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "work or school",
+        "money",
+        "being tired",
+        "gossip",
+        "social media",
+        "the group chat",
+        "music",
+        "sports",
+        "politics",
+        "the weather",
+        "food",
+        "tomorrow",
+        "last weekend",
+        "plans for tonight"
+      ]
+    },
+    {
+      "pool_id": "activefx_banned_topics_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "exes",
+        "sex"
+      ]
+    },
+    {
+      "pool_id": "activefx_banned_topics_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "alcohol"
+      ]
+    }
+  ]
+}

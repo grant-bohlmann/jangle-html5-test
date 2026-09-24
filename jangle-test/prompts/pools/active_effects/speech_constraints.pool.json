@@ -4,21 +4,67 @@
   "type": "text",
   "tags": [],
   "pool_enabled": true,
-  "entries": [
-    "you can only speak in questions",
-    "you may only whisper",
-    "refer to yourself only in third person. No 'I' or 'me'",
-    "no 'um,' 'uh,' 'like,' or 'you know'",
-    "every sentence must end in a rhyme",
-    "one word per response. That's it",
-    "answer every question with a question",
-    "you can only respond with yes or no",
-    "never answer a question directly. Use a metaphor, a story, or a subject change",
-    "every sentence you speak must be accompanied by made-up sign language",
-    "speak only in a robot monotone. No inflection, no emotion",
-    "end every sentence with a send-off like 'and that's that' or 'moving on'",
-    "everything you say must be in the form of a news headline",
-    "speak only in rhyming couplets. Both lines must rhyme",
-    "narrate your own actions in the third person as you do them"
+  "subpools": [
+    {
+      "pool_id": "speech_constraints_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "you can only speak in questions",
+        "you may only whisper",
+        "refer to yourself only in third person",
+        "no 'um,' 'uh,' 'like,' or 'you know'",
+        "every sentence must end in a rhyme",
+        "you can only respond with one word",
+        "answer every question with a question",
+        "you can only respond with yes or no",
+        "change the subject every time someone talks to you",
+        "flip your opinion the second anyone pushes back",
+        "accompany every sentence you speak with made-up sign language",
+        "speak only in a robot monotone. No inflection, no emotion",
+        "end every sentence with 'and that's that'",
+        "end every sentence with 'no notes'",
+        "start every sentence with 'fun fact'",
+        "phrase everything you say like you're giving an order",
+        "narrate your own actions in the third person as you do them"
+      ]
+    },
+    {
+      "pool_id": "speech_constraints_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "let every 'no' you say sound like you want to be talked into it",
+        "end every sentence with 'and that's my kink'",
+        "end every sentence with 'but naked'",
+        "start every sentence with 'in my sex dream last night'",
+        "start every sentence with 'speaking of my body count'",
+        "moan before every sentence",
+        "you can only respond with 'faster,' 'slower,' or 'don't stop'",
+        "work 'hard' or 'wet' into every sentence",
+        "refer to yourself only as 'daddy'",
+        "call everyone 'lover'"
+      ]
+    },
+    {
+      "pool_id": "speech_constraints_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "end every sentence with 'no more after this one'",
+        "end every sentence with 'and then I blacked out'",
+        "start every sentence with 'in my defense'",
+        "rate how drunk you are before every sentence",
+        "you can only respond with 'I'm fine'",
+        "you can only speak in excuses",
+        "you can only talk at bar-shout volume",
+        "act offended by every question",
+        "pitch every idea like it backfired last time",
+        "respond to anyone's idea like it's the best they've ever had"
+      ]
+    }
   ]
 }

@@ -6,6 +6,9 @@
       "category_id": "voting",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "Who's most likely to [most_likely_to_traits]? Everyone votes. Most votes takes [Penalty, 2-3]."
       }
@@ -15,6 +18,9 @@
       "category_id": "voting",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "Point at who's most likely to [most_likely_to_traits]. Most votes takes [Penalty, 2-3]."
       }
@@ -24,6 +30,9 @@
       "category_id": "voting",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "Who's most likely to [most_likely_positive]? Everyone votes. Whoever gets the most votes picks someone to take [Penalty, 2-3]."
       }
@@ -33,6 +42,9 @@
       "category_id": "voting",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[superlative_questions] Everyone votes. Most votes takes [Penalty, 2-3]."
       }
@@ -42,6 +54,9 @@
       "category_id": "voting",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[superlative_positive] Everyone votes. Whoever gets the most votes picks someone to take [Penalty, 2-3]."
       }
@@ -51,6 +66,9 @@
       "category_id": "voting",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "Who's more likely to [most_likely_to_traits], [Player A] or [Player B]? Everyone votes. Loser takes [Penalty, 2-3]."
       }
@@ -60,8 +78,11 @@
       "category_id": "voting",
       "players": { "min": 3, "max": 8 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], rate yourself out of 5 [self_rating_dimensions]. On three, everyone reveals their honest rating of you with fingers, including yourself. Take [Penalty, 1] for every rating that doesn't match yours."
+        "default": "[Player A], rate yourself 0 to 5 [self_rating_dimensions]. On three, everyone including you flashes their rating. Every mismatch with yours costs you [Penalty, 1]."
       }
     },
     {
@@ -69,8 +90,35 @@
       "category_id": "voting",
       "players": { "min": 4 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], rate yourself out of 5 [self_rating_dimensions]. On three, everyone reveals their honest rating of you with fingers, including yourself. If less than half the group matches your number, take [Penalty, 2-3]."
+        "default": "[Player A], score yourself 0 to 5 [self_rating_dimensions]. The whole group, you included, rates you on three, and if fewer than half match you, take [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "voting.sincerity.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], say something genuinely nice about [Player B]. Everyone votes sincere or faking. Sincere, [Player B] takes [Penalty, 1]. Faking, you take [Penalty, 2]."
+      }
+    },
+    {
+      "shell_id": "voting.odd_one_out.v1",
+      "category_id": "voting",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], [Player B], and [Player C]. First two to team up decide which of the three takes [Penalty, 2]."
       }
     }
   ]

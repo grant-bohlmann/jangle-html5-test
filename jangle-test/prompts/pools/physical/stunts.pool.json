@@ -2,7 +2,9 @@
   "schema_version": 1,
   "pool_id": "stunts",
   "type": "text",
-  "tags": [],
+  "tags": [
+    "Physical"
+  ],
   "pool_enabled": true,
   "subpools": [
     {
@@ -51,12 +53,24 @@
         "close your eyes and touch your finger to your nose 5 times as fast as you can",
         "recite the alphabet backwards from Z out loud with no mistakes",
         "say the alphabet starting from a letter the group picks, and no singing it",
-        "eyes closed, head tilted back, call out when you think 30 seconds have passed",
+        "eyes closed, head tilted back, call out when you think [Timer, 30] have passed",
         "demonstrate your drunkest dance move",
         "show the group exactly how you walk after one too many",
         "mime chugging an entire drink as dramatically as you can",
         "do your best impression of the drunkest person you know",
-        "get into a keg-stand position with two players holding your legs and hold it"
+        "get into a keg-stand position with two players holding your legs and hold it",
+        "balance an empty shot glass on the back of your hand for [Timer, 15] without letting it tip",
+        "stack 3 empty cups into a one-handed tower before the group finishes counting to 10",
+        "balance a spoon on your nose for [Timer, 10], no hands, like you're too far gone to feel it slide off",
+        "carry a full cup of water across the room and back without spilling a drop",
+        "do 10 squats without stopping and let out your best drunken victory shout on the last one",
+        "flip a coin off your elbow and catch it in the same hand 3 times in a row",
+        "freeze completely still for [Timer, 15], no matter how much the room feels like it's moving",
+        "do jumping jacks for [Timer, 15] straight, shouting 'last call' on every rep",
+        "toss an empty can up and catch it behind your back 3 times without dropping it",
+        "do 5 burpees as fast as you can and don't stop until your arms genuinely give out",
+        "carry an empty pizza box across the room balanced flat on one hand without it tipping",
+        "hold your breath like you're hiding from a bouncer, and raise your hand the second you give up"
       ]
     },
     {
@@ -69,14 +83,60 @@
       "entries": [
         "do your sexiest walk across the room",
         "give the player on your left a 10-second lap dance",
-        "twerk on a willing player's lap for 10 seconds",
-        "give a willing player a slow neck and shoulder massage for 15 seconds",
+        "twerk on a willing player's lap for [Timer, 10]",
+        "give a willing player a slow neck and shoulder massage for [Timer, 15]",
         "do a striptease and lose one layer of clothing",
-        "dirty-dance with a player of your choice for 15 seconds",
+        "dirty-dance with a player of your choice for [Timer, 15]",
         "demonstrate your signature bedroom move on a pillow",
         "crawl to a willing player and give them your most seductive look",
         "do a body roll into a willing player's lap",
-        "let the group pick someone for you to give a 10-second lap dance"
+        "let the group pick someone for you to give a 10-second lap dance",
+        "seductively remove one shoe and toss it aside without breaking eye contact with the room",
+        "spin behind a willing player and sway together for a slow count of 10",
+        "shimmy across the room and strike a pose against the nearest wall",
+        "spin a willing player around once and dip them",
+        "give a willing player a 10-second grind, no music required",
+        "do a sultry runway walk to a willing player and strike a pose",
+        "give the room a 10-second private-dancer audition",
+        "wall-slide down slowly like it's the sexiest move you own, then pop back up",
+        "drop it low 3 times in a row without losing your balance",
+        "unbutton one item of clothing as seductively as you can, then button it back up",
+        "do a chair dance for [Timer, 15] using any nearby chair",
+        "give a willing player a slow spin and finish with a dip",
+        "walk your fingers up a willing player's arm for a slow count of 5",
+        "do 5 slow body rolls in a row without losing the rhythm",
+        "toss your hair back and roll your shoulders like you're about to steal the show",
+        "do your best slow-motion hair release, like you just took it out of a bun for effect",
+        "do your best sex face and hold it for [Timer, 3] without cracking up",
+        "hump the air like a music video extra for a slow count of 5",
+        "act out your walk of shame from one side of the room to the other",
+        "give the room your best fake orgasm moan, no words, just sell it",
+        "mime the opening moves of your favorite sex scene from a movie",
+        "walk past a willing player and trail one finger across their shoulders without stopping",
+        "give a willing player your most confident 'come find me later' walk-by",
+        "do your best pole dance using the nearest doorway or support beam",
+        "recreate your most confident one-night-stand exit, from bed to door in one smooth walk",
+        "give the room your best 'just rolled out of bed and still look good' stretch",
+        "do a slow, hip-first strut to a willing player and back",
+        "act out your best 'sliding into someone's DMs' pantomime, no words",
+        "mime eating something in the most seductively over-the-top way you can manage"
+      ]
+    },
+    {
+      "pool_id": "stunts_spicy_degen",
+      "type": "text",
+      "tags": [
+        "Spicy",
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "do a body shot pose off the nearest willing player's collarbone, no actual liquor required",
+        "give a willing player your sloppiest, most shameless lap dance like the bar just announced closing time",
+        "down an imaginary shot in one motion, then launch straight into your best striptease",
+        "climb onto the nearest sturdy chair and grind like it's last call",
+        "do your drunkest, most shameless twerk against the nearest wall",
+        "lick a fake line of salt off your own wrist like you're about to take a body shot, then wink at the room"
       ]
     }
   ]

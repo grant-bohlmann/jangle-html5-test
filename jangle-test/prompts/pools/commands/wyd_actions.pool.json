@@ -39,22 +39,42 @@
     {
       "pool_id": "wyd_actions_silly",
       "type": "text",
-      "tags": [
-        "Silly",
-        "Party"
-      ],
+      "tags": [],
       "pool_enabled": true,
-      "entries": [
-        "do their best impression of someone in this room",
-        "speak in an accent for the next two rounds",
-        "do 10 jumping jacks right now",
-        "moonwalk to the nearest wall and back",
-        "do their best runway walk across the room",
-        "hold a plank for 15 seconds",
-        "mime something they did today until someone guesses it correctly",
-        "do their best impression of a jungle animal of the group's choosing",
-        "narrate the next 30 seconds of their life like a nature documentary",
-        "teach the group a dance move they just made up"
+      "subpools": [
+        {
+          "pool_id": "wyd_actions_silly_perform",
+          "type": "text",
+          "tags": [
+            "Silly",
+            "Party"
+          ],
+          "pool_enabled": true,
+          "entries": [
+            "do their best impression of someone in this room",
+            "speak in an accent for the next two rounds",
+            "mime something they did today until someone guesses it correctly",
+            "do their best impression of a jungle animal of the group's choosing",
+            "narrate the next 30 seconds of their life like a nature documentary"
+          ]
+        },
+        {
+          "pool_id": "wyd_actions_silly_physical",
+          "type": "text",
+          "tags": [
+            "Silly",
+            "Party",
+            "Physical"
+          ],
+          "pool_enabled": true,
+          "entries": [
+            "do 10 jumping jacks right now",
+            "moonwalk to the nearest wall and back",
+            "do their best runway walk across the room",
+            "hold a plank for 15 seconds",
+            "teach the group a dance move they just made up"
+          ]
+        }
       ]
     },
     {
@@ -82,7 +102,24 @@
         "describe the exact moment they knew they liked someone",
         "tell the group what they'd change about their last relationship if they could",
         "share the last compliment they received that they still think about",
-        "admit who they'd choose in this room for a hypothetical rebound"
+        "admit who they'd choose in this room for a hypothetical rebound",
+        "tell the group the last lie they told to seem more interesting to someone they liked",
+        "rank the last three people they dated from most to least serious, out loud",
+        "describe their ex in exactly one word",
+        "tell the group the worst pickup line anyone's ever used on them",
+        "admit the last time they googled someone before a first date",
+        "admit the last time they pretended not to care and definitely cared",
+        "confess the most embarrassing thing they've done for someone who never found out",
+        "tell the group what they say to themselves before texting a crush",
+        "describe the last time they got nervous around someone and why",
+        "admit which person they've dated they'd never introduce to their parents",
+        "tell the group the exact moment they knew a relationship was over",
+        "reveal what they do right before someone they like walks in the room",
+        "describe how they'd break up with someone without ever actually saying it",
+        "admit the last compliment they fished for and got",
+        "tell the group the most dramatic thing they've done over a crush",
+        "admit the last time they lied about being single",
+        "reveal the thing they do on a first date to seem more confident than they feel"
       ]
     },
     {
@@ -104,7 +141,19 @@
         "describe the state of their bank account after their last big night out",
         "confess the last time they woke up somewhere unexpected",
         "tell the group the last dumb bet they made and whether they paid up",
-        "reveal the most chaotic thing currently sitting in their car"
+        "reveal the most chaotic thing currently sitting in their car",
+        "reenact how they walked the morning after their worst hangover ever",
+        "do their best impression of themselves ordering food at 2am",
+        "call whoever they went out with last and ask what they don't remember",
+        "search their own texts for the word 'hungover' and read the first result out loud",
+        "empty their pockets or bag right now and explain the strangest thing in there",
+        "admit the last time they lied about how much they'd had to drink",
+        "reveal the most money they've ever spent trying to fix a mistake from the night before",
+        "perform their most convincing 'I'm completely fine' right now",
+        "tell the group the worst thing they've ever done to avoid paying for a rideshare",
+        "admit the one bad night their parents still don't know about",
+        "describe the state of their place after the last party they hosted",
+        "reveal how much of their last paycheck went to a single night out"
       ]
     }
   ]

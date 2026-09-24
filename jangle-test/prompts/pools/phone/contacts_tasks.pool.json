@@ -34,7 +34,16 @@
         "find your most recent ex and show the group what name you saved them under",
         "open recent calls and read out the name of whoever you called after midnight this week",
         "find someone you'd be embarrassed to call right now and show the group their contact photo",
-        "find the contact you've texted most in the last week and show the group only the name"
+        "find the contact you've texted most in the last week and show the group only the name",
+        "find the contact you have saved with the most heart emojis in their name and explain the story",
+        "find the last person you saved a voicemail from and play the group [Timer, 10] of it",
+        "search your contacts for anyone saved as 'do not answer' or something similar and explain why",
+        "find the contact with the most missed calls from them and explain why you keep dodging",
+        "call whichever name in your Favorites would surprise this group the most",
+        "find a contact saved only by a first name and explain why you never got their last name",
+        "find the contact saved with a location or place name instead of a real name and explain the story",
+        "find the contact whose ringtone is different from everyone else's and explain why they get special treatment",
+        "find a contact photo that still shows you with someone you're no longer with and explain"
       ]
     },
     {
@@ -49,7 +58,14 @@
         "find your most recently blocked contact and tell the group why",
         "scroll to the bottom of your contacts and find the oldest number you've never called",
         "find a contact you saved at a bar or party and can't remember who it is",
-        "find the contact with the most questionable name you saved for them and read it out"
+        "find the contact with the most questionable name you saved for them and read it out",
+        "find the contact you always end up calling when you're too drunk and explain the pattern",
+        "find a contact saved with an inside joke from a night you can barely explain sober",
+        "find the contact who's bailed you out of the most trouble and tell the group what you owe them",
+        "find whichever contact you'd call first if you got arrested tonight and explain why",
+        "find a contact whose photo is from a night neither of you fully remembers and explain",
+        "find a delivery driver, bartender, or regular spot you've saved as an actual contact and explain why",
+        "find the contact you owe money to and admit how long you've been avoiding paying them back"
       ]
     }
   ]

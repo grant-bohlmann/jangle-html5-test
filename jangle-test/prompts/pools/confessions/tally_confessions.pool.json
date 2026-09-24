@@ -40,7 +40,6 @@
         { "a": "three exes", "b": "you'd get back with after two drinks" },
         { "a": "the last three people you've kissed", "b": "you shouldn't have" },
         { "a": "three people you've hooked up with", "b": "you never told your friends about" },
-        { "a": "three people you've seriously dated", "b": "you broke up with" },
         { "a": "three people you've turned down", "b": "you kind of wish you hadn't" },
         { "a": "three things about your sex life", "b": "you've never told anyone here" },
         { "a": "three kinks", "b": "you've tried" },
@@ -53,7 +52,25 @@
         { "a": "three sexual firsts you've had", "b": "you'd redo differently" },
         { "a": "three of your exes", "b": "who was better in bed than as a partner" },
         { "a": "three of the most adventurous places you've hooked up", "b": "you'd do again" },
-        { "a": "three people in your phone you'd hook up with but haven't", "b": "who's completely off-limits" }
+        { "a": "three people in your phone you'd hook up with but haven't", "b": "who's completely off-limits" },
+        { "a": "three people you've ghosted", "b": "you'd slept with first" },
+        { "a": "three lies you've told in bed", "b": "you'd tell again" },
+        { "a": "three things in your nightstand", "b": "you'd hide before someone came over" },
+        { "a": "three people you've slid into the DMs of", "b": "who never replied" },
+        { "a": "three of your friends", "b": "you've been attracted to" },
+        { "a": "three of your worst hookups", "b": "you went back for anyway" },
+        { "a": "three first dates you've been on", "b": "that ended in a hookup" },
+        { "a": "three things you've faked with a partner", "b": "you got away with" },
+        { "a": "three things a partner has done in bed", "b": "you never asked them to do again" },
+        { "a": "three people you've hooked up with more than once", "b": "you swore was a one-time thing" },
+        { "a": "three places in your home", "b": "you've hooked up in" },
+        { "a": "three of your celebrity crushes", "b": "you'd actually leave someone for" },
+        { "a": "three of the last people you've flirted with", "b": "you'd have gone further with" },
+        { "a": "three things you own", "b": "you bought purely to look better naked" },
+        { "a": "three people who have your number", "b": "you'd answer at 2am" },
+        { "a": "three of your past hookups", "b": "who'd rate you higher than you'd rate them" },
+        { "a": "three items of clothing you've lost at someone else's place", "b": "you'd still like back" },
+        { "a": "three of your hookups", "b": "your friends warned you about" }
       ]
     },
     {
@@ -79,7 +96,23 @@
         { "a": "three things you've eaten at 3am", "b": "you'd be ashamed to admit" },
         { "a": "the last three parties you went to", "b": "you weren't actually invited to" },
         { "a": "three dares you've done drunk", "b": "you'd never do sober" },
-        { "a": "three times you've shown up somewhere hungover", "b": "you had to fake your way through" }
+        { "a": "three times you've shown up somewhere hungover", "b": "you had to fake your way through" },
+        { "a": "three things you've stolen without thinking twice", "b": "you still have somewhere in your house" },
+        { "a": "three purchases you've made mid-bender", "b": "that showed up on your doorstep and confused you" },
+        { "a": "three people you've had to apologize to after a blackout", "b": "who still bring it up" },
+        { "a": "three excuses you've given a boss for missing work", "b": "that were actually about a hangover" },
+        { "a": "three nights out that cost way more than they should have", "b": "that you still don't know where the money went" },
+        { "a": "three mornings you've woken up somewhere you didn't recognize", "b": "you still can't explain" },
+        { "a": "three bets you should never have placed", "b": "that you still swear you broke even on" },
+        { "a": "three lies you've told to keep a night going", "b": "that everyone believed at the time" },
+        { "a": "three edibles or drinks that hit way harder than you expected", "b": "that changed your whole night" },
+        { "a": "three times you've been the reason a party got shut down", "b": "you'd blame on someone else if asked" },
+        { "a": "three things you've said to a cop or bouncer", "b": "you're lucky never got you in real trouble" },
+        { "a": "three costumes or outfits you've ruined on a night out", "b": "you had to throw away the next morning" },
+        { "a": "three friends you've had to carry home", "b": "who've also had to carry you" },
+        { "a": "three group chats you've blown up drunk", "b": "you had to walk back the next morning" },
+        { "a": "three nights you swore were 'just a couple drinks'", "b": "that ended in complete chaos" },
+        { "a": "three things you've done to avoid throwing up in front of someone", "b": "that didn't work" }
       ]
     }
   ]

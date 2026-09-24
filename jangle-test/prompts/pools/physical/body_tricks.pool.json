@@ -2,7 +2,9 @@
   "schema_version": 1,
   "pool_id": "body_tricks",
   "type": "text",
-  "tags": [],
+  "tags": [
+    "Physical"
+  ],
   "pool_enabled": true,
   "subpools": [
     {
@@ -18,7 +20,7 @@
         "snap your fingers on both hands at once",
         "whistle right now",
         "wink with each eye one at a time",
-        "cross your eyes and hold it for 5 seconds",
+        "cross your eyes and hold it for [Timer, 5]",
         "do 5 jumping jacks in perfect sync as a group"
       ]
     },
@@ -38,6 +40,41 @@
         "do the Vulcan salute with both hands",
         "flare your nostrils on command",
         "wiggle just your pinky toe"
+      ]
+    },
+    {
+      "pool_id": "body_tricks_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "twerk for [Timer, 5]",
+        "isolate your hips in a slow circle without moving your shoulders",
+        "do a slow shoulder shimmy for [Timer, 5]",
+        "snap your fingers on the beat while your hips sway side to side",
+        "bite your lip and wink at the same time without cracking a smile",
+        "raise one eyebrow like you're about to say something you shouldn't",
+        "blow a slow kiss without smiling",
+        "arch your back into a slow curve, chin lifted"
+      ]
+    },
+    {
+      "pool_id": "body_tricks_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "say 'I only had two' three times fast without slurring a word",
+        "snap your fingers and shout 'cheers' at the exact same moment",
+        "clink an invisible glass and wink without missing a beat",
+        "hold a dead-straight face while saying 'I am completely sober right now'",
+        "cross your eyes while giving your best 'one more round' thumbs up",
+        "wiggle your eyebrows like you just spotted an open bar",
+        "snap out of a fake hangover face into a totally normal one in one second flat"
       ]
     }
   ]

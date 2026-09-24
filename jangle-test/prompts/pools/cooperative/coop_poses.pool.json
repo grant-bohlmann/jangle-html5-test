@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "pool_id": "coop_poses",
+  "type": "text",
+  "tags": [
+    "Physical"
+  ],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "coop_poses_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "sit back to back with no hands on the floor",
+        "stand back to back, lock elbows, and squat down like you're sharing an invisible chair",
+        "stand toe to toe, grip both hands, and lean back until your arms are fully extended",
+        "press your palms together at chest height and push against each other without moving your feet",
+        "stand shoulder to shoulder, link your inside arms, and both balance on your outside leg",
+        "face each other, lift one foot each, and press your soles together while balancing on your other leg",
+        "press your backs together and lean into each other until neither of you needs your feet",
+        "sit facing each other, press the soles of your feet together, and lean back holding hands",
+        "face each other, cross your arms, and clasp both of each other's hands",
+        "grip right hands, lean your upper bodies away from each other, and hold a steady angle",
+        "interlace one hand each, raise your arms overhead, and lean apart until you form an arch",
+        "press your shoulder blades together and each balance on one leg",
+        "clasp hands like you're arm wrestling and hold dead even, no give either way",
+        "face each other, both raise your right leg, and press your feet together at knee height"
+      ]
+    },
+    {
+      "pool_id": "coop_poses_silly",
+      "type": "text",
+      "tags": [
+        "Silly"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "lock pinkies, lean back on opposite sides, and both make the most constipated face you can manage",
+        "touch index fingers together like E.T. and both freeze with your mouths wide open",
+        "link arms side by side and both balance on your outside foot like startled flamingos",
+        "face each other, link index fingers overhead, and form the saggiest human circle you can manage",
+        "hook elbows back to back and freeze mid gasp like you both just saw a ghost",
+        "press your foreheads together and both go cross-eyed",
+        "link elbows, puff your cheeks out at the same time, and hold the world's least flattering standoff"
+      ]
+    },
+    {
+      "pool_id": "coop_poses_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "wrap your arms around each other's waists and lean back together until you're both fully extended",
+        "press your palms together, lace your fingers, and lean in until your hips are touching",
+        "stand nose to nose with your hands on each other's chest and hold completely still",
+        "drape your arms around each other's necks and hold each other's gaze without moving",
+        "clasp both hands and pull each other in until there's no space left between you",
+        "stand back to back, hook elbows, and press your hips together",
+        "interlace your fingers overhead, pull your bodies flush together, and hold the arch above you",
+        "lock arms, bend your knees together, and dip low at the same time",
+        "stand chest to back, link your hands together at the waist, and stay frozen there",
+        "stand toe to toe, hands on each other's lower back, and pull in until your bodies are flush",
+        "stand chest to chest, hands at each other's waists, and hold as close as your clothes allow",
+        "grip each other's forearms and lean in until your chests are pressed together, completely still"
+      ]
+    }
+  ]
+}

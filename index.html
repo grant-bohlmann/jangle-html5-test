@@ -57,6 +57,8 @@
                 padding: 0;
                 border: 0;
                 overflow: hidden;
+                overscroll-behavior: none;   /* Android: no pull-to-refresh from the letterbox bars */
+                touch-action: none;          /* no pinch / double-tap zoom from the letterbox bars */
                 width: 100%;
                 height: 100%;
                 height: 100dvh; /* iOS Safari: track the dynamic toolbar viewport (falls back to 100% above) */
@@ -74,6 +76,10 @@
                 -webkit-interpolation-mode: nearest-neighbor;
                 -ms-touch-action: none;
                 touch-action: none;
+                -webkit-user-select: none;   /* long HOLDs (Perfect Pump, Thumb Peek) must never start */
+                user-select: none;           /* an iOS selection/loupe, which cancels the touch */
+                -webkit-touch-callout: none;
+                -webkit-tap-highlight-color: transparent;
                 margin: 0;
                 padding: 0;
                 border: 0;
@@ -162,11 +168,52 @@
         <!-- DEPLOY NOTE: bump the cachebust value on EVERY deploy, or mobile Safari will keep
              serving the previous PreGame.js from cache. Also re-run
              tools/prompt-bundle/build_bundle.py before exporting if any prompt content changed. -->
-        <script type="text/javascript" src="jangle-test/PreGame.js?cachebust=2026072201"></script>
+        <script type="text/javascript" src="jangle-test/PreGame.js?cachebust=2026092401"></script>
 
         <!-- Builtin injector for injecting runner path -->
 
 
+        <!-- Pass-the-phone guards (web build only):
+             1) Screen Wake Lock keeps the phone from auto-locking mid-session. Needs HTTPS +
+                iOS Safari 16.4+ / Chrome. The browser drops the lock whenever the page is hidden,
+                so every tap re-requests it.
+             2) History guard: parks a same-page history entry on top, so an accidental edge swipe
+                or Android back pops that entry instead of leaving the game. Re-armed on the next tap. -->
+        <script>
+            (function () {
+                var wakeLock = null;
+                var wakePending = false;
+                var historyArmed = false;
+
+                function keepAwake() {
+                    if (wakeLock || wakePending || !('wakeLock' in navigator)) return;
+                    if (document.visibilityState !== 'visible') return;
+                    wakePending = true;
+                    try {
+                        navigator.wakeLock.request('screen').then(function (lock) {
+                            wakePending = false;
+                            wakeLock = lock;
+                            lock.addEventListener('release', function () { wakeLock = null; });
+                        }, function () { wakePending = false; });
+                    } catch (e) { wakePending = false; }
+                }
+
+                function armHistory() {
+                    if (historyArmed || !window.history || !history.pushState) return;
+                    historyArmed = true;
+                    try { history.pushState({ jangle: 1 }, ''); } catch (e) {}
+                }
+
+                function onTap() {
+                    armHistory();
+                    keepAwake();
+                }
+
+                window.addEventListener('popstate', function () { historyArmed = false; });
+                document.addEventListener('pointerup', onTap, true);
+                document.addEventListener('touchend', onTap, true);
+            })();
+        </script>
         <script>window.onload = GameMaker_Init;</script>
 
         <!-- Builtin injector for injecting google analytics code -->

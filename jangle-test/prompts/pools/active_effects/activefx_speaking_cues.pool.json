@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_speaking_cues",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "snap",
+    "clap",
+    "give a thumbs up",
+    "flash a peace sign",
+    "wag a finger",
+    "fist pump",
+    "salute",
+    "give a chef's kiss",
+    "facepalm",
+    "touch another player",
+    "raise a hand",
+    "smile",
+    "point at the ceiling"
+  ]
+}

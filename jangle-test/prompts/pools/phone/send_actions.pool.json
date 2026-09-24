@@ -46,15 +46,25 @@
       "pool_enabled": true,
       "entries": [
         "let the person on your left send one text to anyone in your contacts. You can't delete it for 10 minutes",
-        "let the player to your right scroll through your camera roll for 10 seconds and explain whatever photo they land on",
-        "let whoever's sitting next to you go live on any of your social media accounts for 10 seconds",
-        "let the person across from you scroll your saved Instagram posts for 15 seconds and explain whatever they pick",
-        "let the player on your left look through your Instagram following list for 10 seconds and explain whoever they pick",
+        "let the player to your right scroll through your camera roll for [Timer, 10] and explain whatever photo they land on",
+        "let whoever's sitting next to you go live on any of your social media accounts for [Timer, 10]",
+        "let the person across from you scroll your saved Instagram posts for [Timer, 15] and explain whatever they pick",
+        "let the player on your left look through your Instagram following list for [Timer, 10] and explain whoever they pick",
         "let the person to your right pick any video in your camera roll and play it for the group",
         "let whoever's next to you pick any conversation in your messages and read the last 3 messages from it",
         "text 'I had a dream about you last night' to someone not in this room",
         "text your crush or partner 'I need to ask you something later' with no follow-up",
-        "send a heart emoji to whoever the group picks"
+        "send a heart emoji to whoever the group picks",
+        "let the person on your left scroll your DMs and read your last message to whoever you talk to most",
+        "send a voice note saying 'come here often?' to whoever the group picks",
+        "let the person across from you write and send a reply to your last unanswered DM",
+        "call your most recent Tinder or Hinge match and see if they pick up",
+        "let whoever's sitting next to you write your dating app bio right now, typos and all",
+        "FaceTime your last hookup or situationship and keep the call going for at least [Timer, 10]",
+        "let the person on your right text a random contact 'guess what I'm wearing' from your phone",
+        "let the person across from you pick a random photo from your camera roll and send it to the group chat right now",
+        "take a selfie making your best 'bedroom eyes' face right now and send it to the group chat",
+        "screenshot your most recent liked Instagram photo and send it to the group chat with no explanation"
       ]
     },
     {
@@ -70,7 +80,15 @@
         "open your camera roll and show the group your most embarrassing photo from the last 30 days",
         "text the last person you canceled plans on and tell them you miss them",
         "open your most recent Uber or Lyft ride and read the driver rating you left out loud",
-        "pull up your Snapchat or Instagram story from the last time you were out and play it for the group"
+        "pull up your Snapchat or Instagram story from the last time you were out and play it for the group",
+        "call whichever unknown number is in your call log and ask if you know them. Put it on speaker",
+        "open your banking app and read your spending total for this week out loud, no rounding down",
+        "send a $1 Venmo or Cash App request to the person on your right captioned 'sorry about last time'",
+        "text 'we need to talk about last weekend' to the group chat that caused it",
+        "let the person on your right pick a photo from your camera roll taken after midnight and post it to your story for 15 minutes",
+        "call the friend who was there for your worst night out and have them confirm one detail on speaker",
+        "post 'never speak of this again' to your Instagram or Snapchat story with zero context",
+        "call your own voicemail and play the oldest saved message for the group"
       ]
     }
   ]

@@ -6,6 +6,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], confess [confession_prompts]. Refuse and take [Penalty, 2-3]."
       }
@@ -15,6 +18,9 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], tell the group [confession_prompts]. Stay quiet and take [Penalty, 2-3]."
       }
@@ -24,6 +30,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], what's [confession_prompts]? Confess or take [Penalty, 2-3]."
       }
@@ -33,6 +42,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], spill [confession_prompts]. No story and take [Penalty, 2-3]."
       }
@@ -42,6 +54,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], have you ever [nhie_actions]? Confess or take [Penalty, 2-3]."
       }
@@ -51,6 +66,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], describe [describe_prompts]. No answer and take [Penalty, 2-3]."
       }
@@ -60,6 +78,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], name [tally_confessions.a]. Take [Penalty, 1] for each one [tally_confessions.b]."
       }
@@ -69,6 +90,9 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], confess [confession_prompts]. Anyone who has done the same takes [Penalty, 1] with you. Confess alone and take [Penalty, 3] instead."
       }
@@ -78,6 +102,9 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], tell us one truth and one lie. Don't say which is which. The group gets one guess. If they are right, you take [Penalty, 2]. If not, everyone in the group takes [Penalty, 2]."
       }
@@ -87,6 +114,9 @@
       "category_id": "confessions",
       "players": { "min": 4 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], confess [confession_prompts]. But you only have to confess to one person in this group. Refuse and take [Penalty, max]."
       }
@@ -96,6 +126,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], open up about [confession_topics]. You choose how much you give. Keep it vague for [Penalty, 3], get personal for [Penalty, 2], or the full story for [Penalty, 1]. Pass entirely and take [Penalty, max]."
       }
@@ -105,6 +138,9 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Long",
+      "play_scaling": "rounds",
+      "play_volatile": true,
       "shell_text": {
         "default": "[Player A], confess [confession_prompts]. The next person must top it. Anyone who can't top the previous one takes [Penalty, max]. [Player A], you start."
       }
@@ -114,6 +150,9 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], confess something on behalf of [Player B]. You pick what it is. [Player B] confirms or denies. If [Player B] denies it, you both take [Penalty, 3]."
       }
@@ -123,8 +162,11 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], you get to assign this confession. Pick anyone here. They must confess [assigned_confessions] or take [Penalty, 5-6]."
+        "default": "[Player A], pick anyone here. They must confess [assigned_confessions] or take [Penalty, 3-6]."
       }
     },
     {
@@ -132,15 +174,22 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
       "shell_text": {
-        "default": "[Player B] gives [Player A] one word. [Player A] has 10 seconds to confess something on that topic. Refuse or can't think of anything, take [Penalty, 4-5]."
-      }
+        "default": "[Player A], choose one word. [Player B] has [Timer, 10] to confess something on that topic. Refuse or can't think of anything, take [Penalty, 4-5]."
+      },
+      "timer": "token"
     },
     {
       "shell_id": "confessions.pass_the_burn.v1",
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], confess [confession_prompts], or pass it to [Player B] and take [Penalty, 2]. [Player B] confesses or takes [Penalty, 4]."
       }
@@ -150,6 +199,9 @@
       "category_id": "confessions",
       "players": { "min": 2 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], go deep on [confession_topics]. Keep it tame and nobody pays. Get personal and everyone else takes [Penalty, 1]. Go truly deep and everyone else takes [Penalty, 3]. Pass and take [Penalty, 1] yourself."
       }
@@ -159,8 +211,59 @@
       "category_id": "confessions",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], think of [confession_prompts]. [Player B] has to guess what it is. Nail it and [Player A] takes [Penalty, 2]. Miss and [Player B] takes [Penalty, 1]."
+      }
+    },
+    {
+      "shell_id": "confessions.no_filter.v1",
+      "category_id": "confessions",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], talk about [confession_topics] with no filter. If the group thinks you held back, take [Penalty, 4]."
+      }
+    },
+    {
+      "shell_id": "confessions.group_round.v1",
+      "category_id": "confessions",
+      "players": { "min": 3, "max": 4 },
+      "tags": [],
+      "play_time": "Extended",
+      "play_scaling": "linear",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Everyone, confess [confession_prompts]. Then vote on who held back the most. That person takes [Penalty, 5-6]. [Player A], you start."
+      }
+    },
+    {
+      "shell_id": "confessions.controversial_opinion.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": ["Degen"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], say your most controversial opinion. Refuse and take [Penalty, max]."
+      }
+    },
+    {
+      "shell_id": "confessions.get_cancelled.v1",
+      "category_id": "confessions",
+      "players": { "min": 2 },
+      "tags": ["Degen"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], say something you can't say on the internet without getting cancelled. Refuse and take [Penalty, max]."
       }
     }
   ]

@@ -2,7 +2,9 @@
   "schema_version": 1,
   "pool_id": "physical_poses",
   "type": "text",
-  "tags": [],
+  "tags": [
+    "Physical"
+  ],
   "pool_enabled": true,
   "subpools": [
     {
@@ -57,11 +59,56 @@
       "entries": [
         "hold your sexiest pose",
         "do a slow body roll and freeze at the end",
-        "recreate a sex position with a willing partner, clothes on, and hold it for the timer",
+        "recreate a sex position with a willing partner, clothes on",
         "hold a wall-sit while a willing player sits on your lap",
         "hold a plank over a willing partner with your faces almost touching",
         "dip a willing partner low and hold it, eyes locked",
-        "straddle a willing player's lap and hold your pose"
+        "straddle a willing player's lap and hold your pose",
+        "freeze mid-body-roll with your hips tilted",
+        "hold your best 'seduction' backbend, fingertips brushing the floor",
+        "hold a bridge pose while a willing player holds your gaze inches from your face",
+        "hold a lunge with a willing partner's hand resting on your chest",
+        "freeze with your chin dropped and your best smoldering stare",
+        "hold a low squat with a willing partner's hand on the back of your neck",
+        "hold a plank while a willing player drapes over your back",
+        "hold your best beckoning look, chin tilted and eyes locked on the room",
+        "hold a kneel with a willing partner's forehead against yours",
+        "hold a deep backward lean into a willing partner's arms, chin tilted up",
+        "freeze on all fours with your back arched, a willing partner's hand resting on it",
+        "hold a chair straddle facing a willing partner, hands on their shoulders",
+        "hold a hip-cocked stance with a willing partner's hand sliding down your arm",
+        "freeze mid-spin with your back pressed against a willing partner's chest",
+        "hold a slow-motion hair flip and freeze with your head tilted back",
+        "hold a one-knee kneel in front of a willing partner, looking up at them",
+        "freeze with a willing partner's hand tangled in your hair",
+        "hold a slow backbend with a willing partner's hand bracing your lower back",
+        "hold your best over-the-shoulder look while a willing partner's hands rest on your hips",
+        "hold a slow hip-popped stance like you're posing for a photoshoot",
+        "freeze mid over-the-shoulder glance with your best 'come find me' look",
+        "hold a deep backbend against the nearest wall, chest lifted",
+        "recreate a sex position with a willing partner, clothes on, and hold eye contact the whole time",
+        "hold a slow lean against a chair back, one leg extended behind you, chin lifted",
+        "freeze mid-grind against a willing partner, completely still"
+      ]
+    },
+    {
+      "pool_id": "physical_poses_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "hold a low crouch like you just ducked out of sight from the bartender",
+        "hold a deep squat like you just heard 'last call' and refuse to leave",
+        "freeze mid-stumble, one foot hovering like you just caught yourself",
+        "hold a wall-lean like the wall's the only thing keeping you up",
+        "hold a plank while insisting you're 'totally fine'",
+        "hold a backward lean over an invisible bar, elbows propped like you own the place",
+        "freeze mid-toast, glass arm raised, completely still",
+        "hold a low bow like you're apologizing to the bartender in advance",
+        "hold a deep lunge like you're bracing against the room spinning",
+        "hold a deep backbend over the nearest chair back like the room just tilted"
       ]
     }
   ]

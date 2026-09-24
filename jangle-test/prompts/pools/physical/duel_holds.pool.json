@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "pool_id": "duel_holds",
+  "type": "text",
+  "tags": [
+    "Physical"
+  ],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "duel_holds_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "hold matching wall-sits, side by side",
+        "hold matching forearm planks, side by side",
+        "hold matching one-leg balances with your eyes closed",
+        "hold matching wall-sits with your arms crossed",
+        "hold a deep squat, facing each other, hands on your own knees",
+        "hold matching high plank positions, side by side",
+        "hold matching overhead arm raises, straight up, no bending",
+        "hold matching single-knee raises, one leg lifted to hip height, no hands",
+        "hold matching arms-out T-poses, straight out to your sides",
+        "hold matching deep lunges, front leg bent, back leg straight"
+      ]
+    },
+    {
+      "pool_id": "duel_holds_silly",
+      "type": "text",
+      "tags": [
+        "Silly"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "hold matching one-leg balances while making the goofiest face you can hold",
+        "hold matching deep squats while sticking your tongue out as far as it goes",
+        "hold a matching wide-legged meerkat pose, up on your toes, hands tucked to your chest like paws",
+        "hold matching deep lunges while maintaining the most serious detective stare you can",
+        "hold matching overhead arm raises while humming your own entrance music"
+      ]
+    },
+    {
+      "pool_id": "duel_holds_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "stand facing each other in matching deep squats, hips brushing, hands on your own thighs",
+        "hold matching wall-sits against the same wall, facing each other, knees almost touching",
+        "hold a matching one-leg balance, close enough to share a breath, eyes locked",
+        "grind against each other in place, slow and controlled, no losing the rhythm",
+        "hold matching deep lunges, thigh to thigh, hands resting on each other's chest",
+        "stand back to back, each hold your own deep squat, hips touching",
+        "hold a matching backbend away from each other, only your fingertips touching"
+      ]
+    },
+    {
+      "pool_id": "duel_holds_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "face off and hold matching one-leg balances like the room's spinning for both of you",
+        "hold matching wall-sits while insisting, completely straight-faced, that you're both fine",
+        "hold matching forearm planks while arguing about who's more sober, no laughing allowed",
+        "hold matching high-knee raises like you're both trying to step over a curb that isn't there",
+        "hold matching squats while each balancing an imaginary drink on one knee",
+        "hold matching overhead arm raises like you're both hailing the same cab",
+        "hold matching toasts, glasses raised, arms locked straight, no lowering",
+        "hold a synchronized deep theatrical bow like you're both taking your final bow of the night"
+      ]
+    }
+  ]
+}

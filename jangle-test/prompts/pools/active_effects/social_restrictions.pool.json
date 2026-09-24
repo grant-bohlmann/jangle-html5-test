@@ -5,13 +5,12 @@
   "tags": [],
   "pool_enabled": true,
   "entries": [
-    "you can only speak to the person on your left",
-    "no direct eye contact with anyone across from you",
+    "you can only speak to the person on your [vw_direction]",
+    "no eye contact with anyone",
     "don't say anyone's name",
-    "anything you want said to the group, whisper it to the person on your right first. They say it for you",
-    "you can only speak directly to one person of your choice",
-    "no acknowledging anyone who speaks to you directly. Respond only through a third party",
-    "you may only speak when spoken to first",
-    "you must get permission from the person on your left before speaking to anyone else"
+    "whisper anything meant for the group to the person on your [vw_direction]. They say it for you",
+    "no acknowledging anyone who speaks to you directly",
+    "you may only speak when spoken to",
+    "get permission from the person on your [vw_direction] before speaking to anyone else"
   ]
 }

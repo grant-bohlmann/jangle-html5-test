@@ -40,7 +40,16 @@
         "has used a dating app in the last month",
         "has a dirty text thread they haven't deleted",
         "has sent a 'you up?' text",
-        "has looked up an ex's new partner on social media"
+        "has looked up an ex's new partner on social media",
+        "has a Snapchat streak going with someone they've never met in person",
+        "has a photo in their camera roll of someone they haven't told this group about",
+        "has more than one dating app installed right now",
+        "has a contact saved under a fake name for a hookup or ex",
+        "has a Hinge, Tinder, or Bumble notification on their lock screen right now",
+        "has an unread text from someone they're into",
+        "has a saved Instagram post that's just a thirst trap",
+        "has watched an ex's Instagram story in the last week",
+        "has a playlist named after a person they're not dating"
       ]
     },
     {
@@ -53,7 +62,14 @@
       "entries": [
         "has texted their ex in the last month",
         "has blocked and unblocked the same person more than once",
-        "has sent a risky text and immediately switched to airplane mode"
+        "has sent a risky text and immediately switched to airplane mode",
+        "has muted a group chat specifically so they can read it without responding",
+        "has apologized in a text for something that happened after midnight",
+        "has a rideshare receipt from a ride that started after midnight",
+        "has a screenshot of a deleted post or story still saved in their camera roll",
+        "has had a low balance or overdraft alert from their banking app this week",
+        "has at least one photo timestamped after 2am from the past week",
+        "has a group chat named after a night out gone wrong"
       ]
     },
     {

@@ -26,7 +26,7 @@
         "bio on any social media profile",
         "last meme you sent",
         "most unappetizing food photo in your camera roll",
-        "last song you listened to (play the first 10 seconds)",
+        "last song you listened to (play the first [Timer, 10])",
         "contact photo for your mom or dad",
         "Siri Suggestions or recent apps screen",
         "most recent notification",
@@ -100,7 +100,20 @@
         "any hidden or secret vault apps",
         "spiciest accounts you follow on TikTok or Instagram",
         "liked videos on TikTok or Instagram (scroll through 10 of them)",
-        "Instagram following list"
+        "Instagram following list",
+        "unsent draft sitting in one of your text threads",
+        "saved voice memo of someone else's voice",
+        "text thread with the most messages exchanged this week",
+        "most recent account you've started following on Instagram",
+        "viewers list on your last Instagram or Snapchat story",
+        "deepest photo you've liked while stalking an ex or crush's Instagram",
+        "photo album or folder in your camera roll named after one specific person",
+        "longest FaceTime or phone call in your recent call list",
+        "Spotify Blend playlist you've made with someone",
+        "note in your Notes app that's just someone's name",
+        "conversation you've left on read the longest",
+        "Screen Time breakdown for the app you open most after midnight",
+        "most recent message you've heart-reacted to"
       ]
     },
     {
@@ -121,7 +134,18 @@
         "Urban Dictionary search history",
         "Venmo or Cash App transaction history (find the most questionable description)",
         "most questionable playlist name on Spotify or Apple Music",
-        "Snapchat Memories from last weekend (find the most chaotic photo)"
+        "Snapchat Memories from last weekend (find the most chaotic photo)",
+        "bank transaction history from your last big night out",
+        "conversation you clearly forgot you were having",
+        "most recent food delivery order placed after midnight",
+        "call log from the night you'd least want played back",
+        "Notes app entry you clearly typed while drunk",
+        "calendar day you blocked off just to recover",
+        "Screen Time total for the day you called in sick",
+        "text thread where you were obviously still drunk",
+        "Google Maps timeline from a night you can't fully account for",
+        "photo you keep specifically as a warning to yourself",
+        "most recent 'insufficient funds' notification or declined transaction"
       ]
     }
   ]

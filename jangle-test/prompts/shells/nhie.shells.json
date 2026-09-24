@@ -6,6 +6,9 @@
       "category_id": "nhie",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "Never have I ever [nhie_actions]. Anyone who has, take [Penalty, 2-3]."
       }
@@ -15,6 +18,9 @@
       "category_id": "nhie",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A], never have I ever [nhie_actions]. If you have, take [Penalty, 2-3]. If not, everyone else takes [Penalty, 1]."
       }
@@ -24,6 +30,9 @@
       "category_id": "nhie",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], never have I ever [nhie_actions]. Reveal at the same time. If you both have, take [Penalty, 2-3]. If only one of you has, that person takes [Penalty, max]."
       }

@@ -19,8 +19,8 @@
         "the pettiest thing they've ever done to someone here",
         "something they've been talking about behind someone's back",
         "the worst rumor they've ever spread",
-        "a secret they've been sitting on that this group deserves to hear",
-        "the most embarrassing thing someone in this room has personally witnessed them do",
+        "a secret they've been sitting on",
+        "the most embarrassing thing someone in this room has witnessed them do",
         "the real reason they were late or bailed on something recently",
         "something they've been faking to impress this group"
       ]
@@ -35,12 +35,22 @@
       "entries": [
         "who in this room they'd consider if they were both single",
         "the boldest move they've ever made on someone they were into",
-        "a secret opinion they have about someone's relationship in this group",
         "the worst text they've ever sent someone they were into",
-        "something they've done with someone here that no one else knows about",
         "the real reason their last relationship actually ended",
         "a romantic red flag they ignored because they liked the attention",
-        "the most embarrassing thing they've ever done to get someone's number"
+        "the flimsiest reason they've ever slept with someone",
+        "the last time they were caught looking at someone a little too long",
+        "the closest they've come to hooking up with someone in this group",
+        "the real number of people they've slept with",
+        "the biggest lie they've told in bed",
+        "the wildest thing they've agreed to in bed",
+        "the most desperate thing they've done to get someone into bed",
+        "how they handled the last time someone turned them down",
+        "the exact reason their last hookup never happened again",
+        "who they've been quietly attracted to for longer than they'd admit",
+        "the most trouble they've ever gotten into over someone they were sleeping with",
+        "the thing they're worst at in bed",
+        "the pettiest reason they've ever turned someone down"
       ]
     },
     {
@@ -52,13 +62,23 @@
       "pool_enabled": true,
       "entries": [
         "the most reckless thing they've done at a party this group was at",
-        "something they did last time they were drunk that no one has brought up since",
+        "something they did drunk that no one's brought up since",
         "the most money they've blown on a single night out",
-        "something they broke or ruined that they never fully owned up to",
+        "something they broke or ruined on a night out and never owned up to",
         "the real story behind their worst hangover this group witnessed",
         "the most out of character thing they've done after one too many",
         "something they got away with by blaming someone else in this room",
-        "the sketchiest thing they've done to get free drinks or entry somewhere"
+        "the sketchiest thing they've done to get free drinks or entry somewhere",
+        "the most people they've ever crammed into a party",
+        "the worst thing they've ever done to dodge a bar tab",
+        "the pettiest thing they've ever shoplifted without a second thought",
+        "the drunkest they've ever gotten in front of exactly the wrong people",
+        "the funniest thing an edible has ever made them announce in public",
+        "the most humiliating way they've ever been cut off by a bartender",
+        "the most chaos they've caused while claiming to be the sober one",
+        "the most money they've ever lost chasing a bet they shouldn't have",
+        "the most disrespectful thing they've ever said to security or the police and gotten away with",
+        "the post they made drunk that got a group chat intervention the next morning"
       ]
     }
   ]

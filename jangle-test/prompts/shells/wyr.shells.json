@@ -6,8 +6,35 @@
       "category_id": "wyr",
       "players": { "min": 3 },
       "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
       "shell_text": {
         "default": "Would you rather [wyr_pairs.a] or [wyr_pairs.b]? Everyone reveal at once. Losing side takes [Penalty, 2-3]."
+      }
+    },
+    {
+      "shell_id": "wyr.majority_rules.v1",
+      "category_id": "wyr",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[binary_choices] Everyone answer at the same time. Minority takes [Penalty, 1-2]."
+      }
+    },
+    {
+      "shell_id": "wyr.hot_take.v1",
+      "category_id": "wyr",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[hot_takes]. Everyone thumbs up or down at the same time. Whoever's in the minority takes [Penalty, 2]. Even split, everyone takes [Penalty, 1]."
       }
     }
   ]

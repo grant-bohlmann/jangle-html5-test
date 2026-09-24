@@ -7,9 +7,9 @@
   ],
   "pool_enabled": true,
   "entries": [
-    "a fire sign (Aries, Leo, or Sagittarius)",
-    "a water sign (Cancer, Scorpio, or Pisces)",
-    "an earth sign (Taurus, Virgo, or Capricorn)",
-    "an air sign (Gemini, Libra, or Aquarius)"
+    "Aries, Leo, or Sagittarius",
+    "Cancer, Scorpio, or Pisces",
+    "Taurus, Virgo, or Capricorn",
+    "Gemini, Libra, or Aquarius"
   ]
 }

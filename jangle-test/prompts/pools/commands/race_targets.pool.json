@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "pool_id": "race_targets",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "race_targets_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "put both hands flat on a table",
+        "put both hands flat on a wall",
+        "put both hands on your head",
+        "put both hands behind your back",
+        "put both hands on your knees",
+        "put a hand on the shoulder of the player to your [vw_direction]",
+        "put one hand on your head and the other on the head of the player to your [vw_direction]",
+        "touch elbows with the player to your [vw_direction]",
+        "link arms with the player to your [vw_direction]",
+        "touch the floor with both palms",
+        "touch your toes",
+        "touch your nose with your pinky",
+        "touch your ear with the opposite hand",
+        "put your hand over your heart",
+        "get your back flat against a wall",
+        "stand up with both arms straight over your head",
+        "sit down on the floor",
+        "drop to one knee"
+      ]
+    },
+    {
+      "pool_id": "race_targets_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "put both hands on a willing player's chest",
+        "put both hands on a willing player's ass",
+        "kiss another player",
+        "put your lips on a willing player's neck",
+        "grab a willing player by the hips",
+        "put a hand on a willing player's thigh",
+        "wrap your arms around a willing player from behind",
+        "sit on a willing player's lap"
+      ]
+    },
+    {
+      "pool_id": "race_targets_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "kiss the floor",
+        "lie face down on the floor",
+        "get on all fours",
+        "stick your nose in the armpit of the player to your [vw_direction]",
+        "lick the back of another player's hand",
+        "put a finger in another player's belly button",
+        "put a bare foot in another player's hands"
+      ]
+    }
+  ]
+}

@@ -87,14 +87,6 @@
       ]
     },
     {
-      "category_id": "physical",
-      "display_name": "Physical Challenges",
-      "description": "Players hold poses, attempt stunts, or go head-to-head. Body on the line.",
-      "tier": "B",
-      "tags": [],
-      "category_enabled": true
-    },
-    {
       "category_id": "mimicry",
       "display_name": "Mimicry",
       "description": "Players impersonate, imitate, and perform on the spot. Commit to the bit or pay up.",
@@ -117,6 +109,15 @@
       "tier": "B",
       "tags": [],
       "category_enabled": true
+    }
+  ],
+  "tag_filters": [
+    {
+      "filter_id": "physical",
+      "tag": "Physical",
+      "display_name": "Physical",
+      "description": "Prompts that get players out of their seats, holding a pose, or hands-on with each other. Switch off in tight spaces or when nobody wants contact.",
+      "pool_dir": "physical"
     }
   ]
 }
