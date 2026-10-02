@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "pool_id": "charades_twists",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "charades_twists_party",
+      "type": "text",
+      "tags": [
+        "Party"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "using only your face",
+        "using only your hands",
+        "in slow motion",
+        "in fast forward",
+        "without moving your feet",
+        "with one hand behind your back",
+        "with your arms glued to your sides",
+        "doing every move twice",
+        "as if you're furious",
+        "as if you're freezing cold",
+        "like a robot",
+        "with big exaggerated movements",
+        "using only tiny movements",
+        "with a completely straight face",
+        "without pointing",
+        "while staring at one person"
+      ]
+    },
+    {
+      "pool_id": "charades_twists_spicy",
+      "type": "text",
+      "tags": [
+        "Spicy"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "as seductively as possible",
+        "with orgasm faces every five seconds",
+        "while flirting with the group",
+        "as if someone's kissing your neck"
+      ]
+    },
+    {
+      "pool_id": "charades_twists_degen",
+      "type": "text",
+      "tags": [
+        "Degen"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "as if you're blackout drunk",
+        "as if you're horribly hungover",
+        "while pretending you're sober",
+        "as if you're completely stoned"
+      ]
+    }
+  ]
+}

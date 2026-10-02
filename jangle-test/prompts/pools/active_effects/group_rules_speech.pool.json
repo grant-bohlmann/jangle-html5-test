@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "pool_id": "group_rules_speech",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "no first names",
+    "no 'um,' 'uh,' 'like,' or 'you know'",
+    "no agreeing out loud",
+    "no interrupting",
+    "half volume only",
+    "no contractions",
+    "no swearing",
+    "no one-word answers",
+    "questions only",
+    "count to three before you speak",
+    "past tense only"
+  ]
+}

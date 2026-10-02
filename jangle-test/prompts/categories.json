@@ -13,7 +13,8 @@
         { "subcategory_id": "letter_game", "display_name": "Letter Game" },
         { "subcategory_id": "chain_game",  "display_name": "Chain Game" },
         { "subcategory_id": "rhyme",       "display_name": "Rhyme" },
-        { "subcategory_id": "duel",        "display_name": "Duel" }
+        { "subcategory_id": "duel",        "display_name": "Duel" },
+        { "subcategory_id": "counting",    "display_name": "Counting Game" }
       ]
     },
     {
@@ -118,6 +119,13 @@
       "display_name": "Physical",
       "description": "Prompts that get players out of their seats, holding a pose, or hands-on with each other. Switch off in tight spaces or when nobody wants contact.",
       "pool_dir": "physical"
+    },
+    {
+      "filter_id": "classics",
+      "tag": "Classic",
+      "display_name": "Drinking Game Classics",
+      "description": "Named drinking games with their own rules, like Buffalo, Thumb Master and Waterfall. Switch off if your group would rather skip them.",
+      "pool_dir": ""
     }
   ]
 }

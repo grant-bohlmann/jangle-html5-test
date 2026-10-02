@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_habits",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "activefx_habits_verbal",
+      "type": "text",
+      "tags": [],
+      "pool_enabled": true,
+      "entries": [
+        "starting every sentence with 'so anyway'",
+        "ending every sentence with 'right'",
+        "adding 'no offense' to every sentence",
+        "clearing your throat before you talk",
+        "humming between sentences",
+        "clicking your tongue before you speak",
+        "sighing before every sentence",
+        "putting 'literally' in every sentence",
+        "trailing off instead of finishing your sentences",
+        "correcting yourself mid-sentence",
+        "mumbling the first word of every sentence",
+        "whispering the last word of every sentence",
+        "giggling after everything you say",
+        "making a kissing sound after every sentence"
+      ]
+    },
+    {
+      "pool_id": "activefx_habits_physical",
+      "type": "text",
+      "tags": [
+        "Physical"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "tugging your ear every time you talk",
+        "drumming your fingers when you aren't talking",
+        "rubbing the back of your neck every time you speak",
+        "shrugging after every sentence",
+        "nodding along with everything you say",
+        "brushing off your shoulder every few seconds",
+        "staring straight up anytime you speak",
+        "rubbing your hands together before you speak",
+        "tilting your head to one side while someone else is talking",
+        "resting your chin on your fist while you talk"
+      ]
+    }
+  ]
+}

@@ -6,13 +6,14 @@
   "pool_enabled": true,
   "entries": [
     { "a": "formally, like a butler", "b": "like a toddler" },
-    { "a": "like a golf announcer, hushed and reverent", "b": "like an auctioneer, fast and loud" },
+    { "a": "like a golf announcer", "b": "like an auctioneer" },
     { "a": "in questions", "b": "in commands" },
-    { "a": "with painful politeness, apologizing for everything", "b": "with brutal bluntness, cushioning nothing" },
-    { "a": "like a true crime narrator building suspense", "b": "like a kids' show host, upbeat about everything" },
-    { "a": "like you're being interviewed for a documentary", "b": "like you're being interrogated by the police" },
-    { "a": "like everything is a huge deal", "b": "like nothing fazes you at all" },
-    { "a": "like a motivational speaker hyping up the room", "b": "like someone deeply unimpressed by all of it" },
-    { "a": "like a weather forecaster, calm and matter-of-fact", "b": "like a sports commentator mid-meltdown" }
+    { "a": "like you're in a library", "b": "like you're at a concert" },
+    { "a": "like a true crime narrator", "b": "like a kids' show host" },
+    { "a": "like a Shakespearean actor", "b": "like a caveman" },
+    { "a": "like you're hyped", "b": "like you're bored" },
+    { "a": "in slow motion", "b": "on fast-forward" },
+    { "a": "sarcastically", "b": "earnestly" },
+    { "a": "like a drill sergeant", "b": "like a meditation guide" }
   ]
 }

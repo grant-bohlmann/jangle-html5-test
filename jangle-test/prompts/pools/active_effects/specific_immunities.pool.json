@@ -5,11 +5,10 @@
   "tags": [],
   "pool_enabled": true,
   "entries": [
-    "you're immune from any penalty another player hands you directly",
-    "you're immune from group-wide penalties. When everyone takes one, you don't",
-    "you're immune from doubled or escalated penalties. They hit you at base value",
-    "you're immune from any penalty bigger than 2",
-    "you're immune from word-ban penalties. Say any banned word freely",
-    "you're immune from any penalty triggered by something you say. Physical and group penalties still apply"
+    "any penalty another player gives you directly",
+    "group-wide penalties",
+    "anything that doubles or raises your penalty",
+    "any penalty bigger than 2",
+    "any penalty triggered by something you say"
   ]
 }

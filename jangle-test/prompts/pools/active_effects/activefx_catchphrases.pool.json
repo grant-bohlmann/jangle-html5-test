@@ -4,21 +4,62 @@
   "type": "text",
   "tags": [],
   "pool_enabled": true,
-  "entries": [
-    "I'll allow it",
-    "That's on me",
-    "Facts",
-    "Not today",
-    "Present",
-    "As expected",
-    "Guilty",
-    "You rang?",
-    "Noted",
-    "Understood",
-    "Moving on",
-    "Fair enough",
-    "I've been summoned",
-    "At your service",
-    "Say my name again"
+  "subpools": [
+    {
+      "pool_id": "activefx_catchphrases_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "I'll allow it",
+        "Not today",
+        "Present",
+        "Guilty",
+        "I've been summoned",
+        "At your service",
+        "Say my name again",
+        "What now",
+        "Speak of the devil",
+        "Talk to my agent",
+        "What did I do",
+        "Who, me"
+      ]
+    },
+    {
+      "pool_id": "activefx_catchphrases_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "Say my name",
+        "Call me daddy",
+        "Call me mommy",
+        "Yes, baby girl",
+        "Yes, baby boy",
+        "Not in front of everyone",
+        "Be gentle",
+        "Careful, I bite",
+        "What are you wearing",
+        "Are you flirting with me"
+      ]
+    },
+    {
+      "pool_id": "activefx_catchphrases_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "Are we taking shots",
+        "Want a drink",
+        "Hold my beer",
+        "Hold on, I'm drunk texting my ex",
+        "Wait, where is my phone",
+        "Wait, is this my drink",
+        "I've only had one",
+        "I love you guys",
+        "Whose idea was this",
+        "Why is the room spinning"
+      ]
+    }
   ]
 }

@@ -4,24 +4,5 @@
   "type": "text",
   "tags": [],
   "pool_enabled": true,
-  "entries": [
-    "no first names",
-    "no 'um,' 'uh,' 'like,' or 'you know'",
-    "no agreeing out loud",
-    "no interrupting",
-    "half volume only",
-    "no contractions",
-    "no swearing",
-    "no laughing out loud",
-    "no one-word answers",
-    "questions only",
-    "count to three before you speak",
-    "no checking your own phone",
-    "no laughing at your own jokes",
-    "hands off your face",
-    "no talking with your hands",
-    "make eye contact with whoever you're talking to",
-    "pass the phone with two hands",
-    "no crossing your arms"
-  ]
+  "subpools": ["group_rules_speech", "group_rules_conduct"]
 }

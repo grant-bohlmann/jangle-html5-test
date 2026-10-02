@@ -4,18 +4,71 @@
   "type": "text",
   "tags": [],
   "pool_enabled": true,
-  "entries": [
-    "bow their head",
-    "say 'I accept my fate'",
-    "knock twice on the nearest solid surface",
-    "stand and salute",
-    "clap once",
-    "give a thumbs up",
-    "place their hand over their heart",
-    "make eye contact with the person to their left",
-    "say their own name out loud",
-    "snap once",
-    "tap their own chest twice",
-    "raise one hand briefly like they're being sworn in"
+  "subpools": [
+    {
+      "pool_id": "activefx_rituals_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "bow their head",
+        "say 'I accept my fate'",
+        "knock on wood twice",
+        "stand and salute",
+        "clap once",
+        "give a thumbs up",
+        "place their hand over their heart",
+        "make eye contact with the person to their [vw_direction]",
+        "say 'for science'",
+        "snap once",
+        "do LeBron's signature chalk toss",
+        "raise one hand like they're being sworn in",
+        "do Usain Bolt's lightning bolt pose",
+        "do their favorite athlete's signature celebration"
+      ]
+    },
+    {
+      "pool_id": "activefx_rituals_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "say 'I've been bad'",
+        "say 'give it to me'",
+        "say 'I like it rough'",
+        "let out a soft moan",
+        "blow a kiss to the person on their [vw_direction]",
+        "run a hand slowly through their hair",
+        "hit on the person to their [vw_direction]",
+        "moan the name of the person to their [vw_direction]",
+        "say 'thank you, may I have another'",
+        "say 'my place or yours'",
+        "say 'I'm not wearing underwear'",
+        "roll their hips",
+        "let out a low growl"
+      ]
+    },
+    {
+      "pool_id": "activefx_rituals_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "say 'one more won't hurt'",
+        "say 'this is a terrible idea'",
+        "say 'Mom would be proud'",
+        "say 'don't tell my doctor'",
+        "say 'here we go again'",
+        "pinch their nose",
+        "say 'I'll need bail money'",
+        "say 'someone hold my hair'",
+        "say 'add it to my tab'",
+        "say 'somebody call me an Uber'",
+        "pound their chest",
+        "slap their own cheeks",
+        "let out a howl",
+        "cover their face with both hands"
+      ]
+    }
   ]
 }

@@ -34,7 +34,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[hot_takes]. Everyone thumbs up or down at the same time. Whoever's in the minority takes [Penalty, 2]. Even split, everyone takes [Penalty, 1]."
+        "default": "[hot_takes]. Everyone thumbs up or down at the same time. Whoever's in the minority takes [Penalty, 2]."
       }
     }
   ]

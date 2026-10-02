@@ -143,6 +143,22 @@
       "shell_text": {
         "default": "[alphabet_topics], A to Z. Each player names one starting with the next letter. If you repeat or can't think of one, take [Penalty, 2-3]. [Player A] starts with A."
       }
+    },
+    {
+      "shell_id": "wordgames.governor.v1",
+      "category_id": "wordgames",
+      "subcategory_id": "counting",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Extended",
+      "play_scaling": "fixed_structure",
+      "play_volatile": true,
+      "shell_text": {
+        "default": "Cheers to the Governor! Count to 21, one number each. Whoever says 21 makes a rule, and everyone takes [Penalty, 1]. Mess up and take [Penalty, 1], then start over. The third 21 ends the game. [Player A] starts."
+      },
+      "how_to_play": {
+        "default": "Count up from 1 around the group, one number each. Whoever says 21 makes a new rule, like clapping instead of saying 7, and everyone yells 'Cheers to the Governor!' and takes a penalty. Start again from 1 with every rule in play until the third 21. Mess up and you take a penalty and start over."
+      }
     }
   ]
 }

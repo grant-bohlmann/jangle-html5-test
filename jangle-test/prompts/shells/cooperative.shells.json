@@ -10,7 +10,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], on three, both name [sync_match_prompts]. Match and you're safe. Different answers and you take [Penalty, 2]."
+        "default": "[Player A] and [Player B], name [sync_match_prompts] at the same time. Different answers and you each take [Penalty, 2]."
       }
     },
     {
@@ -22,7 +22,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], on three, both name [sync_dodge_prompts]. Say the same thing and you take [Penalty, 2]."
+        "default": "[Player A] and [Player B], name [sync_dodge_prompts] at the same time. Say the same thing and you each take [Penalty, 2]."
       }
     },
     {
@@ -34,7 +34,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "On three, everyone shout [sync_mid]. If nobody matches, everyone takes [Penalty, 1]."
+        "default": "Everyone shout [sync_mid] at the same time. If nobody matches, everyone takes [Penalty, 1]."
       }
     },
     {
@@ -46,7 +46,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "On three, everyone shout [sync_large]. If nobody matches, everyone takes [Penalty, 1]."
+        "default": "Everyone shout [sync_large] at the same time. If nobody matches, everyone takes [Penalty, 1]."
       }
     },
     {
@@ -58,7 +58,7 @@
       "play_scaling": "fixed",
       "play_volatile": true,
       "shell_text": {
-        "default": "[Player A] and [Player B], on three, both blurt a word. No match? On the next three, both blurt a word that links the last two. Keep going until you land the same word. Hit 5 rounds without matching and you take [Penalty, 3]."
+        "default": "[Player A] and [Player B], say any word at the same time. Keep going with a word that links the last two until you match. Every miss after the first round, you each take [Penalty, 1]."
       }
     },
     {
@@ -70,7 +70,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], on three, both blurt the first word [wavelength_seeds] brings to mind. No match? Go again on three. Miss twice and you take [Penalty, 1]."
+        "default": "[Player A] and [Player B], think of [wavelength_seeds]. Blurt the first word that comes to mind at the same time. Match in two tries or you each take [Penalty, 2]."
       }
     },
     {
@@ -82,7 +82,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], together you must [coop_tasks]. Pull it off and you're both safe. Fail and you take [Penalty, 2]."
+        "default": "[Player A] and [Player B], together you must [coop_tasks]. Pull it off and you're both safe. Fail and you each take [Penalty, 2]."
       }
     },
     {
@@ -94,7 +94,20 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], you have [Timer, 30] to [coop_tasks_timed] together. Beat the clock and you're both safe. Run out and you take [Penalty, 2]."
+        "default": "[Player A] and [Player B], you have [Timer, 30] to [coop_tasks_timed] together. Beat the clock and you're both safe. Run out and you each take [Penalty, 2]."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "cooperative.coop_rhyme.v1",
+      "category_id": "cooperative",
+      "players": { "min": 2 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A] and [Player B], take turns naming words that rhyme with '[rhyme_starters]'. Get 8 in [Timer, 25] or you each take [Penalty, 2]."
       },
       "timer": "token"
     },
@@ -107,7 +120,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], together you must [coop_tasks_sabotage]. Everyone else, try to break their focus, no touching. Pull it off and everyone else takes [Penalty, 2]. Fail and you take [Penalty, 2]."
+        "default": "[Player A] and [Player B], [coop_tasks_sabotage] while everyone else tries to throw you off. Mess up and you each take [Penalty, 2]. Pull it off and everyone else does."
       }
     },
     {
@@ -116,11 +129,12 @@
       "players": { "min": 3 },
       "tags": [],
       "play_time": "Long",
-      "play_scaling": "rounds",
-      "play_volatile": true,
+      "play_scaling": "timer",
+      "play_volatile": false,
       "shell_text": {
-        "default": "As a group, count out loud to 20. No order, no plan, one number per person at a time. If two people speak at once, everyone takes [Penalty, 2] and starts over."
-      }
+        "default": "As a group, count out loud to 20 in [Timer, 90]. No order, no plan, one number per person at a time. If two people speak at once, everyone takes [Penalty, 1] and starts over. If time runs out, everyone takes [Penalty, 2]."
+      },
+      "timer": "token"
     },
     {
       "shell_id": "cooperative.mirror.v1",
@@ -131,7 +145,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], you lead. [Player B], mirror everything [Player A] does for [Timer, 20]. If [Player B] falls out of sync, both take [Penalty, 2]."
+        "default": "[Player A], you lead. [Player B], mirror everything [Player A] does for [Timer, 20]. Fall out of sync and you take [Penalty, 2-3]."
       },
       "timer": "token"
     },
@@ -144,7 +158,7 @@
       "play_scaling": "linear",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], make a sound and a move. Everyone echoes it back together. If the echo falls apart, everyone takes [Penalty, 1]."
+        "default": "[Player A], make a sound. Everyone echoes it back together. If the echo falls apart, everyone takes [Penalty, 1-2]."
       }
     },
     {
@@ -156,7 +170,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "Everyone has to hold a conversation about [topic] for [Timer, 30] without saying \"[banned_words]\". If anyone slips, everyone takes [Penalty, 1]."
+        "default": "Everyone talk about [contraband_topics] for [Timer, 30] without saying \"[banned_words]\". If anyone slips, everyone takes [Penalty, 1]."
       },
       "timer": "token"
     },
@@ -169,20 +183,21 @@
       "play_scaling": "linear",
       "play_volatile": false,
       "shell_text": {
-        "default": "On three, everyone [group_actions] at the exact same time. If you don't all hit it together, everyone takes [Penalty, 1]."
+        "default": "Everyone [group_actions] at the exact same time. If you aren't in sync, everyone takes [Penalty, 1]."
       }
     },
     {
       "shell_id": "cooperative.blind_lead.v1",
       "category_id": "cooperative",
-      "players": { "min": 2 },
+      "players": { "min": 3 },
       "tags": [],
       "play_time": "Medium",
-      "play_scaling": "fixed",
+      "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], close your eyes. [Player B], talk [Player A] through [blind_lead_tasks] using only your voice. Nail it and you're both safe. Mess it up and you take [Penalty, 2]."
-      }
+        "default": "[Player A], close your eyes. [Player B], using only your voice, talk [Player A] through [blind_lead_tasks] in [Timer, 30]. Mess up or run out of time and you each take [Penalty, 2]."
+      },
+      "timer": "token"
     },
     {
       "shell_id": "cooperative.password.v1",
@@ -193,10 +208,70 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], check your secret and get [Player B] to say it using one-word clues only, no part of the answer. Crack it in [Timer, 30] and everyone else takes [Penalty, 2]. Run out and you take [Penalty, 1]."
+        "default": "[Player A], check the secret and give [Player B] one-word clues without using part of the answer. Crack it in [Timer, 20] and everyone else takes [Penalty, 2]. If not, you each take them."
       },
       "secret_text": {
-        "default": "[Player A], get [Player B] to say '[password_words]'. One-word clues only, no part of the answer."
+        "default": "[Player A], get [Player B] to say '[password_words]'."
+      },
+      "reveal_text": {
+        "default": "The password was '[password_words]'."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "cooperative.password_restricted.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], check the secret and give [Player B] clues without using part of the password or any restricted words. Crack it in [Timer, 30] and everyone else takes [Penalty, 2]. Run out of time or mess up and you each take them instead."
+      },
+      "secret_text": {
+        "default": "[Player A], the password is '[password_restricted.a]'. The restricted words are [password_restricted.b]."
+      },
+      "reveal_text": {
+        "default": "The password was '[password_restricted.a]'. The restricted words were [password_restricted.b]."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "cooperative.password_group.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], check the secret and give one-word clues without using part of the answer. First to guess it in [Timer, 20] gives out [Penalty, 2-3]. If nobody does, you take them."
+      },
+      "secret_text": {
+        "default": "[Player A], get the group to say '[password_words]'."
+      },
+      "reveal_text": {
+        "default": "The password was '[password_words]'."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "cooperative.password_trap.v1",
+      "category_id": "cooperative",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], check the secret and give [Player B] one-word clues to the password. Crack it in [Timer, 30] and everyone else takes [Penalty, 3]. If not, you each take them. If [Player B] says the trap word, you each take [Penalty, max] instead."
+      },
+      "secret_text": {
+        "default": "[Player A], get [Player B] to say '[password_trap_words.a]'. The trap word is '[password_trap_words.b]'."
+      },
+      "reveal_text": {
+        "default": "The password was '[password_trap_words.a]'. The trap word was '[password_trap_words.b]'."
       },
       "timer": "token"
     },
@@ -209,7 +284,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], [coop_poses]. Hold it for [Timer, 15-30]. Either of you drops and you both take [Penalty, 2-3]."
+        "default": "[Player A] and [Player B], [coop_poses]. Hold it for [Timer, 15-30]. If either of you breaks, you each take [Penalty, 2-3]."
       },
       "timer": "token"
     },
@@ -222,19 +297,31 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "On three, everyone throw out 1 to 5 fingers, no talking. Everyone who threw the most common number takes [Penalty, 1]. If nobody matched, you're all safe."
+        "default": "Everyone throw out 1 to 5 fingers at the same time. Everyone who threw the most common number(s) takes [Penalty, 2-3]. If nobody matched, you're all safe."
       }
     },
     {
       "shell_id": "cooperative.number_spread.v1",
       "category_id": "cooperative",
-      "players": { "min": 3 },
+      "players": { "min": 3, "max": 5 },
       "tags": [],
       "play_time": "Medium",
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "On three, everyone throw out 1 to 10 fingers, no talking. The whole group needs to land close. If the highest and the lowest are more than 3 apart, everyone takes [Penalty, 1]."
+        "default": "Everyone throw out 1 to 5 fingers at the same time. The highest unique number gives out [Penalty, 3]. If there isn't one, go again."
+      }
+    },
+    {
+      "shell_id": "cooperative.number_spread_large.v1",
+      "category_id": "cooperative",
+      "players": { "min": 6 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Everyone throw out 1 to 10 fingers at the same time. The highest unique number gives out [Penalty, 3]. If there isn't one, go again."
       }
     },
     {

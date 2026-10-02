@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "pool_id": "activefx_bank_payouts",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "subpools": [
+    {
+      "pool_id": "activefx_bank_payouts_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "take your whole tally now",
+        "take your whole tally, counting each one out loud",
+        "give your whole tally to anyone you choose",
+        "give your whole tally to whoever deserves it most",
+        "split your tally evenly with one other player",
+        "split your tally with one other player however you like",
+        "split your tally evenly across the whole group, yourself included",
+        "split your tally among everyone however you like"
+      ]
+    },
+    {
+      "pool_id": "activefx_bank_payouts_degen",
+      "type": "text",
+      "tags": ["Degen"],
+      "pool_enabled": true,
+      "entries": [
+        "take double your tally",
+        "double your tally and give all of it to anyone you choose",
+        "take your whole tally and pick one other player to take the same amount",
+        "make everyone else take your whole tally",
+        "take your whole tally and make everyone else take the same amount",
+        "double your tally and split it however you like among everyone",
+        "double your tally and split it evenly across the whole group, yourself included",
+        "take half your tally and forget the rest",
+        "play rock paper scissors with one other player, and the loser takes your whole tally",
+        "guess a number from 1 to 5 that one other player is thinking of, or take your whole tally"
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], check your secret and act out what it shows you. No words or sounds. If nobody guesses it in [Timer, 30], take [Penalty, 2]."
+        "default": "[Player A], check the secret action and act it out without using words or sounds. First to guess it in [Timer, 20] gives out [Penalty, 2-3]. If nobody does, you take them."
       },
       "secret_text": {
         "default": "[Player A], act out [silent_scenes]. No words or sounds."
@@ -62,7 +62,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], check your secret and recreate the sound it shows you. If nobody can guess it in [Timer, 30], take [Penalty, 2]."
+        "default": "[Player A], reveal the secret sound and recreate it. First to guess it in [Timer, 20] gives out [Penalty, 2-3]. If nobody does, you take them."
       },
       "secret_text": {
         "default": "[Player A], recreate the sound of [sound_effects]."
@@ -78,7 +78,7 @@
       "play_scaling": "fixed",
       "play_volatile": true,
       "shell_text": {
-        "default": "[Player A], you're [personas.a]. [Player B], you're [personas.b]. Have a conversation about [conversation_topics]. Whoever sells it less takes [Penalty, 3]."
+        "default": "[Player A], you're [personas.a]. [Player B], you're [personas.b]. Have a conversation about [conversation_topics]. Whoever is least convincing takes [Penalty, 3]."
       }
     },
     {
@@ -90,7 +90,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], secretly pick someone in the group and do your best impression of them. If nobody can guess who in [Timer, 30], take [Penalty, 2]."
+        "default": "[Player A], secretly pick someone in the group and do your best impression of them. The group gets one guess after [Timer, 20]. If they're wrong, everyone takes [Penalty, 2]."
       },
       "timer": "token"
     },
@@ -105,6 +105,54 @@
       "shell_text": {
         "default": "[Player A], deliver this line like you mean it. '[theatrical_lines]' Anyone who laughs takes [Penalty, 1]."
       }
+    },
+    {
+      "shell_id": "mimicry.who_am_i.v1",
+      "category_id": "mimicry",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], check the secret impression and do it without saying the name. First to guess who it is in [Timer, 25] gives out [Penalty, 2-3]. If nobody does, you take them."
+      },
+      "secret_text": {
+        "default": "[Player A], do an impression of [personas]. Use your voice and body, but never say the name."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "mimicry.charades_movie.v1",
+      "category_id": "mimicry",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Long",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], check the secret movie and act it out without using words or sounds. First to guess the title in [Timer, 60] gives out [Penalty, 2-3]. If nobody does, you take them."
+      },
+      "secret_text": {
+        "default": "[Player A], act out the movie [movie_titles]. No words or sounds."
+      },
+      "timer": "token"
+    },
+    {
+      "shell_id": "mimicry.charades_twist.v1",
+      "category_id": "mimicry",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Medium",
+      "play_scaling": "timer",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], check the secret action and act it out [charades_twists]. First to guess it in [Timer, 30] gives out [Penalty, 2-3]. If nobody does, you take them."
+      },
+      "secret_text": {
+        "default": "[Player A], act out [silent_scenes]. No words or sounds."
+      },
+      "timer": "token"
     }
   ]
 }

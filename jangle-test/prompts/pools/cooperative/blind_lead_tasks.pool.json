@@ -11,16 +11,15 @@
       "tags": [],
       "pool_enabled": true,
       "entries": [
-        "picking up a specific object nearby",
+        "picking up a cup from the floor",
         "stacking three objects on top of each other",
-        "pointing at every player once without repeating",
-        "placing an object inside another object",
+        "pointing at every player",
+        "putting a phone inside a shoe",
         "pouring a drink without spilling",
         "arranging three objects from left to right by size",
-        "finding and opening an app on the phone",
         "setting a cup down without knocking anything over",
         "finding their own phone in a pile of everyone's phones",
-        "handing a specific item to a specific person"
+        "handing you a cup"
       ]
     },
     {
@@ -31,13 +30,12 @@
       ],
       "pool_enabled": true,
       "entries": [
-        "touching every shoulder around the group in order",
-        "giving a high five to every person in the group",
+        "touching two players' shoulders",
+        "high-fiving two players",
         "walking to the nearest door without bumping into anything",
-        "finding a specific person in the group by touch alone",
-        "putting a hat on a specific person's head",
+        "putting a hat on you",
         "walking in a straight line for 10 steps",
-        "finding a specific piece of furniture and touching it"
+        "finding the nearest chair and touching it"
       ]
     }
   ]

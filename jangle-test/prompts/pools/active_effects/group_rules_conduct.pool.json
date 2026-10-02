@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "pool_id": "group_rules_conduct",
+  "type": "text",
+  "tags": [],
+  "pool_enabled": true,
+  "entries": [
+    "no checking your own phone",
+    "hands off your face",
+    "no talking with your hands",
+    "make eye contact with whoever you're talking to",
+    "pass the phone with two hands",
+    "no crossing your arms",
+    "no laughing out loud",
+    "no laughing at your own jokes",
+    "keep one hand on your head",
+    "no pointing",
+    "no nodding or shaking your head"
+  ]
+}

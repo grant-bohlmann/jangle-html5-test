@@ -198,11 +198,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Everyone, [group_rules] until further notice. Take [Penalty, 1] per slip."
+        "default": "Everyone, [group_rules_speech] until further notice. Take [Penalty, 1] per slip."
       },
       "life_tier": "Medium",
       "closer": {
-        "default": "Everyone, the \"[group_rules]\" rule is lifted."
+        "default": "Everyone, the \"[group_rules_speech]\" rule is lifted."
       }
     },
 
@@ -224,7 +224,7 @@
     },
 
     {
-      "shell_id": "activefx.rule_word_quota.v1",
+      "shell_id": "activefx.rule_word_owner.v1",
       "category_id": "active_effects",
       "players": { "min": 2 },
       "tags": [],
@@ -232,11 +232,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], work '[trigger_words]' into conversation at least once per prompt until further notice. Finish a prompt without saying it and take [Penalty, 1]."
+        "default": "[Player A], you own '[trigger_words]' until further notice. Anyone else who says it takes [Penalty, 1]."
       },
-      "life_tier": "Short",
+      "life_tier": "Medium",
       "closer": {
-        "default": "[Player A], you can drop the '[trigger_words]' quota."
+        "default": "[Player A], you've lost the rights to '[trigger_words]'."
       }
     },
 
@@ -452,11 +452,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], [penalty_ceremonies] before every penalty you take, until further notice. Skip it and the penalty doubles."
+        "default": "[Player A], starting now, [penalty_ceremonies] before every penalty you take. Forget and the penalty doubles."
       },
       "life_tier": "Medium",
       "closer": {
-        "default": "[Player A], your penalties go straight through again."
+        "default": "[Player A], you can take your penalties normally again."
       }
     },
 
@@ -473,7 +473,7 @@
       },
       "life_tier": "Short",
       "closer": {
-        "default": "[Player A], you can laugh and react again."
+        "default": "[Player A], the \"[suppression_targets]\" rule is lifted."
       }
     },
 
@@ -486,28 +486,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Everyone, [group_rules] until further notice. Anyone who slips makes the whole group take [Penalty, 1]."
+        "default": "Everyone, [group_rules_conduct] until further notice. Catch a slip and everyone but you takes [Penalty, 1]."
       },
       "life_tier": "Medium",
       "closer": {
-        "default": "Everyone, the \"[group_rules]\" rule is lifted."
-      }
-    },
-
-    {
-      "shell_id": "activefx.group_hand_head.v1",
-      "category_id": "active_effects",
-      "players": { "min": 3 },
-      "tags": [],
-      "play_time": "Fast",
-      "play_scaling": "fixed",
-      "play_volatile": false,
-      "shell_text": {
-        "default": "Everyone keeps one hand on their head until further notice. Whoever's hand drops makes the whole group take [Penalty, 1]."
-      },
-      "life_tier": "Short",
-      "closer": {
-        "default": "Hands off your heads, everyone."
+        "default": "Everyone, the \"[group_rules_conduct]\" rule is lifted."
       }
     },
 
@@ -520,11 +503,14 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], secretly pick a verbal tic and work it into everything you say. First person to correctly call it out picks someone to take [Penalty, 2]. If nobody's named it when this effect ends, you take [Penalty, 2]."
+        "default": "[Player A], check your secret habit and start doing it. First to guess it gives out [Penalty, max]. Wrong guesses cost [Penalty, 1]."
       },
-      "life_tier": "Long",
+      "secret_text": {
+        "default": "[Player A], your secret habit is [activefx_habits]."
+      },
+      "life_tier": "Medium",
       "closer": {
-        "default": "Time's up, [Player A]. Reveal the tic, and if nobody caught it, take [Penalty, 2]."
+        "default": "[Player A], time's up. The secret habit was [activefx_habits]. If nobody guessed it, take [Penalty, 3]."
       }
     },
 
@@ -537,11 +523,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], before this effect ends, tell one lie in conversation. Get caught and take [Penalty, 2]. Anyone who accuses you wrongly takes [Penalty, 2]. If nobody catches it, hand out [Penalty, 2]."
+        "default": "[Player A], tell one lie in conversation before time's up. Get caught and take [Penalty, 2]. Anyone who accuses you wrongly takes [Penalty, 2]. If nobody catches it, give out [Penalty, 2]."
       },
-      "life_tier": "Long",
+      "life_tier": "Medium",
       "closer": {
-        "default": "Time's up, [Player A]. Own the lie, and if it slid past everyone, hand out [Penalty, 2]."
+        "default": "Time's up, [Player A]. Own the lie, and if it slid past everyone, give out [Penalty, 2]."
       }
     },
 
@@ -554,11 +540,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], every penalty you take is doubled until further notice. The rest of the group stays normal."
+        "default": "[Player A], every penalty you take is doubled until further notice."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], your penalties are back to normal size."
+        "default": "[Player A], your penalties are no longer doubled."
       }
     },
 
@@ -571,9 +557,9 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], every penalty you take is halved, rounded up, until further notice."
+        "default": "[Player A], starting now, every penalty you take is halved, rounded up."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
         "default": "[Player A], your penalties count in full again."
       }
@@ -590,9 +576,9 @@
       "shell_text": {
         "default": "[Player A], every penalty you give out is doubled until further notice."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], your penalties go back to normal size."
+        "default": "[Player A], the penalties you give out are no longer doubled."
       }
     },
 
@@ -605,7 +591,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], any penalty targeting you passes to the person on your left until further notice. They take it instead."
+        "default": "[Player A], starting now, the person on your [vw_direction] takes your penalties."
       },
       "life_tier": "Medium",
       "closer": {
@@ -614,7 +600,7 @@
     },
 
     {
-      "shell_id": "activefx.modifier_shared.v1",
+      "shell_id": "activefx.modifier_pass_named.v1",
       "category_id": "active_effects",
       "players": { "min": 3 },
       "tags": [],
@@ -622,16 +608,16 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], you're linked until further notice. Any penalty either of you takes, you both take."
+        "default": "[Player A], starting now, [Player B] takes your penalties."
       },
       "life_tier": "Medium",
       "closer": {
-        "default": "[Player A] and [Player B], your penalties are your own again."
+        "default": "[Player A], your penalties are yours again. [Player B], you're off the hook."
       }
     },
 
     {
-      "shell_id": "activefx.modifier_next_hits_all.v1",
+      "shell_id": "activefx.modifier_mated.v1",
       "category_id": "active_effects",
       "players": { "min": 3 },
       "tags": [],
@@ -639,11 +625,45 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "The next time anyone takes a penalty, the whole group takes [Penalty, 1] with them. After that, it's back to normal."
+        "default": "[Player A] and [Player B], you are now mated. Whenever one of you takes a penalty, so does the other."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A] and [Player B], it's over between you two. Your penalties are your own again."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_group_share.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Starting now, nobody takes a penalty alone. Everyone must take [Penalty, 1] with them."
       },
       "life_tier": "Medium",
       "closer": {
-        "default": "Penalties stay with whoever earns them now."
+        "default": "Everyone, you're back to taking penalties alone."
+      }
+    },
+
+    {
+      "shell_id": "activefx.modifier_drag_down.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": [],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Starting now, whenever anyone takes a penalty, they pick one other person to drag down with them. That person takes the same penalty."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "No more dragging people down with you."
       }
     },
 
@@ -656,11 +676,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Until further notice, every penalty anyone takes gets added to a pot. When the effect ends, one person is chosen at random and takes the whole pot at once."
+        "default": "Starting now, all penalties go into a pot. Keep a tally. When the pot closes, one lucky player takes them all."
       },
-      "life_tier": "Long",
+      "life_tier": "Medium",
       "closer": {
-        "default": "The pot's closed. Pick a name at random. That person takes the whole thing."
+        "default": "Congratulations, [Player A], the pot's all yours."
       }
     },
 
@@ -675,7 +695,7 @@
       "shell_text": {
         "default": "[Player A], any penalty you give out is at least [Penalty, 3] until further notice, no matter what the prompt says."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
         "default": "[Player A], give out whatever the prompt says again."
       }
@@ -694,7 +714,7 @@
       },
       "life_tier": "Long",
       "closer": {
-        "default": "The curse burns out. Whoever's holding it is back to normal penalties."
+        "default": "The curse burns out. Whoever's holding it takes [Penalty, 2-3]."
       }
     },
 
@@ -707,11 +727,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], you're holding the hot potato. To pass it, [transfer_triggers]. Whoever falls for it takes [Penalty, 1] and becomes the new holder. Holding it when the effect ends costs [Penalty, 4]."
+        "default": "[Player A], you're holding the hot potato. To pass it, [transfer_triggers]. Whoever falls for it takes [Penalty, 1] and holds it next. Whoever's holding it at the end takes [Penalty, 4]."
       },
       "life_tier": "Long",
       "closer": {
-        "default": "Time's up. Whoever's holding the potato takes [Penalty, 4]."
+        "default": "Time's up. Whoever's holding the hot potato takes [Penalty, 4]."
       }
     },
 
@@ -726,26 +746,26 @@
       "shell_text": {
         "default": "[Player A], [escalating_constraints] until further notice. First slip costs [Penalty, 1]. Second costs [Penalty, 2]. Every one after that costs [Penalty, 3]."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], you can talk and move however you want again."
+        "default": "[Player A], you're back to normal."
       }
     },
 
     {
       "shell_id": "activefx.stacker_bank.v1",
       "category_id": "active_effects",
-      "players": { "min": 2 },
+      "players": { "min": 3 },
       "tags": [],
       "play_time": "Instant",
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], every penalty you take is banked until further notice. You don't pay it now. When it lifts, you take it all at once."
+        "default": "[Player A], don't take your penalties until further notice. Keep a running tally instead and wait for instructions."
       },
       "life_tier": "Long",
       "closer": {
-        "default": "[Player A], tally up your bank and take it all now."
+        "default": "[Player A], [activefx_bank_payouts]."
       }
     },
 
@@ -760,9 +780,9 @@
       "shell_text": {
         "default": "All penalties are doubled until further notice."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "Penalties are back to normal for everyone."
+        "default": "All penalties are back to normal."
       }
     },
 
@@ -775,11 +795,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Until further notice, every penalty is at least [Penalty, 3], no matter what."
+        "default": "Starting now, every penalty is at least [Penalty, 3] no matter what."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "Penalties go back to whatever the prompt says."
+        "default": "The minimum is lifted. Penalties are back to whatever they were."
       }
     },
 
@@ -788,11 +808,11 @@
       "category_id": "active_effects",
       "players": { "min": 2 },
       "tags": [],
-      "play_time": "Instant",
+      "play_time": "Fast",
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], you're both speaking in [accents] until further notice. Either of you slips and you both take [Penalty, 1]."
+        "default": "[Player A] and [Player B], starting now, pick up [accents] and keep it. Either of you slips and you both take [Penalty, 1]."
       },
       "life_tier": "Medium",
       "closer": {
@@ -805,11 +825,11 @@
       "category_id": "active_effects",
       "players": { "min": 2 },
       "tags": [],
-      "play_time": "Instant",
+      "play_time": "Fast",
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], you speak only [activefx_opposite_styles.a]. [Player B], you speak only [activefx_opposite_styles.b]. Either of you slips and you both take [Penalty, 1]."
+        "default": "[Player A], starting now, talk [activefx_opposite_styles.a]. [Player B], talk [activefx_opposite_styles.b]. Either of you slips and you both take [Penalty, 1]."
       },
       "life_tier": "Medium",
       "closer": {
@@ -828,7 +848,7 @@
       "shell_text": {
         "default": "[Player A] and [Player B], no laughing until further notice. If either of you laughs, you both take [Penalty, 1]."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
         "default": "[Player A] and [Player B], laugh all you want now."
       }
@@ -845,7 +865,7 @@
       "shell_text": {
         "default": "[Player B], echo the last word of every sentence [Player A] says until further notice. Miss one and you both take [Penalty, 1]."
       },
-      "life_tier": "Short",
+      "life_tier": "Medium",
       "closer": {
         "default": "[Player B], you're done echoing [Player A]."
       }
@@ -860,11 +880,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Everyone, you're [personas] until further notice. Drop it and take [Penalty, 1]."
+        "default": "Starting now, you're all [personas]. Anyone who breaks character takes [Penalty, 1]."
       },
       "life_tier": "Short",
       "closer": {
-        "default": "Everyone, you're no longer [personas]."
+        "default": "You can all stop being [personas]."
       }
     },
 
@@ -877,11 +897,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Everyone picks up [accents] until further notice. Drop it and take [Penalty, 1]."
+        "default": "Starting now, everyone talks in [accents]. Anyone who slips back to their normal voice takes [Penalty, 1]."
       },
       "life_tier": "Short",
       "closer": {
-        "default": "Everyone talks normally again."
+        "default": "You can all talk normally again."
       }
     },
 
@@ -928,11 +948,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], you're immune until further notice. When it lifts, you take [Penalty, max] for the free ride."
+        "default": "[Player A], you're immune from taking penalties until further notice."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], immunity's up. Take [Penalty, max] for the free ride."
+        "default": "[Player A], immunity's up. Take [Penalty, 2] for the free ride."
       }
     },
 
@@ -945,11 +965,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], [speech_constraints] until further notice. Make it to the end clean and hand out [Penalty, 2]. Slip once and take [Penalty, 3], and it's over."
+        "default": "[Player A], [speech_constraints] until further notice. Slip once and take [Penalty, 3]."
       },
       "life_tier": "Medium",
       "closer": {
-        "default": "[Player A], time's up. If you made it clean, hand out [Penalty, 2] to whoever you want."
+        "default": "[Player A], time's up. If you never slipped, give out [Penalty, 2]."
       }
     },
 
@@ -962,11 +982,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], [specific_immunities] until further notice. Everything else still counts."
+        "default": "[Player A], starting now, you're immune from [specific_immunities]. Everything else still counts."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], everything counts again."
+        "default": "[Player A], you're no longer immune."
       }
     },
 
@@ -984,40 +1004,6 @@
       "life_tier": "Medium",
       "closer": {
         "default": "Everyone, the \"[group_rules]\" rule is lifted."
-      }
-    },
-
-    {
-      "shell_id": "activefx.spicy_directed.v1",
-      "category_id": "active_effects",
-      "players": { "min": 3 },
-      "tags": ["Spicy"],
-      "play_time": "Instant",
-      "play_scaling": "fixed",
-      "play_volatile": false,
-      "shell_text": {
-        "default": "[Player A], [spicy_directed_rules] until further notice. Drop the act and take [Penalty, 1]."
-      },
-      "life_tier": "Medium",
-      "closer": {
-        "default": "[Player A], you can drop the act now."
-      }
-    },
-
-    {
-      "shell_id": "activefx.degen_narration.v1",
-      "category_id": "active_effects",
-      "players": { "min": 2 },
-      "tags": ["Degen"],
-      "play_time": "Instant",
-      "play_scaling": "fixed",
-      "play_volatile": false,
-      "shell_text": {
-        "default": "[Player A], [degen_narration_rules] until further notice. Drop the voice and take [Penalty, 1]."
-      },
-      "life_tier": "Medium",
-      "closer": {
-        "default": "[Player A], you can talk normally again."
       }
     },
 
@@ -1041,34 +1027,140 @@
     {
       "shell_id": "activefx.group_buffalo.v1",
       "category_id": "active_effects",
-      "players": { "min": 2 },
-      "tags": ["Degen"],
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
       "play_time": "Instant",
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Buffalo rules until further notice. Drinks stay in your non-dominant hand. Get caught holding yours in your dominant hand and take [Penalty, 1]."
+        "default": "Buffalo rules until further notice. Drink only with your non-dominant hand. Catch someone drinking with their dominant hand and yell 'Buffalo!' They finish their drink. Call it wrong and you finish yours."
       },
-      "life_tier": "Medium",
+      "how_to_play": {
+        "default": "Drink only with your non-dominant hand, so your left if you're right-handed. If you spot someone drinking with their dominant hand, yell 'Buffalo!' and they finish their drink. Yell it at someone who was using their non-dominant hand and you finish yours."
+      },
+      "life_tier": "Long",
       "closer": {
         "default": "Buffalo's off. Drink with either hand."
       }
     },
 
     {
-      "shell_id": "activefx.last_word_always.v1",
+      "shell_id": "activefx.thumb_master.v1",
       "category_id": "active_effects",
       "players": { "min": 3 },
-      "tags": [],
+      "tags": ["Classic"],
       "play_time": "Instant",
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], you get the last word in every exchange until further notice. Let someone else have it and take [Penalty, 1]."
+        "default": "[Player A], you are now the Thumb Master. Whenever you quietly put your thumb on something, everyone copies you. Last one to copy takes [Penalty, 1]."
       },
-      "life_tier": "Medium",
+      "how_to_play": {
+        "default": "The Thumb Master can quietly put a thumb on something, like a wall or their knee, at any moment and as often as they like. When you notice, put your thumb on something too. The last one to copy takes the penalty."
+      },
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], you can let someone else have the last word now."
+        "default": "[Player A], you're no longer the Thumb Master."
+      }
+    },
+
+    {
+      "shell_id": "activefx.freeze_master.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], you are now the Freeze Master. Whenever you freeze without a word, everyone freezes too. Last one still moving takes [Penalty, 1]."
+      },
+      "how_to_play": {
+        "default": "The Freeze Master can freeze in place without a word at any moment, as often as they like. When you notice, freeze too. The last one still moving takes the penalty."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], you're no longer the Freeze Master. Everyone can thaw out."
+      }
+    },
+
+    {
+      "shell_id": "activefx.grenade_master.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], you are now the Grenade Master. Whenever you yell 'Grenade', everyone ducks or takes cover. Last one to react takes [Penalty, 1]."
+      },
+      "how_to_play": {
+        "default": "The Grenade Master can yell 'Grenade' at any moment, as often as they like. When they do, duck or take cover as fast as you can. The last one to react takes the penalty."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], you're out of grenades."
+      }
+    },
+
+    {
+      "shell_id": "activefx.question_master.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], you are now the Question Master. Anyone who answers one of your questions takes [Penalty, 1]. The only safe answer is another question."
+      },
+      "how_to_play": {
+        "default": "Anyone who answers a question from the Question Master takes the penalty, so watch for questions slipped into normal conversation. The only safe answer is a question of your own."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "[Player A], you're no longer the Question Master. Any questions?"
+      }
+    },
+
+    {
+      "shell_id": "activefx.game_of_life.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Starting now, anyone drinking from a can is in the Game of Life. Keep your tab crooked. Get caught with a straight tab and finish your drink."
+      },
+      "how_to_play": {
+        "default": "If you're drinking from a can, twist the tab to the side so it isn't straight, and do the same with every can you open. Anyone who spots a straight tab can call it, and whoever it belongs to finishes their drink. Once you're in, you're in for life."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "Good news, the Game of Life wasn't for life after all. You can straighten your tabs."
+      }
+    },
+
+    {
+      "shell_id": "activefx.little_green_man.v1",
+      "category_id": "active_effects",
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Everyone, a little green man sits on your drink until further notice. Take him off before you drink and put him back after. Forget him and take [Penalty, 1]."
+      },
+      "how_to_play": {
+        "default": "Pretend a little green man sits on top of your drink. Before you drink, lift him off and set him down, then put him back on top when you're done. Anyone who catches you forgetting can call it, and you take the penalty."
+      },
+      "life_tier": "Long",
+      "closer": {
+        "default": "Everyone, your little green men have gone home. Drink however you want."
       }
     },
 
@@ -1081,11 +1173,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], name someone. Until further notice, any penalty aimed at you hits them instead."
+        "default": "[Player A], pick a bodyguard. Starting now, any penalty aimed at you hits them instead."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], nobody's taking your penalties anymore."
+        "default": "[Player A], your bodyguard's off duty. Your penalties are yours again."
       }
     },
 
@@ -1098,11 +1190,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], name a target. Until further notice, every penalty they take, you hand out the same amount to anyone you want."
+        "default": "[Player A], put a bounty on someone. Starting now, every penalty they take, you give out the same amount to anyone you want."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A], your target's penalties are their own again."
+        "default": "[Player A], the bounty's lifted. You're done cashing in."
       }
     },
 
@@ -1117,7 +1209,7 @@
       "shell_text": {
         "default": "[Player A], you don't speak at all until further notice. Break the silence and take [Penalty, 1]."
       },
-      "life_tier": "Short",
+      "life_tier": "Medium",
       "closer": {
         "default": "[Player A], you can talk again."
       }
@@ -1132,11 +1224,11 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], swap positions. That's where you live now. Move back and you both take [Penalty, 1]."
+        "default": "[Player A] and [Player B], swap positions. No going back."
       },
-      "life_tier": "Medium",
+      "life_tier": "Long",
       "closer": {
-        "default": "[Player A] and [Player B], nobody is fixing this."
+        "default": "[Player A] and [Player B], you can swap back now. If either of you already did, you both take [Penalty, max]."
       }
     }
 

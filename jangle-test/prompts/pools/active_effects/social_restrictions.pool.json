@@ -4,13 +4,53 @@
   "type": "text",
   "tags": [],
   "pool_enabled": true,
-  "entries": [
-    "you can only speak to the person on your [vw_direction]",
-    "no eye contact with anyone",
-    "don't say anyone's name",
-    "whisper anything meant for the group to the person on your [vw_direction]. They say it for you",
-    "no acknowledging anyone who speaks to you directly",
-    "you may only speak when spoken to",
-    "get permission from the person on your [vw_direction] before speaking to anyone else"
+  "subpools": [
+    {
+      "pool_id": "social_restrictions_party",
+      "type": "text",
+      "tags": ["Party"],
+      "pool_enabled": true,
+      "entries": [
+        "you can only speak to the person on your [vw_direction]",
+        "no eye contact with anyone",
+        "don't say anyone's name",
+        "have the person on your [vw_direction] say anything meant for the group",
+        "no acknowledging anyone who speaks to you directly",
+        "you may only speak when spoken to",
+        "get permission from the person on your [vw_direction] before speaking to anyone else"
+      ]
+    },
+    {
+      "pool_id": "social_restrictions_spicy",
+      "type": "text",
+      "tags": ["Spicy"],
+      "pool_enabled": true,
+      "entries": [
+        "flirt with anyone who talks to you",
+        "react like they said something dirty whenever anyone says your name",
+        "start every answer to a question with 'is that an invitation'",
+        "whenever you agree with someone, tell them you're dangerously compatible",
+        "compliment the body of whoever you're talking to",
+        "open every conversation with 'wanna get out of here'",
+        "call the person on your [vw_direction] a new pet name every time you talk to them",
+        "say 'about last night' every time you talk to the person on your [vw_direction]",
+        "act jealous whenever the person on your [vw_direction] talks to someone else",
+        "act turned on by everything the person on your [vw_direction] says"
+      ]
+    },
+    {
+      "pool_id": "social_restrictions_spicy_physical",
+      "type": "text",
+      "tags": [
+        "Spicy",
+        "Physical"
+      ],
+      "pool_enabled": true,
+      "entries": [
+        "keep a hand on the arm of whoever you're talking to",
+        "touch hands and linger whenever you hand someone anything",
+        "lean in close to the person on your [vw_direction] whenever you talk to them"
+      ]
+    }
   ]
 }

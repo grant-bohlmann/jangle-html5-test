@@ -89,7 +89,7 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A], point at someone. They take [Penalty, 2], then point at someone else who takes [Penalty, 1]. [chain_framings]"
+        "default": "[Player A], point at someone. They take [Penalty, 2], then point at someone else who takes [Penalty, 1]."
       }
     },
     {
@@ -115,7 +115,20 @@
       "play_scaling": "fixed",
       "play_volatile": false,
       "shell_text": {
-        "default": "Bad news [Player A] and [Player B], you both take [Penalty, 3]. [duo_punchlines]"
+        "default": "Bad news [Player A] and [Player B], you both take [Penalty, 3-5]. [duo_punchlines]"
+      }
+    },
+    {
+      "shell_id": "commands.duo_gag_max.v1",
+      "category_id": "commands",
+      "subcategory_id": "gags",
+      "players": { "min": 2 },
+      "tags": [],
+      "play_time": "Instant",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Really bad news [Player A] and [Player B], you both take [Penalty, max]. [duo_punchlines]"
       }
     },
     {
@@ -427,7 +440,7 @@
       "play_scaling": "timer",
       "play_volatile": false,
       "shell_text": {
-        "default": "[Player A] and [Player B], split [Penalty, 3] however you agree. You have [Timer, 10]. If you can't agree, you both take the full thing."
+        "default": "[Player A] and [Player B], split [Penalty, 3] however you agree. You have [Timer, 10]. If you can't agree, you each take the full thing."
       },
       "timer": "token"
     },
@@ -784,8 +797,7 @@
       "play_volatile": false,
       "shell_text": {
         "default": "[Player A], [stunts]. Fail and take [Penalty, 2-3]."
-      },
-      "timer": "token"
+      }
     },
     {
       "shell_id": "commands.group_trick.v1",
@@ -798,8 +810,7 @@
       "play_volatile": false,
       "shell_text": {
         "default": "Everyone try to [body_tricks]. Anyone who can't takes [Penalty, 2]."
-      },
-      "timer": "token"
+      }
     },
     {
       "shell_id": "commands.duel_hold.v1",
@@ -812,6 +823,118 @@
       "play_volatile": false,
       "shell_text": {
         "default": "[Player A] and [Player B], [duel_holds]. First to drop takes [Penalty, 3-5]."
+      }
+    },
+    {
+      "shell_id": "commands.waterfall.v1",
+      "category_id": "commands",
+      "subcategory_id": "chains",
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
+      "play_time": "Medium",
+      "play_scaling": "linear",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Waterfall! [Player A], start drinking and stop whenever you like. The person on your [vw_direction] joins in as soon as you start, and so on around the group. Nobody stops until the person before them does."
+      },
+      "how_to_play": {
+        "default": "The starter begins drinking, then the person next to them joins in, and so on all the way around the group. Nobody can stop until the person before them has stopped, and the starter can stop whenever they like."
+      }
+    },
+    {
+      "shell_id": "commands.buffalo_intro.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Buffalo! Keep your drink in your non-dominant hand. Anyone holding theirs in their dominant hand takes [Penalty, 2]. Next Buffalo, anyone caught finishes their drink."
+      },
+      "how_to_play": {
+        "default": "Buffalo means your drink stays in your non-dominant hand, so your left if you're right-handed. This first call is a warning, so anyone caught takes the penalty on the card. When Buffalo comes up again, anyone holding their drink in their dominant hand has to finish it."
+      }
+    },
+    {
+      "shell_id": "commands.buffalo_call.v1",
+      "category_id": "commands",
+      "subcategory_id": "filters",
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Buffalo! Anyone holding their drink in their dominant hand has to finish it."
+      },
+      "how_to_play": {
+        "default": "Buffalo is back. Your drink stays in your non-dominant hand, so your left if you're right-handed. Anyone holding their drink in their dominant hand when the card is read has to finish it."
+      }
+    },
+    {
+      "shell_id": "commands.fingers.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Extended",
+      "play_scaling": "elimination",
+      "play_volatile": true,
+      "shell_text": {
+        "default": "Everyone play Fingers! Put a finger on the rim of one cup. Take turns calling how many stay on as everyone keeps or pulls theirs. Call it right and you're safe. Last one left takes [Penalty, 3]. [Player A] starts."
+      },
+      "how_to_play": {
+        "default": "Each turn, everyone puts a finger on the rim of one cup. The caller counts three, two, one and calls how many fingers will be left, and on the call everyone keeps theirs on or pulls it off. Call it right and you're safe and drop out. The next person calls, and the last one left loses."
+      }
+    },
+    {
+      "shell_id": "commands.fingers_cup.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": ["Degen", "Classic"],
+      "play_time": "Extended",
+      "play_scaling": "elimination",
+      "play_volatile": true,
+      "shell_text": {
+        "default": "Fingers! Everyone pour some of your drink in one cup. Take turns calling how many fingers stay on the rim as everyone keeps or pulls theirs. Call it right and you're safe. Last one left drinks the cup. [Player A] starts."
+      },
+      "how_to_play": {
+        "default": "Everyone pours some of their drink into one cup, then puts a finger on its rim. The caller counts three, two, one and calls how many fingers will be left, and on the call everyone keeps theirs on or pulls it off. Call it right and you're safe and drop out. The next person calls, and the last one left drinks the cup."
+      }
+    },
+    {
+      "shell_id": "commands.medusa.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "Everyone play Medusa! Look down, then look up at the same time, straight at someone. If they're looking back at you, you each take [Penalty, 2]."
+      },
+      "how_to_play": {
+        "default": "Everyone looks down. At the same time, everyone looks up straight at one person. If that person is looking right back at you, you've locked eyes and you each take the penalty. If they're looking at someone else, you're safe."
+      }
+    },
+    {
+      "shell_id": "commands.what_are_the_odds.v1",
+      "category_id": "commands",
+      "subcategory_id": "gambles",
+      "players": { "min": 3 },
+      "tags": ["Classic"],
+      "play_time": "Fast",
+      "play_scaling": "fixed",
+      "play_volatile": false,
+      "shell_text": {
+        "default": "[Player A], what are the odds you'll [dares]? You and [Player B] say a number up to 5 at the same time. Match and do it or take [Penalty, max]."
+      },
+      "how_to_play": {
+        "default": "In this version, the odds are always 1 in 5. You and the other person on the card each say a number from 1 to 5 at the same time. If you say the same number, you do the dare or take the penalty."
       }
     }
   ]
